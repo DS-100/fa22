@@ -1,4 +1,4 @@
-## Data 100 Spring 2022 website
+## Data 100 Summer 2022 website
 
 This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of `fa19` with `fa22`).
 

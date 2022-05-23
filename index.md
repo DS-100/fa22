@@ -6,16 +6,20 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/15436/
   edstem_join: https://edstem.org/us/join/TeKcwA
-  faq: https://ds100.org/sp22faq
-currWeekNumber: 14
+  faq: https://ds100.org/su22faq
+currWeekNumber: 1
 ---
 
 # Principles and Techniques of Data Science
 
 {: .mb-2 }
-UC Berkeley, Spring 2022
+UC Berkeley, Summer 2022
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
+
++ The website is still under development. Everything is subject to change until this message is taken down.
+
+<!-- 
 <p>
 <a href="https://berkeley.zoom.us/j/94237360710" class="btn btn-blue">Lecture Zoom</a>
 <a href="https://edstem.org/us/courses/15436/discussion/1021263" class="btn btn-purple">Discussion Sign-Up/Zoom</a>
@@ -41,6 +45,7 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 <br><br>
 
+
 <a name="schedule"></a>
 ## Schedule
 
@@ -48,3 +53,4 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 <a name="week-{{module.weekNumber}}"></a>
 {{ module }}
 {% endfor %}
+-->
