@@ -2,21 +2,26 @@
 title: Week 1
 weekNumber: 1
 days:
-- date: 2022-01-18
+- date: 2022-06-21
   events:
-    ? '**Lecture 1**{: .label .label-lecture } [Course Overview](lecture/lec01)'
-    : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
-    ? '**Weekly Check 1**{: .label .label-proj } [Weekly Check 1](https://forms.gle/ZNAvz4BP3hGfVKWJA) (due Jan 24)'
+    ? '**Lecture 1**{: .label .label-lecture } Course Overview, Sampling and Probability'
+    : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
+    ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun 27)'
+    ? '**Lab 2**{: .label .label-lab } Pandas (due Jun 27)'
     : ''
-- date: 2022-01-20
+- date: 2022-06-22
   events:
-    ? '**Lecture 2**{: .label .label-lecture } [Sampling and Probability](lecture/lec02)'
-    : '[Ch. 2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
-- date: 2022-01-21
+    ? '**Lecture 2**{: .label .label-lecture } Pandas I'
+    : '[Ch. 6.1](https://www.textbook.ds100.org/ch/06/pandas_subsetting.html), [6.5](https://www.textbook.ds100.org/ch/06/pandas_other_reps.html)'
+    ? 'Textbook: [Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)'
+    ? 'Reference: [Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)'
+    : ''
+- date: 2022-06-23
   events:
-    ? '**Discussion 1**{: .label .label-disc } [Intro](https://drive.google.com/file/d/1G-DFAHyEJeJt9s58eYfIaDSAlzRRUV8J/view?usp=drivesdk) ([solutions](https://drive.google.com/file/d/15ScVLva9Xye0iyp6a5cPLYxAMbYMS3XM/view?usp=sharing)) ([recording](https://youtube.com/playlist?list=PLQCcNQgUcDfqstviOsQASBH4PotPoIHxO))'
-    ? '**Lab 1**{: .label .label-lab } [Prerequisite Coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Flab%2Flab01) (due Jan 25)'
-    ? '**Homework 1**{: .label .label-hw } [Intro + Prerequisites](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Fhw%2Fhw01) (due Jan 27)'
+    ? '**Lecture 3**{: .label .label-lecture } Pandas II'
+    : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
+    ? '**Discussion 1**{: .label .label-disc } Sampling and Probability, Pandas'
+    ? '**Homework 1**{: .label .label-hw } Intro + Prerequisites (due Jun 27)'
     : ''
 
 ---

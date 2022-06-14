@@ -51,7 +51,7 @@ While we are working to make this class widely accessible, we currently require 
 
 ## Course Culture
 
-Students taking Data C100/C200 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
+Students taking Data C100 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
 
 ### Be Aware of Your Actions
 
@@ -88,15 +88,16 @@ We are committed to creating a learning environment welcoming of all students th
 
 ## Course Components
 
-Below is a high-level “typical week in the course” for Spring 2022.
+Below is a high-level “typical week in the course” for Summer 2022.
 
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
 | | Office Hours | Office Hours | Office Hours | | 
-| | <span style="color:Green">Live Lecture</span> | | <span style="color:Green">Live Lecture</span> | |
-| | | | | <span style="color:Blue">Discussion Section</span> | 
-| | | | <span style="color:Red">**Homework N due**</span> | <span style="color:Red">**Homework N+1 released**</span> | 
-| | <span style="color:Purple">Lab N Help<br/>**Lab N due**</span> | | | <span style="color:Purple"> **Lab N+1 released**</span> | 
+| <span style="color:Green">Live Lecture</span>| <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | |
+|<span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span>| | | 
+|<span style="color:Red">Homework N released</span> | | | <span style="color:Red">Homework N+1 released</span> | | 
+|<span style="color:Red">**Homework N-1 due**</span>| | |<span style="color:Red">**Homework N due**</span>| |
+|<span style="color:Purple">**Labs N, N+1 released**</span> | | | | <span style="color:Purple"> **Labs N, N+1 released**</span> | 
 | Weekly check due/released | | | | | 
 
 * **All deadlines are subject to change.**
@@ -108,7 +109,7 @@ Below is a high-level “typical week in the course” for Spring 2022.
 <br>
 
 ### Lecture
-There are 2 live lectures per week. You can attend hybrid all semester: in-person or via Zoom as permitted by campus policy. All lecture recordings will also be published within 24 hours of the live recording. 
+There are 4 live lectures per week. Lectures will be entirely on Zoom. All lecture recordings will also be published within 24 hours of the live recording. 
 
 
 <!--

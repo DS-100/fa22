@@ -2,25 +2,32 @@
 title: Week 2
 weekNumber: 2
 days:
-- date: 2022-01-24
+- date: 2022-06-27
   events:
-    ? '**Weekly Check 2**{: .label .label-proj } [Weekly Check 2](https://forms.gle/9dBShKNncZxNb3DJA) (due Jan 31)'
+    ? '**Lecture 4**{: .label .label-lecture } Data Cleaning, EDA'
+    : '[Ch. 8-9](https://www.textbook.ds100.org/ch/08/wrangling_intro.html)'
+    ? '**Lab 3**{: .label .label-lab } Data Cleaning and EDA (due Jul 2)'
+    ? '**Lab 4**{: .label .label-lab } Transformations and KDE (due Jul 2)'
+    ? '**Homework 2**{: .label .label-hw } Food Safety (due Jun 30)'
     : ''
-- date: 2022-01-25
+- date: 2022-06-28
   events:
-    ? '**Lecture 3**{: .label .label-lecture } [Pandas I](lecture/lec03)'
-    : '[Ch. 6.1](https://www.textbook.ds100.org/ch/06/pandas_subsetting.html), [6.5](https://www.textbook.ds100.org/ch/06/pandas_other_reps.html)'
-    ? 'Textbook: [Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)'
-    ? 'Reference: [Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)'
-- date: 2022-01-27
+    ? '**Lecture 5**{: .label .label-lecture } Regex'
+    : '[Ch. 12](https://www.textbook.ds100.org/ch/12/text_intro.html)'
+    ? '**Discussion 2**{: .label .label-disc } Pandas, Data Cleaning'
+    : ''
+- date: 2022-06-29
   events:
-    ? '**Lecture 4**{: .label .label-lecture } [Pandas II](lecture/lec04)'
-    : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
-- date: 2021-01-28
+    ? '**Lecture 6**{: .label .label-lecture } Visualization I'
+    : ''
+    ? 'Textbook: [Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html)'
+    ? 'Textbook: [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)'
+    : ''
+- date: 2021-06-30
   events:
-    ? '**Discussion 2**{: .label .label-disc } [Sampling and Probability, Pandas](https://drive.google.com/file/d/1mFuGnkzAu_knU2c0MHE8LRuXnfhu6kIY/view?usp=sharing) ([code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Fdisc%2Fdisc02)) ([solutions](https://drive.google.com/file/d/1XensuGem7943tF8cfvdA7fCrYcMf1yrJ/view?usp=sharing)) ([recording](https://youtube.com/playlist?list=PLQCcNQgUcDfqlqrU2DOxIio7n2LABbsvV))'
-    ? '**Lab 2**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Flab%2Flab02) (due Feb 1)'
-    ? '**Homework 2**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Fhw%2Fhw02) (due Feb 3)'
-    : ""
+    ? '**Lecture 7**{: .label .label-lecture } Visualization II'
+    : ''
+    ? '**Discussion 3**{: .label .label-disc } Regex, Visualization'
+    ? '**Homework 3**{: .label .label-hw } Tweets (due Jul 4)'
 
 ---

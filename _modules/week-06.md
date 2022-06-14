@@ -2,22 +2,29 @@
 title: Week 6
 weekNumber: 6
 days:
-- date: 2022-02-21
+- date: 2022-07-25
   events:
-    ? '**Weekly Check 6**{: .label .label-proj } [Weekly Check 6](https://forms.gle/7YojMSXvaxgRnE1s8) (due Feb 28)'
+    ? '**Lecture 17**{: .label .label-lecture } SQL I'
+    : '[Ch. 7.1-7.2](https://www.textbook.ds100.org/ch/07/sql_subsetting.html), [7.5](https://www.textbook.ds100.org/ch/07/sql_other_reps.html)'
+    ? '**Lab 10**{: .label .label-lab } SQL (due Jul 30)'
+    ? '**Lab 11**{: .label .label-lab } PCA (due Jul 30)'
+    ? '**Homework 6**{: .label .label-hw } Probability and Estimators (due Jul 28)'
     : ''
-- date: 2022-02-22
+- date: 2022-07-26
   events:
-    ? '**Lecture 11**{: .label .label-lecture } [Ordinary Least Squares (Multiple Linear Regression)](lecture/lec11)'
-    : '[Ch. 15.4](https://www.textbook.ds100.org/ch/15/linear_projection.html?highlight=linear%20projection), [19.1](https://www.textbook.ds100.org/ch/19/mult_model.html)'
-- date: 2022-02-24
-  events:
-    ? '**Midterm**{: .label .label-hw } Midterm 1 (8-10 pm) (No Lecture)'
+    ? '**Lecture 18**{: .label .label-lecture } SQL II'
+    : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
+    ? '**Discussion 9**{: .label .label-disc } SQL'
     : ''
-- date: 2021-02-25
+- date: 2022-07-27
   events:
-    ? '**Discussion 6**{: .label .label-disc } [Ordinary Least Squares](https://drive.google.com/file/d/141Ydoj96YrHZXCqVAmbYlz90o_vjoAu2/view?usp=sharing) ([solutions](https://drive.google.com/file/d/1q0Oa4jm3z87ggwzajYMl7lK3i4u1JBzQ/view?usp=sharing)) ([recording](https://youtube.com/playlist?list=PLQCcNQgUcDfpZ8LjL_ae-d0llAsv3PedY))'
-    ? '**Lab 6**{: .label .label-lab } [Ordinary Least Squares](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&branch=main&urlpath=lab%2Ftree%2Fsp22%2Flab%2Flab06%2Flab06.ipynb) (due Mar 1)'
-    : ""
+    ? '**Lecture 19**{: .label .label-lecture } PCA'
+    : '[Ch. 26](https://www.textbook.ds100.org/ch/26/pca_intro.html)'
+- date: 2021-07-28
+  events:
+    ? 'Break (No Lecture)'
+    ? '**Discussion 10**{: .label .label-disc } PCA'
+    ? '**Homework 7**{: .label .label-hw } SQL and PCA (due Aug 1)'
+    : ''
 
 ---

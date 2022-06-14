@@ -45,7 +45,7 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 <br><br>
 
-
+-->
 <a name="schedule"></a>
 ## Schedule
 
@@ -53,4 +53,3 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 <a name="week-{{module.weekNumber}}"></a>
 {{ module }}
 {% endfor %}
--->
