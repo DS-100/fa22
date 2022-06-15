@@ -6,8 +6,8 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    edstem: https://edstem.org/us/courses/15436/
-    faq: https://ds100.org/sp22faq
+    edstem: https://edstem.org/us/courses/23165
+    faq: https://ds100.org/su22faq
     bcourses: ""
     head_ta: Andrew Lenz
     head_email: andrew.lenz@berkeley.edu
@@ -41,7 +41,7 @@ Combining data, computation, and inferential thinking, data science is redefinin
 <a name = 'prerequisites'></a>
 ### Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Unlike past semesters, prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should contact CDSS at <a href="https://data.berkeley.edu/academics/data-science-undergraduate-studies/courses/spring-2022-classes">https://data.berkeley.edu/academics/data-science-undergraduate-studies/courses/spring-2022-classes</a> to request an exception.
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should fill out the [Enrollment exception form](https://forms.gle/tM7ThCxRwmm9Ngnc6) managed by CDSS to request an exception.
 
 - **Foundations of Data Science**: [Data 8](http://data8.org) covers much of the material in Data 100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
 - **Computing**: _The Structure and Interpretation of Computer Programs_ ([CS 61A](http://cs61a.org)) or _Computational Structures in Data Science_ ([CS 88](https://cs88-website.github.io)). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
@@ -92,17 +92,15 @@ Below is a high-level “typical week in the course” for Summer 2022.
 
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
-| | Office Hours | Office Hours | Office Hours | | 
+| Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | <span style="color:Green">Live Lecture</span>| <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | |
 |<span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span>| | | 
 |<span style="color:Red">Homework N released</span> | | | <span style="color:Red">Homework N+1 released</span> | | 
 |<span style="color:Red">**Homework N-1 due**</span>| | |<span style="color:Red">**Homework N due**</span>| |
-|<span style="color:Purple">**Labs N, N+1 released**</span> | | | | <span style="color:Purple"> **Labs N, N+1 released**</span> | 
+|(Sunday) <span style="color:Purple">**Labs N, N+1 released**</span> | | | | (Saturday) <span style="color:Purple"> **Labs N, N+1 due**</span> | 
 | Weekly check due/released | | | | | 
 
 * **All deadlines are subject to change.**
-* **Note: In-person meetings are fully dependent on public health guidelines. We are prepared to hold all course activities online should circumstances demand.**
-* If you have COVID symptoms, please do not attend in-person activities. Instead, please keep up with the class using the online or asynchronous modes of participation (Zoom, EdStem).
 * Office Hours are scheduled on the [Calendar page](../calendar). 
 * Lectures, discussions, assignments, projects, and exams are scheduled on the [Home page](../).
 
@@ -117,23 +115,22 @@ We will have some guest speakers this term, on topics including Human Context an
 -->
 
 ### Discussion
-Live discussion sections are on Fridays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
+Live discussion sections are on Tuesdays and Thursdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
 
 - **You must be assigned to a discussion section, even if you don't intend on regularly attending.**
 - To encourage attendance and participation in live discussion, you have the option to have discussion attendance contribute to your overall course grade. See [Policies](#policies) below for more details.
-- Discussion sign-ups will be released the first week of class through Signup Genius: [Ed post](https://edstem.org/us/courses/15436/discussion/1021263). Attendance points will only be given for the section you are assigned to.
-- **You can switch sections via the sign-up form through the end of the 3rd week, Friday 2/24/2022.** From the 4th week onwards, your section will be locked in for the rest of the semester.  Due to room restrictions, you may not attend an in-person section that you were not assigned to; there is no such restriction on online sections. However, you must still attend the section you are assigned to.
-- In a typical week, we will release the discussion worksheet on Friday morning and solutions on Saturday. We are still receiving guidance as to whether we can provide physical handouts during in-person discussions. 
-- **Spring 2022**: All students will receive credit for Discussion 11.
+- Discussion sign-ups will be released the first week of class through a Google Form. Attendance points will only be given for the section you are assigned to.
+- If you are assigned to a discussion section that does not work for you, please request a switch using the form posted on Ed. **You can switch sections before the 2nd section, Tuesday 6/28/2022.** From the 2nd week onwards, your section will be locked in for the rest of the summer.  
+- In a typical week, we will release the discussion worksheet on Tuesday and Thursday mornings and solutions the day after.
 <!--- We will release discussion recordings or walkthroughs the week after the discussion.-->
 
 ### Homework and Projects
 
-Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture.
+Homeworks are half-week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture.
 
-Projects: Projects are two-week long assignments that synthesize multiple topics.
+Projects: Projects are week-long assignments that synthesize multiple topics.
 
-- In a typical week, the homework (or project) is released Friday through DataHub and is due the following Thursday at 11:59PM Pacific through **Gradescope** (updated 1/26). One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks. See the [Policies](#policies) section for grading details.
+- In a typical week, one homework (or project) is released Monday through DataHub and is due the same Thursday at 11:59PM Pacific Time through Gradescope; the next homework is released Thursday and due the following Monday. One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks. See the [Policies](#policies) section for grading details.
 <!-- - Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment. -->
 - Homeworks and projects have both visible and hidden autograder tests. The visible tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.
 - The primary form of support students will have for homeworks and projects are the **office hours** we’ll host, and **Ed**.
@@ -143,17 +140,17 @@ Projects: Projects are two-week long assignments that synthesize multiple topics
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
 
-- In a typical week, the lab is released on Friday through DataHub and is due the following Tuesday at 11:59PM through **Gradescope** (updated 1/26).
+- In a typical week, two labs are released on Sunday through DataHub and are due next Saturday at 11:59PM through Gradescope.
 - All lab autograder tests are visible.
+- We recommend doing the first lab after Tuesday's lecture and the second lab after Thursday's lecture.
 - In lieu of official lab sections, we will be helping with lab in several ways:
-    - Lab walkthroughs, which are recorded videos posted as part of the lab.
-    - Lab Help Sections, which are Tuesday office hours that prioritize lab debugging and questions. See the [Calendar](../calendar) and our [Office Hours](#office-hours) for more details.
+    - Lab Help Sections, which are office hours that prioritize lab debugging and questions. See the [Calendar](../calendar) and our [Office Hours](#office-hours) for more details.
     - EdStem.
 - All labs are intended to take about an hour. You can therefore think of Lab Help Sections as lab sections, where attendance is not required nor expected to complete the lab. The best place to get individual help with lab is Lab Help Sections.
 
 ### Office Hours and Communication
 
-The office hours and locations are listed on the [Calendar](../calendar); office hours will be held both virtually and in-person. Instructor office hours are also listed on the calendar. **To adhere to public health guidelines, we ask that students leave the OH room after their questions have been answered**.
+The office hours and locations are listed on the [Calendar](../calendar); office hours will be held both virtually and in-person. Instructor office hours are also listed on the calendar.
 
 In general, students can come to office hours for any questions on course assignments or material. Note that events labeled Lab Help Sections will prioritize lab debugging and questions, after which other questions can be addressed.
 
@@ -161,13 +158,13 @@ Virtual OH can be accessed via [oh.ds100.org](https://oh.ds100.org/), where stud
 <!-- where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff. -->
 <!-- - We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar). -->
 
-**EdStem**, or **Ed** for short, is our course forum this quarter. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ](page.course.faq) page first before emailing instructors. 
+**EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ](page.course.faq) page first before emailing instructors. 
 
 **Staff email**:
-You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the instructors will get back to you. Note that to ensure more timely responses, this address is monitored by the team of the two lead instructors (Josh Hug and Lisa Yan) the Head TA ({{page.course.head_ta}}), as well as several lead GSIs, to ensure more timely responses. You can contact Josh and Lisa directly for matters that require strict privacy and their direct attention.
+You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the instructors will get back to you. Note that to ensure more timely responses, this address is monitored by the two instructors (Anirudhan and Dominic), as well as several lead GSIs, to ensure more timely responses. You can contact Anirudhan and Dominic directly for matters that require strict privacy and their direct attention.
 
 ### Weekly Checks
-While lecture and discussion section attendance is not required, nor even expected, we do expect you to stay up to date with material. To help us keep track of your progress and sentiment about the course, there will be 14 weekly surveys due on Mondays at 11:59 PM Pacific. Weekly check-ins are submitted via Google Form, and links will be provided on the [Home page](../) each week. Weekly Checks are graded on completion, not correctness.
+While lecture and discussion section attendance is not required, we do expect you to stay up to date with material. To help us keep track of your progress and sentiment about the course, there will be 8 weekly surveys due on Mondays at 11:59 PM Pacific Time. They contain questions asking for your feedback, as well as facts that we mentioned in lectures. Weekly check-ins are submitted via Google Form, and links will be provided on the [Home page](../) each week.
 
 <!--
 Quick Checks, as mentioned above, are short conceptual questions embedded into each lecture, in the form of Google Forms. **Quick Checks are not graded.** These are meant for you to check your understanding of the concepts that were just introduced.
@@ -177,68 +174,70 @@ Since there are roughly 26 lectures, there are roughly 26 Quick Checks, each of 
 That is, your score on them does not matter, you just need to do them. For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Google Forms for that lecture. These are due the Monday after the lecture is released. (Though we will assign grades using Gradescope, we will also collect emails on the Google Forms themselves.)
 -->
 
-<br>
+
 
 ### Exams
 
-There will be three exams in this course:
-* Midterm 1 on **Thursday, February 24** (7-9PM Pacific)
-* Midterm 2 on **Thursday, April 7** (7-8:30PM Pacific). Note the shorter exam time period.
-* Final exam during our scheduled slot, **Friday, May 13, 7-10pm Pacific**.
+There will be two exams in this course:
+* Midterm on **Monday, July 18**. Time TBD.
+* Final on **Friday, August 12**. Time TBD.
 
-- We are still deciding proctoring format, but we will primarily have in-person exams with the option for virtual exams. Alternate exam times will be provided for all exams for pre-approved reasons, such as a concurrent final exam. If you miss an exam due to a personal emergency or illness, please email the Head TA {{page.course.head_ta}} at [{{page.course.head_email}}]({{page.course.head_email}}) immediately.<!--The exam will be primarily virtual and zoom proctored, following campus guidelines. We will have the option to be proctored in-person, but you will still be completing the exam online (just being in-person proctored instead of zoom proctored). In-person spots will be given on a case by case basis by only those who necessarily need it (form coming soon).-->
-- In the first few weeks of the semester, we will be releasing forms for exam options on EdStem so that you can let us know of your conflicts (for both midterms and the final).
-- DSP students will be offered the option for on-campus exams as per their accommodations.
+- Alternate exam times will be offered for the midterm and final, and the form to request the alternate will be posted on Ed soon after the start of class. The alternate exams will likely be on the same day but different time. The primary purpose of the alternate exam is to accommodate students in different timezones, but students with documented conflicts and unique personal circumstances may also be approved to take the alternate exam.
 
 <!--
 Two time options will be offered to cover various timezones. No further alternates will be offered.
 -->
 
-### Graduate Final Project
-All students enrolled in the graduate version of the course (CS C200 or Stat C200C, i.e. Data 200) will be graded according to the Graduate grading scheme, which includes a graduate final project. More details to follow.
-
-<br/>
-<br/>
 
 
 ## Policies
 
-### Grading Scheme
+ **Grading Scheme**
 
-|Category | Data C100 | Data C200 | Details |
+| Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 22.5% | 20% | Drop lowest 2 scores |
-| Labs      | 10% | 5% <br/>(or 0%, lab opt-out)| Drop lowest 3 scores |
-| Projects  | 15% | 10% <br/>(or 15%, lab opt-out)| 
-| Midterms  | 25% | 25% | Midterm 1: 15%<br/>Midterm 2: 10% |
-| Final     | 25% | 25% | |
-| Weekly Check | 2.5% |  - | Drop lowest 4 scores|
-| Final Graduate Project | -  | 15% ||
+| Homeworks | 20% |  |
+| Projects | 10% | |
+| Labs | 10% | Drop 3 lowest scores |
+| Weekly Checks | 5% | Drop 2 lowest scores|
 
-**Optional attendance grading:** For both graduate and undergraduates, you may substitute part of your Homework grade with Discussion attendance throughout the semester: Discussion attendance and homework will be 5% and 17.5%, respectively, of the overall grade. When calculating your overall grade at the end of the semester, we will automatically determine your homework grade as the maximum of your homework grade with and without attendance. Attending 11 of the 14 scheduled discussions is considered full attendance credit (i.e., there are 3 drops).
+The remaining 55% of your grade will be the maximum of two scores. You do not need to explicitly select one or the other—we will automatically determine the maximum for you.
 
-**Grad lab opt-out**: When calculating your overall grade at the end of the semester, we will automatically take the max of your grade with and without labs. 
+| Category | Weight | Details |
+| --- | --- | --- |
+| Discussion Score | 10% | 12, with 2 drops |
+| Midterm Exam | 20% | |
+| Final Exam | 25% | |
+
+| Category | Weight | Details |
+| --- | --- | --- |
+| Discussion Score | 0% | |
+| Midterm Exam | 25% | |
+| Final Exam | 30% | |
+
+Your discussion score is the average of your scores for each individual discussion. Each discussion will be graded on a 0/1 basis. As of now, that one point will be determined based on attendance—if you attend a discussion section, you will receive the point for that discussion section. However, we reserve the right to increase the threshold to earn this point, for example, by requiring some form of participation. Note that cameras are encouraged, but are **NOT** required in discussion section.
+
 
 <br>
 
 
 ### Late Policy
 
-All assignments are due at 11:59 pm Pacific on the due date specified on the syllabus. 
+All assignments are due at 11:59 PM Pacific Time on the due date specified on the syllabus. 
 
-**Homeworks, labs, and weekly checks will not be accepted late.** 
-Google Forms (weekly checks) will promptly close after the deadline.
-Gradescope (labs and homeworks) may allow you to make late submissions, but you will later be given a 0. 
+You have a **total** of **7** slip days that you can apply to your semester's assignments (homeworks, projects, labs, and weekly checks). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over 7. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
 
-**Projects** are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+**Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
-**Extensions** are only provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}}) to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+<!--
+{{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}}) 
+-->
 
 Note that extension requests will *not* be granted in cases where a student’s local (DataHub) tests are not passing. It is the student’s responsibility to solve such problems in advance of the deadline.
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form [here](https://forms.gle/hD8DR4iaQWTBY7uv9). The deadline for regrade requests (autograded and written) is one week after grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after grades are released for the corresponding assignment.
 
 **Always check that the autograder executes correctly!** Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on EdStem _as soon as possible_.
 
