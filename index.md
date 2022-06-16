@@ -4,8 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-  edstem: https://edstem.org/us/courses/15436/
-  edstem_join: https://edstem.org/us/join/TeKcwA
+  edstem: https://edstem.org/us/courses/23165
   faq: https://ds100.org/su22faq
 currWeekNumber: 1
 ---
@@ -17,15 +16,13 @@ UC Berkeley, Summer 2022
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-+ The website is still under development. Everything is subject to change until this message is taken down.
-
 <!-- 
 <p>
 <a href="https://berkeley.zoom.us/j/94237360710" class="btn btn-blue">Lecture Zoom</a>
 <a href="https://edstem.org/us/courses/15436/discussion/1021263" class="btn btn-purple">Discussion Sign-Up/Zoom</a>
 <a href="{{site.baseurl}}/calendar" class="btn btn-green">Office Hour/Lab Help</a>
 </p>
-
+-->
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
@@ -35,6 +32,12 @@ UC Berkeley, Summer 2022
 </div>
 </div>
 
++ **Frequently Asked Questions:** Before posting on the [class Ed]({{page.course.edstem}}), please read the [class FAQ page]({{page.course.faq}}).
++ The [Syllabus]({{site.baseurl}}/syllabus) contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.
++ Textbook readings are optional and actively in development. See the [Resources]({{site.baseurl}}/resources/#textbook) for more details.
++ **Note:** The schedule of lectures and assignments is subject to change.
+
+<!--
 Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 + Lecture is hybrid: in-person in Li Ka Shing 245 and online via Zoom (see link above). Recordings will be posted within 12 hours of live lecture.
@@ -44,8 +47,8 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 + **Note:** The schedule of lectures and assignments is subject to change.
 
 <br><br>
-
 -->
+
 <a name="schedule"></a>
 ## Schedule
 

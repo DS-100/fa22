@@ -2,7 +2,7 @@
 name: Vasanth Madhavan
 role: Teaching Assistant
 email: vasanth.madhavan@berkeley.edu
-website: https://www.linkedin.com/in/fgeng/
+website: 
 photo: http://ds100.org/su22/resources/assets/staff_pics/Vasanth_Madhavan.png
 pronouns: he/him/his
 ---

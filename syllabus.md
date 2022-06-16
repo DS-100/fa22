@@ -205,7 +205,7 @@ The remaining 55% of your grade will be the maximum of two scores. You do not ne
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Discussion Score | 10% | 12, with 2 drops |
+| Discussion Score | 10% | 12, with 3 drops |
 | Midterm Exam | 20% | |
 | Final Exam | 25% | |
 
