@@ -2,7 +2,7 @@
 name: Siddhant Satapathy
 role: Teaching Assistant
 email: sidsata@berkeley.edu
-website: 
+website: https://sidsata.github.io/
 photo: http://ds100.org/su22/resources/assets/staff_pics/Siddhant_Satapathy.jpg
 pronouns: he/him/his
 ---

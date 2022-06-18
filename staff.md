@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
+Jump to [Instructors](#inst), [Teaching Assistants](#tas), [Tutors](#tutors), or [Readers](#readers)
 
 **Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours for each GSI.
 
@@ -39,6 +39,18 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), or [Tutors](#tutors)
 
 <div class="role">
   {% assign readers = site.staffers | where: 'role', 'Tutor' %}
+  {% for staffer in readers %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+
+
+<a name = 'readers'></a>
+
+## Readers
+
+<div class="role">
+  {% assign readers = site.staffers | where: 'role', 'Reader' %}
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
