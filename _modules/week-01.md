@@ -4,7 +4,7 @@ weekNumber: 1
 days:
 - date: 2022-06-21
   events:
-    ? '**Lecture 1**{: .label .label-lecture } Course Overview, Sampling and Probability'
+    ? '**Lecture 1**{: .label .label-lecture } [Course Overview, Sampling and Probability](lecture/lec01)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
     ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun 27)'
     ? '**Lab 2**{: .label .label-lab } Pandas (due Jun 27)'

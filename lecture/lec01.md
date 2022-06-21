@@ -4,16 +4,14 @@ title: Lecture 1 – Course Overview
 nav_exclude: true
 ---
 
-# Lecture 1 – Course Overview
+# Lecture 1 – Course Overview, Sampling and Probability
 
-Presented by Josh Hug and Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, and Sam Lau
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1qYtBrllmWNvydDMs9F311S9UwjqUt4I_yNZ0P4yXA54/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec01){:target="_blank"} ([launch](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp22&urlpath=tree/sp22/lec/lec01/lec01.ipynb&branch=main))
-- [code HTML](../../resources/assets/lectures/lec01/lec01.html){:target="_blank"}
-- [recording](https://youtu.be/zv41ooawXlA){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1MdVFqezBXRqKbjgmh_rAj1AGx12PoJlixhdygjoIzjQ/edit?usp=sharing){:target="_blank"}
+- recording
 
 <!-- ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa21&subPath=lec/lec01/&branch=main))
 - [video playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfqqdzogA5zgyA00cOMeMMMR)
