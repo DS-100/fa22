@@ -7,9 +7,8 @@ days:
     ? '**Lecture 1**{: .label .label-lecture } Course Overview, Sampling and Probability'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
     ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun 27)'
-    : 'Solution'
     ? '**Lab 2**{: .label .label-lab } Pandas (due Jun 27)'
-    : 'Solution'
+    : ''
 - date: 2022-06-22
   events:
     ? '**Lecture 2**{: .label .label-lecture } Pandas I'
@@ -22,9 +21,8 @@ days:
     ? '**Lecture 3**{: .label .label-lecture } Pandas II'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
     ? '**Discussion 1**{: .label .label-disc } Sampling and Probability, Pandas'
-    : 'Solution'
     ? '**Homework 1**{: .label .label-hw } Intro + Prerequisites (due Jun 27)'
-    : 'Solution'
+    : ''
 
 ---
 <!-- [Intro + Prerequisites](https://ds100.org/fa21/resources/assets/hw/hw1.pdf) -->
