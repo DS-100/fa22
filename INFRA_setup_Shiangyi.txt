@@ -1,0 +1,69 @@
+DATA 100 INFRA set up:
+
+git clone https://github.com/DS-100/su22.git
+cd su22
+git checkout gh-pages
+git pull
+cat README.md 
+
+# unpdate homebrew to install some unsinstall requirements for rvm
+git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask fetch --unshallow
+brew install gpg2
+brew install curl
+
+# install RVM with ruby 3.0.0 (not 2.2.0 as specified in README, we'll see if this works...)
+gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+\curl -sSL https://get.rvm.io | bash -s stable --rails
+source /Users/shiangyilin/.rvm/scripts/rvm
+
+# what you will do if you install ruby 2.2.0 correctly
+rvm install 2.2.0
+rvm use 2.2.0
+
+# it doesn't install cleanly and I got an error
+"Error running 'env GEM_HOME=/Users/shiangyilin/.rvm/gems/ruby-2.2.0@global GEM_PATH= /Users/shiangyilin/.rvm/rubies/ruby-2.2.0/bin/ruby -d /Users/shiangyilin/.rvm/src/rubygems-3.0.9/setup.rb --no-document',
+please read /Users/shiangyilin/.rvm/log/1655511951_ruby-2.2.0/rubygems.install.log"
+
+# one workaround found on github rvm issue: https://github.com/rvm/rvm/issues/4607 (defaul gem is version 3.0.9)
+rvm pkg install openssl
+rvm remove 3.0.0
+rvm remove 2.2.0
+rvm install 2.2.0 --with-openssl-dir=$HOME/.rvm/usr
+
+git clone https://github.com/DS-100/DS-100.github.io
+cd DS-100.github.io/
+gem install bundler
+bundle install
+
+# so ruby 2.2.0 won't work with the bundle version we need, reinstall ruby 2.3.0
+rvm install 2.3.0 --with-openssl-dir=$HOME/.rvm/usr
+rvm use 2.3.0
+
+#try again
+gem install bundler
+bundle install
+jekyll serve
+
+
+To summarize this should work:
+git clone https://github.com/DS-100/su22.git
+cd su22
+git checkout gh-pages
+git pull
+#cat README.md 
+git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask fetch --unshallow
+brew install gpg2
+brew install curl
+gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+\curl -sSL https://get.rvm.io | bash -s stable
+source /Users/shiangyilin/.rvm/scripts/rvm
+rvm pkg install openssl
+rvm install 2.3.0 --with-openssl-dir=$HOME/.rvm/usr
+git clone https://github.com/DS-100/DS-100.github.io
+cd DS-100.github.io/
+gem install bundler
+bundle install
+jekyll serve
+#bundle exec jekyll serve
+#follower server address printed: http://127.0.0.1:4000 in my case
+
