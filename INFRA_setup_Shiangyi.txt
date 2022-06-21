@@ -65,5 +65,5 @@ gem install bundler
 bundle install
 jekyll serve
 #bundle exec jekyll serve
-#go to http://localhost:4000
+#follower server address printed: http://127.0.0.1:4000 in my case
 

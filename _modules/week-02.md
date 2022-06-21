@@ -28,6 +28,6 @@ days:
     ? '**Lecture 7**{: .label .label-lecture } Visualization II'
     : '[Ch. 11.4-11.6](https://www.textbook.ds100.org/ch/11/viz_plotly.html)'
     ? '**Discussion 3**{: .label .label-disc } Regex, Visualization'
-    ? '**Homework 3**{: .label .label-hw } Tweets (due Jul 4)'
+    ? '**Homework 3**{: .label .label-hw } Tweets (due Jul 5)'
 
 ---
