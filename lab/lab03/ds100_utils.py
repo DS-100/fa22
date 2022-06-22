@@ -1,6 +1,12 @@
 import requests
 from pathlib import Path
-import time 
+import time
+
+def download_lab3_data():
+    data_dir = 'data'
+    data_url = 'http://www.ds100.org/sp22/resources/assets/datasets/lab03_data_sp22.zip'
+    file_name = 'lab03_data_sp22.zip'
+    return fetch_and_cache(data_url=data_url, file=file_name, data_dir=data_dir)
 
 def fetch_and_cache(data_url, file, data_dir="data", force=False):
     """
@@ -34,6 +40,8 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
         print("Using cached version that was downloaded (UTC):", last_modified_time)
     return file_path
     ### END SOLUTION
+    
+
     
 
 def head(filename, lines=5):
