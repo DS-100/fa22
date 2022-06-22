@@ -11,8 +11,8 @@ course:
     bcourses: ""
     head_ta: Andrew Lenz
     head_email: andrew.lenz@berkeley.edu
-    comms_ta: Samantha
-    comms_email: snhing@berkeley.edu
+    comms_ta: Francis Geng and Rahul Shah
+    comms_email: fgeng@berkeley.edu and rsha256@berkeley.edu
     email: data100.instructors@berkeley.edu
 ---
 
@@ -227,7 +227,7 @@ All assignments are due at 11:59 PM Pacific Time on the due date specified on th
 
 You have a **total** of **7** slip days that you can apply to your semester's assignments (homeworks, projects, labs, and weekly checks). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over 7. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
 
-**Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+**Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}})  to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
 <!--
 {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}}) 
