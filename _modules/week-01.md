@@ -20,7 +20,7 @@ days:
   events:
     ? '**Lecture 3**{: .label .label-lecture } Pandas II'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
-    ? '**Discussion 1**{: .label .label-disc } Sampling and Probability, Pandas'
+    ? '**Discussion 1**{: .label .label-disc } [Sampling and Probability, Pandas](https://drive.google.com/file/d/166VQiPYb2Quv0CelQxTy_jIIh_jBDjHz/view?usp=sharing)'
     ? '**Homework 1**{: .label .label-hw } Intro + Prerequisites (due Jun 27)'
     : ''
 
