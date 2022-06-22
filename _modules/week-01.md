@@ -11,7 +11,7 @@ days:
     : ''
 - date: 2022-06-22
   events:
-    ? '**Lecture 2**{: .label .label-lecture } Pandas I'
+    ? '**Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)'
     : '[Ch. 6.1](https://www.textbook.ds100.org/ch/06/pandas_subsetting.html), [6.5](https://www.textbook.ds100.org/ch/06/pandas_other_reps.html)'
     ? 'Textbook: [Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)'
     ? 'Reference: [Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)'

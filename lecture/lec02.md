@@ -7,13 +7,13 @@ slides:
 
 # Lecture 2 – Data Sampling and Probability
 
-Presented by Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Fernando Pérez, Suraj Rampure, Ani Adhikari, Joseph Gonzalez, and Lisa Yan
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 
-- [slides](https://docs.google.com/presentation/d/15CbbMS0guv9CNJTTDP4h5T4hrNK8rJJ2cO1rmXo3H3Y/edit?usp=sharing){:target="_blank"}
-- [recording](https://youtu.be/CyLQGm_anEo){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/18iUFnQzF1GWnaHXphnUFTMEx0Vmo734AWpNIEscvfuc/edit?usp=sharing){:target="_blank"}
+- recording
 - [Extra, Summer 2021] Binomial coefficient: [Part 1](https://www.youtube.com/watch?v=4j2mFGkvwWE){:target="_blank"}, [Part 2](https://www.youtube.com/watch?v=lR6FeO5Pgss){:target="_blank"}
 
 <!--
