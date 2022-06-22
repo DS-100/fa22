@@ -12,6 +12,7 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/1MdVFqezBXRqKbjgmh_rAj1AGx12PoJlixhdygjoIzjQ/edit?usp=sharing){:target="_blank"}
 - [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
+- [Extra, Summer 2021] Binomial coefficient: [Part 1](https://www.youtube.com/watch?v=4j2mFGkvwWE){:target="_blank"}, [Part 2](https://www.youtube.com/watch?v=lR6FeO5Pgss){:target="_blank"}
 
 <!-- ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa21&subPath=lec/lec01/&branch=main))
 - [video playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfqqdzogA5zgyA00cOMeMMMR)
