@@ -21,7 +21,7 @@ days:
     ? '**Lecture 3**{: .label .label-lecture } Pandas II'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
     ? '**Discussion 1**{: .label .label-disc } Sampling and Probability, Pandas'
-    ? '**Homework 1**{: .label .label-hw } Intro + Prerequisites (due Jun 27)'
+    ? '**Homework 1**{: .label .label-hw } [Intro + Prerequisites (due Jun 27)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main)'
     : ''
 
 ---
