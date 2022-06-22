@@ -11,7 +11,7 @@ Presented by Anirudhan Badrinath and Dominic Liu
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 - [slides](https://docs.google.com/presentation/d/1MdVFqezBXRqKbjgmh_rAj1AGx12PoJlixhdygjoIzjQ/edit?usp=sharing){:target="_blank"}
-- recording
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
 
 <!-- ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa21&subPath=lec/lec01/&branch=main))
 - [video playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfqqdzogA5zgyA00cOMeMMMR)
