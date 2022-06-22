@@ -6,8 +6,8 @@ days:
   events:
     ? '**Lecture 1**{: .label .label-lecture } [Course Overview, Sampling and Probability](lecture/lec01)'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
-    ? '**Lab 1**{: .label .label-lab } Prerequisite Coding (due Jun 27)'
-    ? '**Lab 2**{: .label .label-lab } Pandas (due Jun 27)'
+    ? '**Lab 1**{: .label .label-lab } [Prerequisite Coding (due Jun 27)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab01%2Flab01.ipynb&branch=main)'
+    ? '**Lab 2**{: .label .label-lab } [Pandas (due Jun 27)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab02%2Flab02.ipynb&branch=main)'
     : ''
 - date: 2022-06-22
   events:
