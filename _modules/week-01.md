@@ -22,7 +22,7 @@ days:
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
     ? '**Discussion 0**{: .label .label-disc } [(Optional) Fundamentals](https://drive.google.com/file/d/166VQiPYb2Quv0CelQxTy_jIIh_jBDjHz/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1_UjGcTEYzze7c6mDTBjzZed-z8vgWHA_/view?usp=sharing), [Recordings](https://www.youtube.com/watch?v=PUqAVMEJGco&list=PLQCcNQgUcDfrwQzbE-vvGNkgKYr4aRRNu)'
-    ? '**Discussion 1**{: .label .label-disc } Sampling and Probability, Pandas'
+    ? '**Discussion 1**{: .label .label-disc } [Sampling and Probability, Pandas](https://drive.google.com/file/d/1ksBfjsuXnID7wUoQB97EX4OvtAWO5Tra/view?usp=sharing)'
     ? '**Homework 1**{: .label .label-hw } [Intro + Prerequisites](https://drive.google.com/file/d/1O7tdxSMbuJP3M8dDq9MDb56ew26lo8PO/view?usp=sharing) (due Jun 27)'
     : ''
 
