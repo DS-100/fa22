@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Lecture 3 – Pandas I
+title: Lecture 3 – Pandas II
 nav_exclude: true
 ---
 
-# Lecture 3 – Pandas I
+# Lecture 3 – Pandas II
 
-Presented by Josh Hug
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Josh Hug
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1pvgbzNQl-ktWPZSVeXICCMKTE0JvuKyx7HcA04B0uB0/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec03){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec03&branch=main))
-- [code HTML](https://ds100.org/sp22/resources/assets/lectures/lec03/03-pandas-basics.html){:target="_blank"}
-- [recording](https://youtu.be/A-svuiNI2F8){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1egBr--RG04u1i3zLPbVVmn7brvz38xQZr8T1JcJcprE/edit?usp=sharing){:target="_blank"}
+- code
+- recording
 
 
 

@@ -18,7 +18,7 @@ days:
     : ''
 - date: 2022-06-23
   events:
-    ? '**Lecture 3**{: .label .label-lecture } Pandas II'
+    ? '**Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
     ? '**Discussion 0**{: .label .label-disc } [(Optional) Fundamentals](https://drive.google.com/file/d/166VQiPYb2Quv0CelQxTy_jIIh_jBDjHz/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1_UjGcTEYzze7c6mDTBjzZed-z8vgWHA_/view?usp=sharing), [Recordings](https://www.youtube.com/watch?v=PUqAVMEJGco&list=PLQCcNQgUcDfrwQzbE-vvGNkgKYr4aRRNu)'
