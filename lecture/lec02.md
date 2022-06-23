@@ -14,7 +14,6 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/18iUFnQzF1GWnaHXphnUFTMEx0Vmo734AWpNIEscvfuc/edit?usp=sharing){:target="_blank"}
 - recording
-- [Extra, Summer 2021] Binomial coefficient: [Part 1](https://www.youtube.com/watch?v=4j2mFGkvwWE){:target="_blank"}, [Part 2](https://www.youtube.com/watch?v=lR6FeO5Pgss){:target="_blank"}
 
 <!--
 >>>>>>> e0aa630e63dda30b12a0a9581799eb779c89bf4e
