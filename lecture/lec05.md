@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Lecture 5 – Data Wrangling, EDA
+title: Lecture 5 – Regex
 nav_exclude: true
 ---
 
-# Lecture 5 - Data Wrangling, EDA
+# Lecture 5 - Regex
 
-Presented by Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Lisa Yan
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1R9lPV6ysgxGKe5g9vnfzh7Z6p8R5wmNQtE4k-lZEn74/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec05){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec05%2Flec05.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec05/lec05.html){:target="_blank"}
-- [recording](https://youtu.be/NY-LmBuo_co){:target="_blank"}
+- slides
+- code
+- recording
+
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

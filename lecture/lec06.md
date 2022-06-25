@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Lecture 6 – Regular Expressions
+title: Lecture 6 – Visualization I
 nav_exclude: true
 ---
 
-# Lecture 6 - Regular Expressions
+# Lecture 6 - Visualization I
 
-Presented by Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Lisa Yan and Josh Hug
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1xQsqa7e3xDZ9nBiekbSBOecwvQm8pSVGa-FBoV6aJ7E/edit){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec06){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=tree%2Fsp22%2Flec%2Flec06%2Flec06.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec06/lec06.html){:target="_blank"}
-- DS100 Regex Reference Sheet on the [Resources page]({{site.baseurl}}/resources#regex-practice){:target="_blank"}
-- [recording](https://youtu.be/neFOzXoS06s){:target="_blank"}
+- slides
+- code
+- recording
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

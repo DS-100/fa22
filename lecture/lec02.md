@@ -5,7 +5,7 @@ nav_exclude: true
 slides: 
 ---
 
-# Lecture 2 – Data Sampling and Probability
+# Lecture 2 – Sampling and Probability
 
 Presented by Anirudhan Badrinath and Dominic Liu
 
