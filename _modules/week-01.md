@@ -25,7 +25,7 @@ days:
     ? '**Discussion 1**{: .label .label-disc } [Sampling and Probability, Pandas](https://drive.google.com/file/d/1ksBfjsuXnID7wUoQB97EX4OvtAWO5Tra/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1uZ7Au_ULPIDgvo8V6snQTeoRCHLFKuK_/view?usp=sharing), [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fdisc%2Fdisc01)'
     ? '**Exam Prep 1**{: .label .label-crit } [Sampling and Probability, Pandas](https://drive.google.com/file/d/1TjczZzufZIXoKGCneIx27Sto0z9ZzT4u/view?usp=sharing)'
-    : 'Solution, [Recording](https://youtu.be/Mu8gXufXeBg)'
+    : '[Solution](https://drive.google.com/file/d/1LIStDwFXRqTsPE9dbCBIwNKLHYwO_fWb/view), [Recording](https://youtu.be/Mu8gXufXeBg)'
     ? '**Homework 1**{: .label .label-hw } [Intro + Prerequisites](https://drive.google.com/file/d/1O7tdxSMbuJP3M8dDq9MDb56ew26lo8PO/view?usp=sharing) (due Jun 27)'
     : ''
 
