@@ -1,6 +1,12 @@
 import requests
 from pathlib import Path
-import time 
+import time
+
+def download_lab3_data():
+    data_dir = 'data'
+    data_url = 'http://www.ds100.org/sp22/resources/assets/datasets/lab03_data_sp22.zip'
+    file_name = 'lab03_data_sp22.zip'
+    return fetch_and_cache(data_url=data_url, file=file_name, data_dir=data_dir)
 
 def fetch_and_cache(data_url, file, data_dir="data", force=False):
     """
@@ -36,6 +42,8 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
     ### END SOLUTION
     
 
+    
+
 def head(filename, lines=5):
     """
     Returns the first few lines of a file.
@@ -48,11 +56,4 @@ def head(filename, lines=5):
     from itertools import islice
     with open(filename, "r") as f:
         return list(islice(f, lines))
-
-def arrays_are_equal(arr1, arr2):
-    import numpy as np
-    for i, (a,b) in enumerate(zip(arr1, arr2)):
-        if not np.all(a == b):
-            print("The {}th element disagrees. {} vs {}".format(i, a, b))
-            return False
-    return True
+    

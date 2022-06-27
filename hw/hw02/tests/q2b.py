@@ -1,8 +1,3 @@
 test = {   'name': 'q2b',
-    'points': [0, 0],
-    'suites': [   {   'cases': [   {'code': '>>> q2b_part1 in set(["A", "B", "C", "D"])\nTrue', 'hidden': False, 'locked': False},
-                                   {'code': '>>> q2b_part2 in set(["A", "B", "C", "D"])\nTrue', 'hidden': False, 'locked': False}],
-                      'scored': True,
-                      'setup': '',
-                      'teardown': '',
-                      'type': 'doctest'}]}
+    'points': 1,
+    'suites': [{'cases': [{'code': '>>> p_majority >= 0 and p_majority <= 1\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
