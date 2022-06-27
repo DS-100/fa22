@@ -10,7 +10,7 @@ Presented by Anirudhan Badrinath and Dominic Liu
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- slides
+- [slides](https://docs.google.com/presentation/d/1tyCSeB5MsFqbqqoO26nfW_P5rbPhN0an7P-r1v5o5Fo/edit?usp=sharing)
 - code
 - recording
 
