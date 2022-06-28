@@ -14,7 +14,7 @@ days:
   events:
     ? '**Lecture 5**{: .label .label-lecture } [Regex](lecture/lec05)'
     : '[Ch. 12](https://www.textbook.ds100.org/ch/12/pa_intro.html)'
-    ? '**Discussion 2**{: .label .label-disc } [Pandas, Data Cleaning](https://drive.google.com/file/d/1JurAXzeG1o0gOEhO3jgkMzt3EL7XKniC/view?usp=sharing)'
+    ? '**Discussion 2**{: .label .label-disc } [Pandas, Data Cleaning](https://drive.google.com/file/d/1UcfnGoxYc7BHv523i5UDb8qhuK27a-C-/view?usp=sharing)' 
     : ''
 - date: 2022-06-29
   events:
