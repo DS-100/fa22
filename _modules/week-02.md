@@ -14,7 +14,7 @@ days:
   events:
     ? '**Lecture 5**{: .label .label-lecture } Regex'
     : '[Ch. 12](https://www.textbook.ds100.org/ch/12/pa_intro.html)'
-    ? '**Discussion 2**{: .label .label-disc } Pandas, Data Cleaning'
+    ? '**Discussion 2**{: .label .label-disc } [Pandas, Data Cleanin](https://drive.google.com/file/d/1JurAXzeG1o0gOEhO3jgkMzt3EL7XKniC/view?usp=sharing)'
     : ''
 - date: 2022-06-29
   events:
@@ -27,11 +27,11 @@ days:
   events:
     ? '**Lecture 7**{: .label .label-lecture } Visualization II'
     : '[Ch. 11.4-11.6](https://www.textbook.ds100.org/ch/11/viz_plotly.html)'
-    ? '**Discussion 3**{: .label .label-disc } Regex, Visualization'
+    ? '**Discussion 3**{: .label .label-disc } [Regex, Visualization](https://drive.google.com/file/d/19x1oLeRziXtP-TuzWY3yYn3F_s_87E8J/view?usp=sharing)'
     ? '**Homework 3**{: .label .label-hw } Tweets (due Jul 5)'
 - date: 2022-07-01
   events:
-    ? '**Exam Prep 2**{: .label .label-crit }'
+    ? '**Exam Prep 2**{: .label .label-crit } [Pandas, Visualization, Regex](https://drive.google.com/file/d/1RNHeSLEqG31ocJ0PYbE9HMDHdy_oywJx/view?usp=sharing)'
     ? '**Catch-up section 1**{: .label .label-crit }'
     
 
