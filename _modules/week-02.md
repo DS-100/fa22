@@ -19,7 +19,7 @@ days:
     : '[Solution](https://drive.google.com/file/d/16I6wmx6aTAHLqWCG5TXzGhmttyVVFpTr/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-06-29
   events:
-    ? '**Lecture 6**{: .label .label-lecture } Visualization I'
+    ? '**Lecture 6**{: .label .label-lecture } [Visualization I](lecture/lec06)'
     : '[Ch. 11.1-11.3](https://www.textbook.ds100.org/ch/11/viz_scale.html)'
     ? 'Textbook: [Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html)'
     ? 'Textbook: [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)'
