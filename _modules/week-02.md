@@ -26,10 +26,10 @@ days:
     : ''
 - date: 2021-06-30
   events:
-    ? '**Lecture 7**{: .label .label-lecture } Visualization II'
+    ? '**Lecture 7**{: .label .label-lecture } [Visualization II](lecture/lec07)'
     : '[Ch. 11.4-11.6](https://www.textbook.ds100.org/ch/11/viz_plotly.html)'
     ? '**Discussion 3**{: .label .label-disc } [Regex, Visualization](https://drive.google.com/file/d/19x1oLeRziXtP-TuzWY3yYn3F_s_87E8J/view?usp=sharing)'
-    ? '**Homework 3**{: .label .label-hw } Tweets (due Jul 5)'
+    ? '**Homework 3**{: .label .label-hw } [Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw03%2Fhw03.ipynb) (due Jul 5)'
 - date: 2022-07-01
   events:
     ? '**Exam Prep 2**{: .label .label-crit } [Pandas, Visualization, Regex](https://drive.google.com/file/d/1RNHeSLEqG31ocJ0PYbE9HMDHdy_oywJx/view?usp=sharing)'
