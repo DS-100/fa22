@@ -12,7 +12,7 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/1Rbv_CI0g6uf-L6icnMDKJ4NceDbQpCtSUokgPTt5Jwc/edit?usp=sharing){:target="_blank"}
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=tree%2Fsu22%2Flec%2Flec07%2Flec7.ipynb){:target="_blank"}
-- recording
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
 
 <!-- A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
