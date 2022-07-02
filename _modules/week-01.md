@@ -29,7 +29,7 @@ days:
 - date: 2022-06-23
   events:
     ? '**Exam Prep 1**{: .label .label-crit } [Sampling and Probability, Pandas](https://drive.google.com/file/d/1TjczZzufZIXoKGCneIx27Sto0z9ZzT4u/view?usp=sharing)'
-    : '[Solution](https://drive.google.com/file/d/1LIStDwFXRqTsPE9dbCBIwNKLHYwO_fWb/view), [Recording](https://youtu.be/Mu8gXufXeBg)'
+    : '[Solution](https://drive.google.com/file/d/1LIStDwFXRqTsPE9dbCBIwNKLHYwO_fWb/view), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 
 ---
 <!-- [Intro + Prerequisites](https://ds100.org/fa21/resources/assets/hw/hw1.pdf) -->

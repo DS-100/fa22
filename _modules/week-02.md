@@ -34,9 +34,9 @@ days:
 - date: 2022-07-01
   events:
     ? '**Exam Prep 2**{: .label .label-crit } [Pandas, Visualization, Regex](https://drive.google.com/file/d/1RNHeSLEqG31ocJ0PYbE9HMDHdy_oywJx/view?usp=sharing)'
-    : '[Solution](https://drive.google.com/file/d/132O-X50mZ6ieklSNio9wPAISQeyJgvHO/view?usp=sharing), Recording'
+    : '[Solution](https://drive.google.com/file/d/132O-X50mZ6ieklSNio9wPAISQeyJgvHO/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     ? '**Catch-up section 1**{: .label .label-crit }'
-    : 'Recording'
+    : '[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     
 
 ---
