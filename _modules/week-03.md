@@ -5,6 +5,7 @@ days:
 - date: 2022-07-04
   events:
     ? 'Independence Day'
+    ? '**Weekly Check 3**{: .label .label-survey } Weekly Check 3'
     ? '**Lab 5**{: .label .label-lab } Modeling, Summary Statistics, Loss Functions (due Jul 9)'
     ? '**Lab 6**{: .label .label-lab } Ordinary Least Squares (due Jul 9)'
     ? '**Homework 4**{: .label .label-hw } Bike Sharing (due Jul 7)'
@@ -14,7 +15,7 @@ days:
     ? '**Lecture 8**{: .label .label-lecture } Intro to Modeling, Simple Linear Regression'
     : '[Ch. 15](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
     ? '**Discussion 4**{: .label .label-disc } Modeling and Simple Linear Regression'
-    : ''
+    : 'Solution, Recording'
 - date: 2022-07-06
   events:
     ? '**Lecture 9**{: .label .label-lecture } Constant Model, Loss, and Transformations'
@@ -24,6 +25,13 @@ days:
     ? '**Lecture 10**{: .label .label-lecture } Ordinary Least Squares (Multiple Linear Regression)'
     : '[Ch. 15.4](https://www.textbook.ds100.org/ch/15/linear_multi_fit.html), [19.1](https://www.textbook.ds100.org/ch/19/mult_model.html)'
     ? '**Discussion 5**{: .label .label-disc } Ordinary Least Squares'
+    : 'Solution, Recording'
     ? '**Homework 5**{: .label .label-hw } Regression (On paper) (due Jul 11)'
     : ''
+- date: 2021-07-08
+  events:
+    ? '**Exam Prep 2**{: .label .label-crit } TBD'
+    : 'Solution, Recording'
+    ? '**Catch-up section 1**{: .label .label-crit } TBD'
+    : 'Recording'
 ---

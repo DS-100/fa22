@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Lecture 22 – Logistic Regression II
+title: Lecture 22 – Decision Trees
 nav_exclude: true
 ---
 
-# Lecture 22 – Logistic Regression II
+# Lecture 22 – Decision Trees
 
-Presented by Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-<!-- Content by Suraj Rampure, Josh Hug, Joseph Gonzalez, Ani Adhikari -->
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1YsxPERhul760_0TrLhawljbWWqDbtIp5tUm05irfkmw/edit#slide=id.g12444cd4007_0_2780){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/blob/main/lec/lec22/lec22.ipynb){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp22&subPath=lec/lec22/){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec22/lec22.html){:target="_blank"}
-- [recording](https://youtu.be/pN8a-jcEIRE){:target="_blank"}
-- [supplemental video on MLE Derivation](https://youtu.be/jwXbZ6QnQmA){:target="_blank"}
+- slides
+- code
+- recording
+
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

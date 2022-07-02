@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Lecture 17 – Estimators, Bias, and Variance
+title: Lecture 17 – SQL I
 nav_exclude: true
 ---
 
-# Lecture 17 – Probability II: Estimators, Bias, and Variance
+# Lecture 17 – SQL I
 
-Presented by Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Lisa Yan, Ani Adhikari, and Suraj Rampure
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1gzgxGO_nbCDajYs7qIpjzjQfJqKadliBOat7Es10Ll8/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec17){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=tree%2Fsp22%2Flec%2Flec17%2Flec17.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec17/lec17.html){:target="_blank"}
-- [Derivation HTML](../../resources/assets/lectures/lec17/Derivation.html){:target="_blank"}
-- [recording](https://youtu.be/LH4dJMoU1X8){:target="_blank"}
+- slides
+- code
+- recording
 
 
 <!--

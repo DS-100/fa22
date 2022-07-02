@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 26 – Guest Speaker Matei Zaharia, Conclusion
+title: Lecture 26 – SQL II
 nav_exclude: true
 ---
 
-# Lecture 26 - Guest Speaker Matei Zaharia: Parallel Data Analytics; Conclusion
+# Lecture 26 - SQL II
 
 - [recording](https://youtu.be/iW5_xyRmEdg){:target="_blank"}
 - Parallel Data Analytics, by Matei Zaharia [slides](../../resources/assets/lectures/lec26/data100-spark.pdf){:target="_blank"}

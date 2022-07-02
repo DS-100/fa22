@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Lecture 15 – Cross Validation, Regularization
+title: Lecture 15 – Probability I: Random Variables
 nav_exclude: true
 ---
 
-# Lecture 15 – Cross Validation, Regularization
+# Lecture 15 – Probability I: Random Variables
 
-Presented by Josh Hug
+Presented by Anirudhan Badrinath and Dominic Liu
 
-- [slides](https://docs.google.com/presentation/d/1-Cga_fOn0dTMt1ss7vNmManX-NUYPXwXDQDAsaInuQM/edit?usp=sharing){:target="_blank"}
-- [recording](https://youtu.be/Lp8SpX2HgUo){:target="_blank"}
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+
+- slides
+- code
+- recording
 
 <!--
 <table>

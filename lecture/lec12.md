@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Lecture 12 – Gradient Descent, sklearn
+title: Lecture 12 – Feature Engineering
 nav_exclude: true
 ---
 
-# Lecture 12 – Gradient Descent, sklearn
+# Lecture 12 – Feature Engineering
 
-Presented by Josh Hug
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Josh Hug
-- [slides](https://docs.google.com/presentation/d/1j9ESgjn-aeZSOX5ON1wjkF5WBZHc4IN7XvTpYnX1pFs/edit?usp=sharing)
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec12){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec12%2Flec12.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec12/lec12.html){:target="_blank"}
-- [recording](https://youtu.be/oX5YAEYycx4){:target="_blank"}
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+
+- slides
+- code
+- recording
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

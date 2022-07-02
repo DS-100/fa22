@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Lecture 9 – Modeling and Simple Linear Regression
+title: Lecture 9 – Constant Model, Loss, and Transformations
 nav_exclude: true
 ---
 
-# Lecture 9 – Modeling and Simple Linear Regression
+# Lecture 9 – Constant Model, Loss, and Transformations
 
-By Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-- [slides](https://docs.google.com/presentation/d/1SnfnL2A0EvSyEYXG_15YYUnP1u-xISkNrholjdaQKbg/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec09){:target="_blank"} ([launch](
-https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec09%2Flec09.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec09/lec09.html){:target="_blank"}
-- [recording](https://youtu.be/57MNA5Qb61Q){:target="_blank"}
-- supplemental recording: [SLR Derivation](https://youtu.be/HSgdHzq2uqo){:target="_blank"}
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+
+- slides
+- code
+- recording
 
 <!--
 **The Quick Checks for this lecture are not yet ready to be released; please check back later.** A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

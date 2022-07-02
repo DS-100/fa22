@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Lecture 19 – SQL II, PCA
+title: Lecture 19 – PCA
 nav_exclude: true
 ---
 
-# Lecture 19 – SQL II and PCA I
+# Lecture 19 – PCA
 
-Content by Josh Hug, Alvin Wan, Fernando Pérez, Suraj Rampure, Ani Adhikari, Sam Lau, Yifan Wu
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Presented by Josh Hug
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1EdxE8dlOpaJ09aloqeR9-3avz4f5fVTeZgfWSgbL6DM/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec19){:target="_blank"}
-  - SQL: [launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec19%2Flec19a-sql.ipynb&branch=main){:target="_blank"}
-  - PCA: [launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec19%2Flec19b-pca.ipynb&branch=main){:target="_blank"}
-- [recording](https://youtu.be/n-huNjyriUc){:target="_blank"}
+- slides
+- code
+- recording
+
 
 <!--
 <table>

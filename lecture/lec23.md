@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Lecture 23 – Decision Trees
+title: Lecture 23 – Clustering
 nav_exclude: true
 ---
 
-# Lecture 23 – Decision Trees
+# Lecture 23 – Clustering
 
-Presented by Josh Hug
+Presented by Anirudhan Badrinath and Dominic Liu
 
-Content by Josh Hug, Suraj Rampure, Fernando Perez, Joseph Gonzalez, Ani Adhikari
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1vAXrAwdypNu3ft0RIgfRylm6zsMBw7Z2HdNsGtj93JM/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/blob/main/lec/lec23/lec23.ipynb){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp22&subPath=lec/lec23/){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec23/lec23.html){:target="_blank"}
-- [recording](https://youtu.be/ENC9P1Wa684){:target="_blank"}
+- slides
+- code
+- recording
 
 <!--
 

@@ -34,7 +34,9 @@ days:
 - date: 2022-07-01
   events:
     ? '**Exam Prep 2**{: .label .label-crit } [Pandas, Visualization, Regex](https://drive.google.com/file/d/1RNHeSLEqG31ocJ0PYbE9HMDHdy_oywJx/view?usp=sharing)'
-    ? '**Catch-up section 1**{: .label .label-crit } TBD'
+    : '[Solution](https://drive.google.com/file/d/132O-X50mZ6ieklSNio9wPAISQeyJgvHO/view?usp=sharing), Recording'
+    ? '**Catch-up section 1**{: .label .label-crit }'
+    : 'Recording'
     
 
 ---

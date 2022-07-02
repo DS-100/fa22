@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Lecture 10 – Constant Model, Loss, and Transformations
+title: Lecture 10 – Ordinary Least Squares (Multiple Linear Regression)
 nav_exclude: true
 ---
 
-# Lecture 10 – Constant Model, Loss, and Transformations
+# Lecture 10 – Ordinary Least Squares (Multiple Linear Regression)
 
-By Lisa Yan
+Presented by Anirudhan Badrinath and Dominic Liu
 
-- [slides](https://docs.google.com/presentation/d/1tCdhfvPOe7R4T7V9L9VjR_KtJG39UapZuNfNWITMK3Q/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec10){:target="_blank"} ([launch](
-https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=lab%2Ftree%2Fsp22%2Flec%2Flec10%2Flec10.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec10/lec10.html){:target="_blank"}
-- [recording](https://youtu.be/k9pFiqKX-Qg){:target="_blank"}
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+
+- slides
+- code
+- recording
+- supplemental recording: [OLS Properties](https://youtu.be/dhG8GiZcyUE){:target="_blank"}
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Lecture 18 – SQL I
+title: Lecture 18 – SQL II
 nav_exclude: true
 ---
 
-# Lecture 18 – SQL I
+# Lecture 18 – SQL II
 
 Presented by Josh Hug
 
-Content by Josh Hug, Alvin Wan, Joseph Gonzalez
+Presented by Anirudhan Badrinath and Dominic Liu
 
-- [slides](https://docs.google.com/presentation/d/1JLoC1xMzMuIzv_n2Gu0s8SZqHer2hQYiroYHRMgBMtc/edit?usp=sharing)
-- [code](https://github.com/DS-100/sp22/tree/main/lec/lec18){:target="_blank"} ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp22&urlpath=tree%2Fsp22%2Flec%2Flec18%2Flec18.ipynb&branch=main){:target="_blank"})
-- [code HTML](../../resources/assets/lectures/lec18/lec18.html){:target="_blank"}
-- [recording](https://youtu.be/e-bZxWuf1j4){:target="_blank"}
+Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+
+- slides
+- code
+- recording
+
 
 <!--
 **Important**: Read this before proceeding with the lectures, as it details what materials you should focus on. (This is also largely recapped in Video 18.1.)
