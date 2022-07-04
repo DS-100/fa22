@@ -8,7 +8,7 @@ days:
     ? '**Weekly Check 3**{: .label .label-survey } Weekly Check 3'
     ? '**Lab 5**{: .label .label-lab } [Modeling, Loss Functions, and Summary Statistics](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab05%2Flab05.ipynb) (due Jul 9)'
     ? '**Lab 6**{: .label .label-lab } [Linear Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab06%2Flab06.ipynb) (due Jul 9)'
-    ? '**Homework 4**{: .label .label-hw } Bike Sharing (due Jul 7)'
+    ? '**Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw04%2Fhw04.ipynb) (due Jul 7)'
     : '' 
 - date: 2022-07-05
   events:
