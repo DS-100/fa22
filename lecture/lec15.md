@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 15 – Probability I: Random Variables
+title: Lecture 15 – Probability I Random Variables
 nav_exclude: true
 ---
 
-# Lecture 15 – Probability I: Random Variables
+# Lecture 15 – Probability I Random Variables
 
 Presented by Anirudhan Badrinath and Dominic Liu
 

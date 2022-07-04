@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 16 – Feature Engineering
+title: Lecture 16 – Probability II Estimators, Bias, and Variance
 nav_exclude: true
 ---
 
-# Lecture 16 – Probability II: Estimators, Bias, and Variance
+# Lecture 16 – Probability II Estimators, Bias, and Variance
 
 Presented by Anirudhan Badrinath and Dominic Liu
 
