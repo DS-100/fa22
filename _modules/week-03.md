@@ -14,7 +14,7 @@ days:
   events:
     ? '**Lecture 8**{: .label .label-lecture } Intro to Modeling, Simple Linear Regression'
     : '[Ch. 15](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
-    ? '**Discussion 4**{: .label .label-disc } Modeling and Simple Linear Regression'
+    ? '**Discussion 4**{: .label .label-disc } [Modeling and Simple Linear Regression](https://drive.google.com/file/d/1vRlHQNtX_eTwZEfzGr7A-OSSiZsSq2lr/view?usp=sharing)'
     : 'Solution, Recording'
 - date: 2022-07-06
   events:
@@ -24,7 +24,7 @@ days:
   events:
     ? '**Lecture 10**{: .label .label-lecture } Ordinary Least Squares (Multiple Linear Regression)'
     : '[Ch. 15.4](https://www.textbook.ds100.org/ch/15/linear_multi_fit.html), [19.1](https://www.textbook.ds100.org/ch/19/mult_model.html)'
-    ? '**Discussion 5**{: .label .label-disc } Ordinary Least Squares'
+    ? '**Discussion 5**{: .label .label-disc } [Ordinary Least Squares](https://drive.google.com/file/d/15T5YZznZ5i5PP3RP2iOzQlCfdEWVXPLW/view?usp=sharing)'
     : 'Solution, Recording'
     ? '**Homework 5**{: .label .label-hw } Regression (On paper) (due Jul 11)'
     : ''
