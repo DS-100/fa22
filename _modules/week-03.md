@@ -12,7 +12,7 @@ days:
     : '' 
 - date: 2022-07-05
   events:
-    ? '**Lecture 8**{: .label .label-lecture } Intro to Modeling, Simple Linear Regression'
+    ? '**Lecture 8**{: .label .label-lecture } [Intro to Modeling, Simple Linear Regression](lecture/lec08)'
     : '[Ch. 15](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
     ? '**Discussion 4**{: .label .label-disc } [Modeling and Simple Linear Regression](https://drive.google.com/file/d/1vRlHQNtX_eTwZEfzGr7A-OSSiZsSq2lr/view?usp=sharing)'
     : 'Solution, Recording'

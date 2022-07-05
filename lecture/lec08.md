@@ -10,7 +10,7 @@ Presented by Anirudhan Badrinath and Dominic Liu
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- slides
+- [slides](https://docs.google.com/presentation/d/1O0ywsG7f_iQitSh_GVyhqDXhAYA8HUELubz6iL1c_Oo/edit?usp=sharing){:target="_blank"}
 - code
 - recording
 - supplemental recording: [SLR Derivation](https://youtu.be/HSgdHzq2uqo){:target="_blank"}
