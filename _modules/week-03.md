@@ -18,7 +18,7 @@ days:
     : 'Solution, Recording'
 - date: 2022-07-06
   events:
-    ? '**Lecture 9**{: .label .label-lecture } Constant Model, Loss, and Transformations'
+    ? '**Lecture 9**{: .label .label-lecture } [Constant Model, Loss, and Transformations](lecture/lec09)'
     : '[Ch. 4](https://www.textbook.ds100.org/ch/04/modeling_intro.html)'
 - date: 2021-07-07
   events:
