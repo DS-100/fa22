@@ -30,7 +30,7 @@ days:
     : ''
 - date: 2021-07-08
   events:
-    ? '**Exam Prep 2**{: .label .label-crit } [TBD](https://drive.google.com/file/d/1VRBUuucOZLVR5LMPeRi2IgIStfq2lSPb/view?usp=sharing)'
+    ? '**Exam Prep 2**{: .label .label-crit } [SLR & OLR](https://drive.google.com/file/d/1VRBUuucOZLVR5LMPeRi2IgIStfq2lSPb/view?usp=sharing)'
     : 'Solution, Recording'
     ? '**Catch-up section 1**{: .label .label-crit } TBD'
     : 'Recording'
