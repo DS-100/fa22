@@ -10,7 +10,7 @@ Presented by Anirudhan Badrinath and Dominic Liu
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- slides
+- [slides](https://docs.google.com/presentation/d/1MVSqxY1d1y-MsDfymplNdbuNGr_ViRTj40B1-GzdK0o/edit?usp=sharing){:target="_blank"}
 - code
 - recording
 - supplemental recording: [OLS Properties](https://youtu.be/dhG8GiZcyUE){:target="_blank"}

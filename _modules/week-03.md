@@ -5,7 +5,7 @@ days:
 - date: 2022-07-04
   events:
     ? 'Independence Day'
-    ? '**Weekly Check 3**{: .label .label-survey } Weekly Check 3'
+    ? '**Weekly Check 3**{: .label .label-survey } [Weekly Check 3](https://forms.gle/ixVafD9nXcPoCytq8)'
     ? '**Lab 5**{: .label .label-lab } [Modeling, Loss Functions, and Summary Statistics](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab05%2Flab05.ipynb) (due Jul 9)'
     ? '**Lab 6**{: .label .label-lab } [Linear Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab06%2Flab06.ipynb) (due Jul 9)'
     ? '**Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw04%2Fhw04.ipynb) (due Jul 7)'
@@ -22,7 +22,7 @@ days:
     : '[Ch. 4](https://www.textbook.ds100.org/ch/04/modeling_intro.html)'
 - date: 2021-07-07
   events:
-    ? '**Lecture 10**{: .label .label-lecture } Ordinary Least Squares (Multiple Linear Regression)'
+    ? '**Lecture 10**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec10) (Multiple Linear Regression)'
     : '[Ch. 15.4](https://www.textbook.ds100.org/ch/15/linear_multi_fit.html), [19.1](https://www.textbook.ds100.org/ch/19/mult_model.html)'
     ? '**Discussion 5**{: .label .label-disc } [Ordinary Least Squares](https://drive.google.com/file/d/15T5YZznZ5i5PP3RP2iOzQlCfdEWVXPLW/view?usp=sharing)'
     : 'Solution, Recording'
