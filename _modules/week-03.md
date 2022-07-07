@@ -15,7 +15,7 @@ days:
     ? '**Lecture 8**{: .label .label-lecture } [Intro to Modeling, Simple Linear Regression](lecture/lec08)'
     : '[Ch. 15](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
     ? '**Discussion 4**{: .label .label-disc } [Modeling and Simple Linear Regression](https://drive.google.com/file/d/1vRlHQNtX_eTwZEfzGr7A-OSSiZsSq2lr/view?usp=sharing)'
-    : 'Solution, Recording'
+    : '[Solution](https://drive.google.com/file/d/16BCCbe9EEtJQVo-1DkdQAyJlZ8DB32su/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-07-06
   events:
     ? '**Lecture 9**{: .label .label-lecture } [Constant Model, Loss, and Transformations](lecture/lec09)'
@@ -30,7 +30,7 @@ days:
     : ''
 - date: 2021-07-08
   events:
-    ? '**Exam Prep 2**{: .label .label-crit } TBD'
+    ? '**Exam Prep 2**{: .label .label-crit } [TBD](https://drive.google.com/file/d/1VRBUuucOZLVR5LMPeRi2IgIStfq2lSPb/view?usp=sharing)'
     : 'Solution, Recording'
     ? '**Catch-up section 1**{: .label .label-crit } TBD'
     : 'Recording'
