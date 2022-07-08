@@ -25,7 +25,7 @@ days:
     ? '**Lecture 10**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec10) (Multiple Linear Regression)'
     : '[Ch. 15.4](https://www.textbook.ds100.org/ch/15/linear_multi_fit.html), [19.1](https://www.textbook.ds100.org/ch/19/mult_model.html)'
     ? '**Discussion 5**{: .label .label-disc } [Ordinary Least Squares](https://drive.google.com/file/d/15T5YZznZ5i5PP3RP2iOzQlCfdEWVXPLW/view?usp=sharing)'
-    : 'Solution, Recording'
+    : '[Solution](https://drive.google.com/file/d/1EFLp9yx2rINjp-huX_V1J6tw9i_29_nF/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     ? '**Homework 5**{: .label .label-hw } [Regression](https://drive.google.com/file/d/1iyxMaA8VHzZcVHJV-qd5m9rcE-1mwxeC/view?usp=sharing) (On paper) (due Jul 11)'
     : ''
 - date: 2021-07-08
