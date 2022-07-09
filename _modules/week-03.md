@@ -32,6 +32,6 @@ days:
   events:
     ? '**Exam Prep 3**{: .label .label-crit } [SLR & OLR](https://drive.google.com/file/d/1VRBUuucOZLVR5LMPeRi2IgIStfq2lSPb/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1yyggJkIT-PyO82nGB6bCFnBDneW1HHyy/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
-    ? '**Catch-up section 2**{: .label .label-crit } TBD'
-    : 'Recording'
+    ? '**Catch-up section 2**{: .label .label-crit }'
+    : '[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 ---
