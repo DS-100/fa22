@@ -6,10 +6,10 @@ days:
   events:
     ? '**Lecture 11**{: .label .label-lecture } [Gradient Descent, sklearn](lecture/lec11)'
     : '[Ch. 17](https://www.textbook.ds100.org/ch/17/gradient_descent.html)'
-    ? '**Weekly Check 4**{: .label .label-survey } Weekly Check 4'
+    ? '**Weekly Check 4**{: .label .label-survey } [Weekly Check 4](https://forms.gle/fAupTeFzRdMQepdu6)'
     ? '**Lab 7**{: .label .label-lab } [Gradient Descent and Feature Engineering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab07%2Flab07.ipynb) (due Jul 16)'
     ? '**Lab 8**{: .label .label-lab } [Model Selection, Regularization, and Cross-Validation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab08%2Flab08.ipynb) (due Jul 16)'
-    ? '**Proj 1A**{: .label .label-hw } Housing I (due Jul 14)'
+    ? '**Proj 1A**{: .label .label-hw } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fproj%2Fproj1a%2Fproj1a.ipynb) (due Jul 14)'
     : ''
 - date: 2022-07-12
   events:
