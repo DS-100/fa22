@@ -15,7 +15,7 @@ days:
   events:
     ? '**Lecture 12**{: .label .label-lecture } [Feature Engineering](lecture/lec12)'
     : '[Ch. 20](https://www.textbook.ds100.org/ch/20/feature_engineering.html)'
-    ? '**Discussion 6**{: .label .label-disc } [HCE, Gradient Descent](https://drive.google.com/file/d/1L-BODbYghy8wpEEqCcZFXLDh2yyOrAEr/view?usp=sharing)'
+    ? '**Discussion 6**{: .label .label-disc } [Geometry of Least Squares, Gradient Descent, HCE](https://drive.google.com/file/d/1L-BODbYghy8wpEEqCcZFXLDh2yyOrAEr/view?usp=sharing)'
     : ''
 - date: 2022-07-13
   events:
