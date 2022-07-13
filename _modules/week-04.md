@@ -13,10 +13,10 @@ days:
     : ''
 - date: 2022-07-12
   events:
-    ? '**Lecture 12**{: .label .label-lecture } [Feature Engineering](lecture/lec12)'
+    ? '**Lecture 12**{: .label .label-lecture } [Gradient Descent, Feature Engineering](lecture/lec12)'
     : '[Ch. 20](https://www.textbook.ds100.org/ch/20/feature_engineering.html)'
     ? '**Discussion 6**{: .label .label-disc } [Geometry of Least Squares, Gradient Descent, HCE](https://drive.google.com/file/d/1L-BODbYghy8wpEEqCcZFXLDh2yyOrAEr/view?usp=sharing)'
-    : ''
+    : '[Solution](https://drive.google.com/file/d/13WjpxSdhL7aht7cj7Suse3wMBER1520z/view?usp=sharing), Recording'
 - date: 2022-07-13
   events:
     ? '**Lecture 13**{: .label .label-lecture } [Cross-Validation and Regularization](lecture/lec13)'
@@ -24,7 +24,7 @@ days:
 - date: 2021-07-14
   events:
     ? '**Lecture 14**{: .label .label-lecture } [Case Study (HCE): Fairness in Housing Appraisal](lecture/lec14)'
-    ? '**Discussion 7**{: .label .label-disc } HCE, Regularization, and Cross-Validation'
+    ? '**Discussion 7**{: .label .label-disc } [HCE, Regularization, and Cross-Validation](https://drive.google.com/file/d/1L3ZtgeuMTXwBOiozXiIHrvRXEaVsilHt/view?usp=sharing)'
     ? '**Proj 1B**{: .label .label-hw } Housing II (due Jul 25)'
     : ''
 - date: 2021-07-15
