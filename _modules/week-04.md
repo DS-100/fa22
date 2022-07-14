@@ -25,7 +25,7 @@ days:
   events:
     ? '**Lecture 14**{: .label .label-lecture } [Case Study (HCE): Fairness in Housing Appraisal](lecture/lec14)'
     ? '**Discussion 7**{: .label .label-disc } [HCE, Regularization, and Cross-Validation](https://drive.google.com/file/d/1L3ZtgeuMTXwBOiozXiIHrvRXEaVsilHt/view?usp=sharing)'
-    ? '**Proj 1B**{: .label .label-hw } Housing II (due Jul 25)'
+    ? '**Proj 1B**{: .label .label-hw } [Housing II ](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fproj%2Fproj1b%2Fproj1b.ipynb)(due Jul 25)'
     : ''
 - date: 2021-07-15
   events:
