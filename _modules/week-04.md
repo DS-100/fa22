@@ -24,11 +24,13 @@ days:
 - date: 2021-07-14
   events:
     ? '**Lecture 14**{: .label .label-lecture } [Case Study (HCE): Fairness in Housing Appraisal](lecture/lec14)'
-    ? '**Discussion 7**{: .label .label-disc } [HCE, Regularization, and Cross-Validation](https://drive.google.com/file/d/1L3ZtgeuMTXwBOiozXiIHrvRXEaVsilHt/view?usp=sharing)'
+    ? '**Discussion 7**{: .label .label-disc } [HCE, OHE, Ridge and Lasso Linear Regression](https://drive.google.com/file/d/1L3ZtgeuMTXwBOiozXiIHrvRXEaVsilHt/view?usp=sharing)'
+    : '[Solution](https://drive.google.com/file/d/1t4wTr-vLqlZ4lrU3WcbKooOHm0gKGXPD/view?usp=sharing),[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     ? '**Proj 1B**{: .label .label-hw } [Housing II ](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fproj%2Fproj1b%2Fproj1b.ipynb)(due Jul 25)'
     : ''
 - date: 2021-07-15
   events:
+    ? '**Midterm Review**{: .label .label-crit } [Midterm Review](https://edstem.org/us/courses/23165/discussion/1623204)'
     ? '**Exam Prep 4**{: .label .label-crit } TBD'
     ? '**Catch-up section 3**{: .label .label-crit } TBD'
     : ''
