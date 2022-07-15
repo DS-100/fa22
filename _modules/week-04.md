@@ -31,8 +31,6 @@ days:
 - date: 2021-07-15
   events:
     ? '**Midterm Review**{: .label .label-crit } [Midterm Review](https://edstem.org/us/courses/23165/discussion/1623204)'
-    ? '**Exam Prep 4**{: .label .label-crit } TBD'
-    ? '**Catch-up section 3**{: .label .label-crit } TBD'
     : ''
 
 ---
