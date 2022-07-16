@@ -30,7 +30,7 @@ days:
     : ''
 - date: 2021-07-15
   events:
-    ? '**Midterm Review**{: .label .label-crit } [Midterm Review](https://edstem.org/us/courses/23165/discussion/1623204)'
+    ? '**Midterm Review**{: .label .label-crit } [Midterm Review](https://edstem.org/us/courses/23165/discussion/1628748)'
     : ''
 
 ---
