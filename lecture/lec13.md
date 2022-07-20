@@ -12,7 +12,8 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/1lS2FXH2FoK2Jc3D7AWbRYTBYQOm9A4hw3cbELlnbkRk/edit?usp=sharing){:target="_blank"}
 - no code
-- recording
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
+
 
 <!--A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 

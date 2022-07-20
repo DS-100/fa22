@@ -6,13 +6,11 @@ nav_exclude: true
 
 # Lecture 14 – Case Study (HCE): Fairness in Housing Appraisal
 
-Presented by Anirudhan Badrinath and Dominic Liu
+Presented by Ari Edmundson and Margarita Boenig-Liptsin
 
-Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
-
-- slides
-- code
-- recording
+- [slides](https://docs.google.com/presentation/d/1FYML1Yu27f7ROd0--MAEjudBxmUbTWh8jkwdA82RwB4/edit?usp=sharing){:target="_blank"} (Sign in with Berkeley account)
+- no code
+- [recording playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfo7wid1ZOQ47I_U1ZC1z6n7){:target="_blank"}
 
 <!--A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
