@@ -21,7 +21,7 @@ days:
   events:
     ? '**Lecture 16**{: .label .label-lecture } [Probability II: Estimators, Bias, and Variance](lecture/lec16)'
     : '[Ch. 16.1](https://www.textbook.ds100.org/ch/16/inf_pred_gen_dist.html), [Ch. 16.4](https://www.textbook.ds100.org/ch/16/prob_exp_var.html), [19.2](https://www.textbook.ds100.org/ch/19/mult_inference.html)'
-    ? '**Discussion 8**{: .label .label-disc } Probability'
+    ? '**Discussion 8**{: .label .label-disc } [Probability and Bias-Variance Trade-off](https://drive.google.com/file/d/1wu3hEEbKDmkZPjSpaMEuH5aL6Dx5DpR1/view?usp=sharing)'
     ? ''
 - date: 2021-07-22
   events:
