@@ -10,9 +10,13 @@ Presented by Anirudhan Badrinath and Dominic Liu
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1uH_-m0XC4Jrj89dHx09H6tsO893E4S9b3ikIyZhyzi8/edit?usp=sharing){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1uH_-m0XC4Jrj89dHx09H6tsO893E4S9b3ikIyZhyzi8/edit?usp=sharing){:target="_blank"} (see important note below)
 - no code
 - [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
+
+<b style='color:red;'>IMPORTANT: Error in Lecture 16 Slide 28</b> 
+
+<b>X is not random on Slide 28 because of ϵ (shouldn’t be blue)! The explanatory variable (independent variable) is a constant value unaffected by measurement noise, as mentioned in previous slides. Later on, we discuss that the expectation in model risk, bias, variance, etc. is across all possible samples of X in the data distribution, but that’s not yet!</b> 
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding. **Currently, this lecture has no quick checks. We will be adding some shortly.**
