@@ -5,7 +5,7 @@ days:
 - date: 2022-07-18
   events:
     ? '**Midterm**{: .label .label-exam } Midterm Exam'
-    : '[Summer 2022 Midterm Reference Sheet](resources/assets/exams/su22/su22_mt_reference_sheet.pdf)'
+    : '[Reference Sheet](resources/assets/exams/su22/su22_mt_reference_sheet.pdf)'
     ? '**Weekly Check 5**{: .label .label-survey } [Weekly Check 5](https://forms.gle/N4wauBi8CLw5udzb6)'
     ? '**Lab 9**{: .label .label-lab } [Probability and Modeling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab09%2Flab09.ipynb) (due Jul 23)'
     : ''
