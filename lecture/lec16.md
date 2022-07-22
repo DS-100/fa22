@@ -12,7 +12,7 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/1uH_-m0XC4Jrj89dHx09H6tsO893E4S9b3ikIyZhyzi8/edit?usp=sharing){:target="_blank"}
 - no code
-- recording
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding. **Currently, this lecture has no quick checks. We will be adding some shortly.**
