@@ -25,8 +25,8 @@ days:
     ? ''
 - date: 2021-07-22
   events:
-    ? '**Exam Prep 4**{: .label .label-crit }TBD'
-    ? '**Catch-up section 3**{: .label .label-crit } TBD'
+    ? '**Exam Prep 5**{: .label .label-crit } [CV, Probability, BVT](https://drive.google.com/file/d/1HXnR6UJwGYKvZnFJd4-kuRYdiLb9Af24/view?usp=sharing)'
+    ? '**Catch-up section 4**{: .label .label-crit } TBD'
     : ''
 
 ---
