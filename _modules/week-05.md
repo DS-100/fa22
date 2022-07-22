@@ -22,7 +22,7 @@ days:
     ? '**Lecture 16**{: .label .label-lecture } [Probability II: Estimators, Bias, and Variance](lecture/lec16)'
     : '[Ch. 16.1](https://www.textbook.ds100.org/ch/16/inf_pred_gen_dist.html), [Ch. 16.4](https://www.textbook.ds100.org/ch/16/prob_exp_var.html), [19.2](https://www.textbook.ds100.org/ch/19/mult_inference.html)'
     ? '**Discussion 8**{: .label .label-disc } [Probability and Bias-Variance Trade-off](https://drive.google.com/file/d/1wu3hEEbKDmkZPjSpaMEuH5aL6Dx5DpR1/view?usp=sharing)'
-    ? ''
+    : '[Solution](https://drive.google.com/file/d/1GVnMrlf2qKizkNKjxRhbvsFSnFg2Iyjp/view?usp=sharing),[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2021-07-22
   events:
     ? '**Exam Prep 5**{: .label .label-crit } [CV, Probability, BVT](https://drive.google.com/file/d/1HXnR6UJwGYKvZnFJd4-kuRYdiLb9Af24/view?usp=sharing)'
