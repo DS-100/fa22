@@ -31,7 +31,8 @@ days:
 - date: 2021-07-15
   events:
     ? '**Midterm Review**{: .label .label-crit } [Midterm Review](https://edstem.org/us/courses/23165/discussion/1628748)'
-    ? '**Exam Prep 4**{: .label .label-crit } Cancelled'
+    ? '**Exam Prep 4**{: .label .label-crit } [Gradient Descent, Weighted Least Square](https://drive.google.com/file/d/1a9YWPcvG_rUD5e_fHwoha3G7Dlfl0Su9/view?usp=sharing)'
+    : '[Solution](https://drive.google.com/file/d/1IQf4i4T4SM5lrXXSmklteiaCHwdzEUwf/view?usp=sharing), Recording'
     ? '**Catch-up section 3**{: .label .label-crit } Cancelled'
     : ''
 
