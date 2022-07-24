@@ -8,7 +8,7 @@ days:
     : '[Ch. 7.1-7.2](https://www.textbook.ds100.org/ch/07/sql_subsetting.html), [7.5](https://www.textbook.ds100.org/ch/07/sql_other_reps.html)'
     ? '**Lab 10**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab10%2Flab10.ipynb) (due Jul 30)'
     ? '**Lab 11**{: .label .label-lab } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab11%2Flab11.ipynb) (due Jul 30)'
-    ? '**Homework 6**{: .label .label-hw } Probability and Estimators (due Jul 28)'
+    ? '**Homework 6**{: .label .label-hw } [Probability and Estimators coding](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw06%2Fhw06.ipynb), [written](https://drive.google.com/file/d/1JBnXGVx5d6qx1uTTXq2l1HG6cALMxEel/view?usp=sharing)  (due Jul 28)'
     : ''
 - date: 2022-07-26
   events:
