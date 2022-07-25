@@ -15,7 +15,7 @@ days:
   events:
     ? '**Lecture 18**{: .label .label-lecture } [SQL II](lecture/lec18)'
     : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
-    ? '**Discussion 9**{: .label .label-disc } [BVT & SQL](https://drive.google.com/file/d/191pyaxkXyfWeDfb81c3zI07LPiJRNcnR/view?usp=sharing)'
+    ? '**Discussion 9**{: .label .label-disc } [BVT & SQL](https://drive.google.com/file/d/1kg190ujzn77ToLX7SfSxnrTi8LIA4W5o/view?usp=sharing)'
     : ''
 - date: 2022-07-27
   events:
