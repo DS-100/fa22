@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/23165
   faq: https://ds100.org/su22faq
-currWeekNumber: 1
+currWeekNumber: 6
 ---
 
 # Principles and Techniques of Data Science
@@ -31,6 +31,8 @@ UC Berkeley, Summer 2022
   {% endfor %}
 </div>
 </div>
+
+Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 + **Frequently Asked Questions:** Before posting on the [class Ed]({{page.course.edstem}}), please read the [class FAQ page]({{page.course.faq}}).
 + The [Syllabus]({{site.baseurl}}/syllabus) contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.
