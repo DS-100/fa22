@@ -32,6 +32,8 @@ UC Berkeley, Summer 2022
 </div>
 </div>
 
+Jump to current week: [here](#week-{{page.currWeekNumber}}).
+
 + **Frequently Asked Questions:** Before posting on the [class Ed]({{page.course.edstem}}), please read the [class FAQ page]({{page.course.faq}}).
 + The [Syllabus]({{site.baseurl}}/syllabus) contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.
 + Textbook readings are optional and actively in development. See the [Resources]({{site.baseurl}}/resources/#textbook) for more details.
