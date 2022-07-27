@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 19 – PCA
+title: Lecture 19 – PCA II
 nav_exclude: true
 ---
 

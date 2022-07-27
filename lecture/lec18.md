@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Lecture 18 – SQL II
+title: Lecture 18 – SQL II and PCA I
 nav_exclude: true
 ---
 
 # Lecture 18 – SQL II
-
-Presented by Josh Hug
 
 Presented by Anirudhan Badrinath and Dominic Liu
 

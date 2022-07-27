@@ -13,13 +13,13 @@ days:
     : ''
 - date: 2022-07-26
   events:
-    ? '**Lecture 18**{: .label .label-lecture } [SQL II](lecture/lec18)'
+    ? '**Lecture 18**{: .label .label-lecture } [SQL II and PCA I](lecture/lec18)'
     : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
     ? '**Discussion 9**{: .label .label-disc } [BVT & SQL](https://drive.google.com/file/d/1kg190ujzn77ToLX7SfSxnrTi8LIA4W5o/view?usp=sharing)'
     : ''
 - date: 2022-07-27
   events:
-    ? '**Lecture 19**{: .label .label-lecture } [PCA](lecture/lec19)'
+    ? '**Lecture 19**{: .label .label-lecture } [PCA II](lecture/lec19)'
     : '[Ch. 26](https://www.textbook.ds100.org/ch/26/pca_intro.html)'
 - date: 2021-07-28
   events:
