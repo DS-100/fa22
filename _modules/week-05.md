@@ -26,7 +26,7 @@ days:
 - date: 2021-07-22
   events:
     ? '**Exam Prep 5**{: .label .label-crit } [CV, Probability, BVT](https://drive.google.com/file/d/1HXnR6UJwGYKvZnFJd4-kuRYdiLb9Af24/view?usp=sharing)'
-    : '[Solution](https://drive.google.com/file/d/1j00JI_9bGbQP7byd37uqMkgeGnEjTTjq/view?usp=sharing), Recording'
+    : '[Solution](https://drive.google.com/file/d/1j00JI_9bGbQP7byd37uqMkgeGnEjTTjq/view?usp=sharing), no recording'
     ? '**Catch-up section 4**{: .label .label-crit } TBD'
     : 'Recording'
 
