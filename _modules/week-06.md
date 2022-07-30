@@ -25,12 +25,13 @@ days:
   events:
     ? 'Break (No Lecture)'
     ? '**Discussion 10**{: .label .label-disc } [SQL & PCA](https://drive.google.com/file/d/1Cklygp7Il0hTznTqvOIe-jJ5PI0ju4IE/view?usp=sharing)'
-    : 'Solution, Recording'
+    : '[Solution](https://drive.google.com/file/d/1c3rGhcGSQEWVX_A9CXhwZIYSwbRbwnPO/view?usp=sharing), Recording'
     ? '**Homework 7**{: .label .label-hw } [SQL and PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw07%2Fhw07.ipynb) (due Aug 1)'
     : ''
 - date: 2021-07-29
   events:
     ? '**Exam Prep 6**{: .label .label-crit } [SQL & PCA](https://drive.google.com/file/d/1mDPgfd460LG2nTk5uV6DVBNeogW2vRrl/view?usp=sharing)'
+    : '[Solution](https://drive.google.com/file/d/1zDlPXAIvFtau9HAmAVEMFNTGLv2wCJn7/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     ? '**Catch-up section 5**{: .label .label-crit } TBD'
     : ''
 ---

@@ -6,6 +6,7 @@ days:
   events:
     ? '**Lecture 20**{: .label .label-lecture } Classification and Logistic Regression I'
     : '[Ch. 24.1-24.3](https://www.textbook.ds100.org/ch/24/classification_prob.html)'
+    ? '**Weekly Check 7**{: .label .label-survey } Weekly Check 7'
     ? '**Lab 12**{: .label .label-lab } Logistic Regression (due Aug 6)'
     ? '**Lab 13**{: .label .label-lab } Decision Trees & Random Forests (due Aug 6)'
     ? '**Proj 2A**{: .label .label-hw } Spam I (due Aug 4)'
@@ -14,7 +15,7 @@ days:
   events:
     ? '**Lecture 21**{: .label .label-lecture } Logistic Regression II'
     : '[Ch. 24.4-24.8](https://www.textbook.ds100.org/ch/24/classification_log_reg.html)'
-    ? '**Discussion 11**{: .label .label-disc } Logistic Regression'
+    ? '**Discussion 11**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1UT-jMRav1LnvO2WyjzqVcrsxjVoQnuCl/view?usp=sharing)'
     : ''
 - date: 2022-08-03
   events:
@@ -24,7 +25,13 @@ days:
   events:
     ? '**Lecture 23**{: .label .label-lecture } Clustering'
     : '[Ch. 28](https://www.textbook.ds100.org/ch/28/clustering_intro.html)'
-    ? '**Discussion 12**{: .label .label-disc } Decision Trees, Clustering'
+    ? '**Discussion 12**{: .label .label-disc } [Decision Trees, Clustering](https://drive.google.com/file/d/13RdStRDJwcnjNbQGiPefvfxWF8UKJFMR/view?usp=sharing)'
     ? '**Proj 2B**{: .label .label-hw } Spam II (due Aug 8)'
     : ''
+- date: 2021-08-05
+  events:
+    ? '**Exam Prep 7**{: .label .label-crit } [Classifier and Clustering](https://drive.google.com/file/d/1FKRdNpYHDzjhYlTxA9BCmWtDKrYuGJKE/view?usp=sharing)'
+    ? '**Catch-up section 6**{: .label .label-crit } TBD'
+    : ''
+
 ---
