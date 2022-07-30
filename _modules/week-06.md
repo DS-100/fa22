@@ -16,7 +16,7 @@ days:
     ? '**Lecture 18**{: .label .label-lecture } [SQL II and PCA I](lecture/lec18)'
     : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
     ? '**Discussion 9**{: .label .label-disc } [BVT & SQL](https://drive.google.com/file/d/1kg190ujzn77ToLX7SfSxnrTi8LIA4W5o/view?usp=sharing)'
-    : '[Solution](https://drive.google.com/file/d/1eQx6zX5kfZQk9nSiYmEuIsECMpNxZlZh/view?usp=sharing), Recording'
+    : '[Solution](https://drive.google.com/file/d/1eQx6zX5kfZQk9nSiYmEuIsECMpNxZlZh/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-07-27
   events:
     ? '**Lecture 19**{: .label .label-lecture } [PCA II](lecture/lec19)'
@@ -25,7 +25,7 @@ days:
   events:
     ? 'Break (No Lecture)'
     ? '**Discussion 10**{: .label .label-disc } [SQL & PCA](https://drive.google.com/file/d/1Cklygp7Il0hTznTqvOIe-jJ5PI0ju4IE/view?usp=sharing)'
-    : '[Solution](https://drive.google.com/file/d/1c3rGhcGSQEWVX_A9CXhwZIYSwbRbwnPO/view?usp=sharing), Recording'
+    : '[Solution](https://drive.google.com/file/d/1c3rGhcGSQEWVX_A9CXhwZIYSwbRbwnPO/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
     ? '**Homework 7**{: .label .label-hw } [SQL and PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fhw%2Fhw07%2Fhw07.ipynb) (due Aug 1)'
     : ''
 - date: 2021-07-29
