@@ -6,10 +6,10 @@ days:
   events:
     ? '**Lecture 20**{: .label .label-lecture } [Classification and Logistic Regression I](lecture/lec20)'
     : '[Ch. 24.1-24.3](https://www.textbook.ds100.org/ch/24/classification_prob.html)'
-    ? '**Weekly Check 7**{: .label .label-survey } Weekly Check 7'
+    ? '**Weekly Check 7**{: .label .label-survey } [Weekly Check 7](https://forms.gle/97EU3tHqbr72GHTw7)'
     ? '**Lab 12**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab12%2Flab12.ipynb) (due Aug 6)'
     ? '**Lab 13**{: .label .label-lab } [Decision Trees & Random Forests](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab13%2Flab13.ipynb) (due Aug 6)'
-    ? '**Proj 2A**{: .label .label-hw } Spam I (due Aug 4)'
+    ? '**Proj 2A**{: .label .label-hw } [Spam I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fproj%2Fproj2a%2Fproj2a.ipynb) (due Aug 4)'
     : ''
 - date: 2022-08-02
   events:
