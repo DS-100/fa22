@@ -14,7 +14,7 @@ days:
 - date: 2022-06-28
   events:
     ? '**Lecture 5**{: .label .label-lecture } [Regex](lecture/lec05)'
-    : '[Ch. 12](https://www.textbook.ds100.org/ch/12/pa_intro.html)'
+    : '[Ch. 12](http://www.textbook.ds100.org/ch/13/text_intro.html)'
     ? '**Discussion 2**{: .label .label-disc } [Pandas, Data Cleaning](https://drive.google.com/file/d/1UcfnGoxYc7BHv523i5UDb8qhuK27a-C-/view?usp=sharing)' 
     : '[Solution](https://drive.google.com/file/d/16I6wmx6aTAHLqWCG5TXzGhmttyVVFpTr/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-06-29
