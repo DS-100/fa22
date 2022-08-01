@@ -5,7 +5,7 @@ days:
 - date: 2022-08-01
   events:
     ? '**Lecture 20**{: .label .label-lecture } [Classification and Logistic Regression I](lecture/lec20)'
-    : '[Ch. 19.1-19.3](http://www.textbook.ds100.org/ch/19/classification_intro.html)'
+    : '[Ch. 19.1-19.3](https://www.textbook.ds100.org/ch/19/classification_intro.html)'
     ? '**Weekly Check 7**{: .label .label-survey } [Weekly Check 7](https://forms.gle/97EU3tHqbr72GHTw7)'
     ? '**Lab 12**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab12%2Flab12.ipynb) (due Aug 6)'
     ? '**Lab 13**{: .label .label-lab } [Decision Trees & Random Forests](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Flab%2Flab13%2Flab13.ipynb) (due Aug 6)'
@@ -20,11 +20,11 @@ days:
 - date: 2022-08-03
   events:
     ? '**Lecture 22**{: .label .label-lecture } [Decision Trees](lecture/lec22)'
-    : '[Ch. 23](http://www.textbook.ds100.org/ch/23/dtrees_intro.html)'
+    : '[Ch. 23](https://www.textbook.ds100.org/ch/23/dtrees_intro.html)'
 - date: 2022-08-04
   events:
     ? '**Lecture 23**{: .label .label-lecture } [Clustering](lecture/lec23)'
-    : '[Ch. 24](http://www.textbook.ds100.org/ch/24/clustering_intro.html)'
+    : '[Ch. 24](https://www.textbook.ds100.org/ch/24/clustering_intro.html)'
     ? '**Discussion 12**{: .label .label-disc } [Decision Trees, Clustering](https://drive.google.com/file/d/13RdStRDJwcnjNbQGiPefvfxWF8UKJFMR/view?usp=sharing)'
     ? '**Proj 2B**{: .label .label-hw } Spam II (due Aug 8)'
     : ''

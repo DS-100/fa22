@@ -14,7 +14,7 @@ days:
 - date: 2022-07-12
   events:
     ? '**Lecture 12**{: .label .label-lecture } [Gradient Descent, Feature Engineering](lecture/lec12)'
-    : '[Ch. 15.5](http://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
+    : '[Ch. 15.5](https://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
     ? '**Discussion 6**{: .label .label-disc } [Geometry of Least Squares, Gradient Descent, HCE](https://drive.google.com/file/d/1L-BODbYghy8wpEEqCcZFXLDh2yyOrAEr/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/13WjpxSdhL7aht7cj7Suse3wMBER1520z/view?usp=sharing),[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-07-13
