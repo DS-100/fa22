@@ -20,7 +20,7 @@ days:
 - date: 2022-07-27
   events:
     ? '**Lecture 19**{: .label .label-lecture } [PCA II](lecture/lec19)'
-    : '[Ch. 26](https://www.textbook.ds100.org/ch/26/pca_intro.html)'
+    : '[Ch. 22](https://www.textbook.ds100.org/ch/22/pca_intro.html)'
 - date: 2021-07-28
   events:
     ? 'Break (No Lecture)'
