@@ -16,7 +16,7 @@ days:
     ? '**Lecture 21**{: .label .label-lecture } [Logistic Regression II](lecture/lec21)'
     : '[Ch. 19.4-19.8](https://www.textbook.ds100.org/ch/19/classification_log_reg.html)'
     ? '**Discussion 11**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1UT-jMRav1LnvO2WyjzqVcrsxjVoQnuCl/view?usp=sharing)'
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1s293564a7h61Q-ZDTeam6G0x2KLyrNH3/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 - date: 2022-08-03
   events:
     ? '**Lecture 22**{: .label .label-lecture } [Decision Trees](lecture/lec22)'
