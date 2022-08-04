@@ -26,7 +26,7 @@ days:
     ? '**Lecture 23**{: .label .label-lecture } [Clustering](lecture/lec23)'
     : '[Ch. 24](https://www.textbook.ds100.org/ch/24/clustering_intro.html)'
     ? '**Discussion 12**{: .label .label-disc } [Decision Trees, Clustering](https://drive.google.com/file/d/13RdStRDJwcnjNbQGiPefvfxWF8UKJFMR/view?usp=sharing)'
-    ? '**Proj 2B**{: .label .label-hw } Spam II (due Aug 8)'
+    ? '**Proj 2B**{: .label .label-hw } [Spam II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=lab%2Ftree%2Fsu22%2Fproj%2Fproj2b%2Fproj2b.ipynb) (due Aug 8)'
     : ''
 - date: 2021-08-05
   events:
