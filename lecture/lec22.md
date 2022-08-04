@@ -10,9 +10,9 @@ Presented by Anirudhan Badrinath and Dominic Liu
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1Q0ooxUtvGYC0nC42tL0Ry_l-WZZ8_6X06_icLiwxt0M/edit?usp=sharing)
-- code
-- recording
+- [slides](https://docs.google.com/presentation/d/1Q0ooxUtvGYC0nC42tL0Ry_l-WZZ8_6X06_icLiwxt0M/edit?usp=sharing){:target="_blank"}
+- no code
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
 
 
 <!--
