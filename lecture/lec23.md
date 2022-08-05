@@ -11,8 +11,8 @@ Presented by Anirudhan Badrinath and Dominic Liu
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 - [slides](https://docs.google.com/presentation/d/1Ph526wH524ejtdOwdcWq2K_C2XJkmBEFEg8AQMLlOh8/edit?usp=sharing){:target="_blank"}
-- code
-- recording
+- no code
+- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
 
 <!--
 
