@@ -32,6 +32,6 @@ days:
   events:
     ? '**Exam Prep 6**{: .label .label-crit } [SQL & PCA](https://drive.google.com/file/d/1mDPgfd460LG2nTk5uV6DVBNeogW2vRrl/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1zDlPXAIvFtau9HAmAVEMFNTGLv2wCJn7/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
-    ? '**Catch-up section 5**{: .label .label-crit } TBD'
-    : ''
+    ? '**Catch-up section 5**{: .label .label-crit }'
+    : '[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 ---
