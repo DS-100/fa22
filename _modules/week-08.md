@@ -21,5 +21,5 @@ days:
 - date: 2022-08-12
   events:
     ? '**Final**{: .label .label-exam } Final Exam'
-    : ""
+    : '[Reference Sheet](resources/assets/exams/su22/su22_final_reference_sheet.pdf)'
 ---
