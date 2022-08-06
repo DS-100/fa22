@@ -31,7 +31,8 @@ days:
 - date: 2021-08-05
   events:
     ? '**Exam Prep 7**{: .label .label-crit } [Classifier and Clustering](https://drive.google.com/file/d/1FKRdNpYHDzjhYlTxA9BCmWtDKrYuGJKE/view?usp=sharing)'
-    ? '**Catch-up section 6**{: .label .label-crit } TBD'
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1M7uNyNnQw4vXxEwkdMEleIvf5mqqXkNx/view?usp=sharing), [Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
+    ? '**Catch-up section 6**{: .label .label-crit }'
+    : '[Recording](https://edstem.org/us/courses/23165/discussion/1592785)'
 
 ---
