@@ -17,6 +17,7 @@ days:
     : ''
 - date: 2022-08-11
   events:
+    ? '**Optional Lecture**{: .label .label-lecture} [Neural Networks](lecture/optional)'
     ? 'Review'
     : ''
 - date: 2022-08-12
