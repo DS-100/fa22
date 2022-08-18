@@ -6,13 +6,13 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    edstem: https://edstem.org/us/courses/23165
-    faq: https://ds100.org/su22faq
+    edstem: https://edstem.org/us/courses/
+    faq: https://ds100.org/fa22faq
     bcourses: ""
-    head_ta: Andrew Lenz
-    head_email: andrew.lenz@berkeley.edu
-    comms_ta: Francis Geng and Rahul Shah
-    comms_email: fgeng@berkeley.edu and rsha256@berkeley.edu
+    head_ta: 
+    head_email: 
+    comms_ta: 
+    comms_email: 
     email: data100.instructors@berkeley.edu
 ---
 
@@ -41,7 +41,7 @@ Combining data, computation, and inferential thinking, data science is redefinin
 <a name = 'prerequisites'></a>
 ### Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should fill out the [Enrollment exception form](https://forms.gle/tM7ThCxRwmm9Ngnc6) managed by CDSS to request an exception.
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should fill out the [Enrollment exception form](https://data.berkeley.edu/academics/undergraduate-programs/courses/fall-2022-classes-enrollment-info) managed by CDSS to request an exception.
 
 - **Foundations of Data Science**: [Data 8](http://data8.org) covers much of the material in Data 100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
 - **Computing**: _The Structure and Interpretation of Computer Programs_ ([CS 61A](http://cs61a.org)) or _Computational Structures in Data Science_ ([CS 88](https://cs88-website.github.io)). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
@@ -88,13 +88,13 @@ We are committed to creating a learning environment welcoming of all students th
 
 ## Course Components
 
-Below is a high-level “typical week in the course” for Summer 2022.
+Below is a high-level “typical week in the course” for Fall 2022.
 
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
-| <span style="color:Green">Live Lecture</span>| <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | <span style="color:Green">Live Lecture</span> | |
-|<span style="color:Blue">Discussion Section</span> | | <span style="color:Blue">Discussion Section</span>| | | 
+| | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
+| | | | | <span style="color:Blue">Discussion Section</span>| 
 |<span style="color:Red">Homework N released</span> | | | <span style="color:Red">Homework N+1 released</span> | | 
 |<span style="color:Red">**Homework N-1 due**</span>| | |<span style="color:Red">**Homework N due**</span>| |
 |(Sunday) <span style="color:Purple">**Labs N, N+1 released**</span> | | | | (Saturday) <span style="color:Purple"> **Labs N, N+1 due**</span> | 
@@ -107,7 +107,7 @@ Below is a high-level “typical week in the course” for Summer 2022.
 <br>
 
 ### Lecture
-There are 4 live lectures per week. Lectures will be entirely on Zoom. All lecture recordings will also be published within 24 hours of the live recording. 
+There are 2 live lectures per week. Lectures will be in Wheeler 150. All lecture recordings will also be published within 24 hours of the live recording. 
 
 
 <!--
@@ -115,7 +115,7 @@ We will have some guest speakers this term, on topics including Human Context an
 -->
 
 ### Discussion
-Live discussion sections are on Tuesdays and Thursdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
+Live discussion sections are on Fridays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
 
 - **You must be assigned to a discussion section, even if you don't intend on regularly attending.**
 - To encourage attendance and participation in live discussion, you have the option to have discussion attendance contribute to your overall course grade. See [Policies](#policies) below for more details.
@@ -179,8 +179,8 @@ That is, your score on them does not matter, you just need to do them. For each 
 ### Exams
 
 There will be two exams in this course:
-* Midterm on **Monday, July 18**. Time TBD.
-* Final on **Friday, August 12**. Time TBD.
+* Midterm on . Time TBD.
+* Final on . Time TBD.
 
 - Alternate exam times will be offered for the midterm and final, and the form to request the alternate will be posted on Ed soon after the start of class. The alternate exams will likely be on the same day but different time. The primary purpose of the alternate exam is to accommodate students in different timezones, but students with documented conflicts and unique personal circumstances may also be approved to take the alternate exam.
 

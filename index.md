@@ -4,15 +4,15 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-  edstem: https://edstem.org/us/courses/23165
-  faq: https://ds100.org/su22faq
-currWeekNumber: 7
+  edstem: https://ds100.org/fa22
+  faq: https://ds100.org/fa22faq
+currWeekNumber: 1
 ---
 
 # Principles and Techniques of Data Science
 
 {: .mb-2 }
-UC Berkeley, Summer 2022
+UC Berkeley, Fall 2022
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
@@ -22,7 +22,7 @@ UC Berkeley, Summer 2022
 <a href="https://edstem.org/us/courses/15436/discussion/1021263" class="btn btn-purple">Discussion Sign-Up/Zoom</a>
 <a href="{{site.baseurl}}/calendar" class="btn btn-green">Office Hour/Lab Help</a>
 </p>
--->
+
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
@@ -33,6 +33,10 @@ UC Berkeley, Summer 2022
 </div>
 
 Jump to current week: [here](#week-{{page.currWeekNumber}}).
+-->
+
+**The website is still under development. Everything is subject to change until this message is taken down.**
+
 
 + **Frequently Asked Questions:** Before posting on the [class Ed]({{page.course.edstem}}), please read the [class FAQ page]({{page.course.faq}}).
 + The [Syllabus]({{site.baseurl}}/syllabus) contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.
@@ -50,6 +54,7 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 <br><br>
 -->
+
 
 <a name="schedule"></a>
 ## Schedule

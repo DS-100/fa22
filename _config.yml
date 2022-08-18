@@ -16,7 +16,7 @@
 title: Data 100
 description: Principles and Techniques of Data Science
 author: Dominic Liu
-baseurl: '/su22' # the subpath of your site, e.g. /blog
+baseurl: '/fa22' # the subpath of your site, e.g. /blog
 url: 'https://ds100.org' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
@@ -27,13 +27,13 @@ permalink: pretty
 nav_links:
   Links:
     Course FAQ:
-      - 'https://ds100.org/su22faq'
+      - 'https://ds100.org/fa22faq'
     Datahub:
       - 'https://data100.datahub.berkeley.edu'
     Gradescope:
-      - 'https://www.gradescope.com/courses/403135'
+      - 'https://www.gradescope.com/'
     Ed:
-      - 'https://edstem.org/us/courses/23165'
+      - 'https://edstem.org/us/'
 
 aux_links:
   # 'Kevin Lin':
