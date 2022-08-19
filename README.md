@@ -1,6 +1,6 @@
-## Data 100 Summer 2022 website
+## Data 100 Fall 2022 website
 
-Public facing repo for Data 100, Summer 2022
+Public facing repo for Data 100, Fall 2022
 
 Note to staff: **Always** pull changes before making any edits. Merge conflicts (even those resolved automatically) can break things on the Datahub side.
 
@@ -16,6 +16,6 @@ git push              # pushes local branch to remote branch
 ```
 
 
-Note to future semesters:
+#### Note to future semesters:
 
 When replicating this repo for future semesters, simply create a new repo in DS-100 and select `import`.  
