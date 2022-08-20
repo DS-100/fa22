@@ -21,39 +21,24 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 
 ## Exam Resources
 
-| Semester | Midterm (1) | Midterm 2  | Final |
-| -- | -- | -- | -- |
-| Summer 2022 | [Exam](assets/exams/su22/su22_mt.pdf) [(Solutions)](assets/exams/su22/su22_mt_sol.pdf)| | [Exam](assets/exams/su22/su22_final.pdf) [(Solutions)](assets/exams/su22/su22_final_sol.pdf) |
-| Spring 2022 | [Exam](assets/exams/sp22/sp22_mt1.pdf) [(Solutions)](assets/exams/sp22/sp22_mt1_sol.pdf) |  [Exam](assets/exams/sp22/sp22_mt2.pdf) [(Solutions)](assets/exams/sp22/sp22_mt2_sol.pdf) | [Exam](assets/exams/sp22/sp22_final.pdf) [(Solutions)](assets/exams/sp22/sp22_final_sol.pdf)  |
+| Semester | Midterm (1) | Midterm 2  | Final | Reference Sheet |
+| -- | -- | -- | -- | -- |
+| Summer 2022 | [Exam](assets/exams/su22/su22_mt.pdf) [(Solutions)](assets/exams/su22/su22_mt_sol.pdf)| | [Exam](assets/exams/su22/su22_final.pdf) [(Solutions)](assets/exams/su22/su22_final_sol.pdf) | [Midterm](assets/exams/su22/su22_mt_reference_sheet.pdf), [Final](assets/exams/su22/su22_final_reference_sheet.pdf)
+| Spring 2022 | [Exam](assets/exams/sp22/sp22_mt1.pdf) [(Solutions)](assets/exams/sp22/sp22_mt1_sol.pdf) |  [Exam](assets/exams/sp22/sp22_mt2.pdf) [(Solutions)](assets/exams/sp22/sp22_mt2_sol.pdf) | [Exam](assets/exams/sp22/sp22_final.pdf) [(Solutions)](assets/exams/sp22/sp22_final_sol.pdf)  | [Midterm 1](assets/exams/sp22/mt1_reference_sheet.pdf), [Midterm 2](assets/exams/sp22/mt2_reference_sheet.pdf), [Final](assets/exams/sp22/Final_reference_sheet.pdf)
 | Fall 2021 | [Exam](assets/exams/fa21/fa21mt.pdf) [(Solutions)](assets/exams/fa21/fa21mtsol.pdf) |  |  |
 | Summer 2021 | [Exam](assets/exams/su21/su21mt.pdf) [(Solutions)](assets/exams/su21/su21mt_sol.pdf) [[Video]](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoYEIK8ZhIDCEE2Td6Ih_2V) |  | [Exam](assets/exams/su21/su21final.pdf) [(Solutions)](assets/exams/su21/su21final_sol.pdf) |
 | Spring 2021 | [Exam](assets/exams/sp21/sp21mt.pdf) [(Solutions)](assets/exams/sp21/sp21mtsol.pdf) |  | [Exam](assets/exams/sp21/sp21final.pdf) [(Solutions)](assets/exams/sp21/sp21finalsol.pdf) |
 | Fall 2020 | [Exam](assets/exams/fa20/fa20mt.pdf) [(Solutions)](assets/exams/fa20/fa20mtsol.pdf) |  | [Exam](assets/exams/fa20/fa20final.pdf) [(Solutions)](assets/exams/fa20/fa20finalsol.pdf)  |
 | Summer 2020 | [Exam](assets/exams/su20/su20mt1.pdf) [(Solutions)](assets/exams/su20/su20mt1sol.pdf) | [Exam](assets/exams/su20/su20mt2.pdf) [(Solutions)](assets/exams/su20/su20mt2sol.pdf) | [Exam](assets/exams/su20/su20final.pdf) [(Solutions)](assets/exams/su20/su20finalsol.pdf) |
-| Spring 2020 | [Checkpoint](assets/exams/sp20/sp20checkpoint.pdf) [(Solutions)](assets/exams/sp20/sp20checkpointsol.pdf) | | N/A |
-| Fall 2019| [Exam](assets/exams/fa19/fa19midterm1.pdf) [(Solutions)](assets/exams/fa19/fa19midterm1sol.pdf) | [Exam](assets/exams/fa19/fa19midterm2.pdf) [(Solutions)](assets/exams/fa19/fa19midterm2sol.pdf) | [Exam](assets/exams/fa19/fa19final.pdf) [(Solutions)](assets/exams/fa19/fa19finalsol.pdf) |
+| Spring 2020 | [Checkpoint](assets/exams/sp20/sp20checkpoint.pdf) [(Solutions)](assets/exams/sp20/sp20checkpointsol.pdf) | | N/A | [Checkpoint](assets/exams/sp20/sp20_checkpoint_reference_sheet.pdf) |
+| Fall 2019| [Exam](assets/exams/fa19/fa19midterm1.pdf) [(Solutions)](assets/exams/fa19/fa19midterm1sol.pdf) | [Exam](assets/exams/fa19/fa19midterm2.pdf) [(Solutions)](assets/exams/fa19/fa19midterm2sol.pdf) | [Exam](assets/exams/fa19/fa19final.pdf) [(Solutions)](assets/exams/fa19/fa19finalsol.pdf) | [Midterm 1](assets/exams/fa19/fa19midterm1refsheet.pdf)|
 | Summer 2019| [Exam](assets/exams/su19/su19mt_blank.pdf) [(Solutions)](assets/exams/su19/su19mt_sol.pdf) [[Video]](https://www.youtube.com/watch?v=7UVjFuRTHMc)    |  | [Exam](assets/exams/su19/su19final_blank.pdf) [(Solutions)](assets/exams/su19/su19final_sol.pdf) |
-| Spring 2019| [Exam](assets/exams/sp19/data100_sp19_mt1.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt1_sol.pdf) [[Video](https://youtu.be/F3tu9PZHhyU)]     | [Exam](assets/exams/sp19/data100_sp19_mt2.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt2_sol.pdf) [[Video](https://youtu.be/-XCRQ6CKNb0)] | [Exam](assets/exams/sp19/data100_sp19_final.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_final_sol.pdf)     |
+| Spring 2019| [Exam](assets/exams/sp19/data100_sp19_mt1.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt1_sol.pdf) [[Video](https://youtu.be/F3tu9PZHhyU)]     | [Exam](assets/exams/sp19/data100_sp19_mt2.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_mt2_sol.pdf) [[Video](https://youtu.be/-XCRQ6CKNb0)] | [Exam](assets/exams/sp19/data100_sp19_final.pdf) [(Solutions)](assets/exams/sp19/data100_sp19_final_sol.pdf)     | [Midterm 1](assets/exams/sp19/sp19_mt1_reference_sheet.pdf)
 | Fall 2018  | [Exam](assets/exams/fa18/fa18midterm.pdf) [(Solutions)](assets/exams/fa18/fa18midtermsol.pdf)|  | [Exam](assets/exams/fa18/fa18final.pdf) [(Solutions)](assets/exams/fa18/fa18finalsol.pdf)|
 | Spring 2018| [Exam](assets/exams/sp18/sp18midterm.pdf) [(Solutions)](assets/exams/sp18/sp18midtermsol.pdf)|  | [Exam](assets/exams/sp18/sp18final.pdf) [(Solutions)](assets/exams/sp18/sp18finalsol.pdf) [[Video]](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) |
 | Fall 2017  | [Exam](assets/exams/fa17/fa17midterm.pdf) [(Solutions)](assets/exams/fa17/fa17midtermsol.pdf) [[Video]](https://www.youtube.com/watch?v=uYS4ZBB0aZU&list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) |  | [Exam](assets/exams/fa17/fa17final.pdf) [(Solutions)](assets/exams/fa17/fa17finalsol.pdf)|
 | Spring 2017|  [Exam](assets/exams/sp17/sp17midterm.pdf) [(Solutions)](assets/exams/sp17/sp17midtermsol.pdf)    |  | [Exam](assets/exams/sp17/sp17final.pdf) [(Solutions)](assets/exams/sp17/sp17finalsol.pdf)|
 
-[Summer 2022 Final Reference Sheet](assets/exams/su22/su22_final_reference_sheet.pdf)
-
-[Summer 2022 Midterm Reference Sheet](assets/exams/su22/su22_mt_reference_sheet.pdf)
-
-[Spring 2022 Final Reference Sheet](assets/exams/sp22/final_reference_sheet.pdf)
-
-[Spring 2022 Midterm 2 Reference Sheet](assets/exams/sp22/mt2_reference_sheet.pdf)
-
-[Spring 2022 Midterm 1 Reference Sheet](assets/exams/sp22/mt1_reference_sheet.pdf)
-
-[Spring 2020 Checkpoint Reference Sheet](assets/exams/sp20/sp20_checkpoint_reference_sheet.pdf)
-
-[Fall 2019 Midterm 1 Reference Sheet](assets/exams/fa19/fa19midterm1refsheet.pdf)
-
-[Spring 2019 Midterm 1 Reference Sheet](assets/exams/sp19/sp19_mt1_reference_sheet.pdf)
 
 <a name = 'course_website'></a>
 ## Course Website
