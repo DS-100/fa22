@@ -6,7 +6,7 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    edstem: https://edstem.org/us/courses/
+    edstem: https://edstem.org/us/courses/25695/
     faq: https://ds100.org/fa22faq
     bcourses: ""
     head_ta: 

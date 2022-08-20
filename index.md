@@ -4,7 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-  edstem: https://ds100.org/fa22
+  edstem: https://edstem.org/us/courses/25695/
   faq: https://ds100.org/fa22faq
 currWeekNumber: 1
 ---
@@ -35,13 +35,15 @@ UC Berkeley, Fall 2022
 Jump to current week: [here](#week-{{page.currWeekNumber}}).
 -->
 
-**The website is still under development. Everything is subject to change until this message is taken down.**
-
++ **The website is still under development. Everything is subject to change until this message is taken down.**
 
 + **Frequently Asked Questions:** Before posting on the [class Ed]({{page.course.edstem}}), please read the [class FAQ page]({{page.course.faq}}).
+
+<!--
 + The [Syllabus]({{site.baseurl}}/syllabus) contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.
 + Textbook readings are optional and actively in development. See the [Resources]({{site.baseurl}}/resources/#textbook) for more details.
 + **Note:** The schedule of lectures and assignments is subject to change.
+-->
 
 <!--
 Jump to current week: [here](#week-{{page.currWeekNumber}}).
