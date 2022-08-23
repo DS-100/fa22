@@ -33,6 +33,7 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), [Tutors](#tutors), or
   {% endfor %}
 </div>
 
+<!---
 <a name = 'tutors'></a>
 
 ## Tutors
@@ -43,6 +44,8 @@ Jump to [Instructors](#inst), [Teaching Assistants](#tas), [Tutors](#tutors), or
   {{ staffer }}
   {% endfor %}
 </div>
+
+-->
 
 
 <a name = 'readers'></a>
