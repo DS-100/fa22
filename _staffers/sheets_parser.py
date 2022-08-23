@@ -57,7 +57,7 @@ def get_photo_location(photos, attributes):
 
 def main():
     photos = os.listdir('../resources/assets/staff_pics')
-    for i in range(2, 36): #modify the second number depending on the number of rows in the sheet.
+    for i in range(2, 37): #modify the second number depending on the number of rows in the sheet.
         row = sheet.row_values(i)
         attributes = attribute_parser(row)
         # print(attributes)
