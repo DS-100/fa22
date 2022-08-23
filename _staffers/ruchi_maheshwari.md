@@ -1,6 +1,6 @@
 ---
 name: Ruchi Maheshwari
-role: Other
+role: Reader
 email: rmaheshwari@berkeley.edu
 website: 
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Ruchi_Maheshwari.jpg

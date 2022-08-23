@@ -1,6 +1,6 @@
 ---
 name: Natalie Chan
-role: Other
+role: Reader
 email: nataliechan@berkeley.edu
 website: 
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Natalie_Chan.jpg

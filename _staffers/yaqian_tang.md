@@ -1,6 +1,6 @@
 ---
 name: Yaqian Tang
-role: Other
+role: Reader
 email: yaqian.tang@berkeley.edu
 website: 
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Yaqian_Tang.jpg

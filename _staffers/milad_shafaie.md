@@ -1,6 +1,6 @@
 ---
 name: Milad Shafaie
-role: Other
+role: Reader
 email: mshafaie@berkeley.edu
 website: 
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Milad_Shafaie.jpg

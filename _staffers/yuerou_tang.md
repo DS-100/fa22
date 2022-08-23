@@ -1,6 +1,6 @@
 ---
 name: Yuerou Tang
-role: Other
+role: Reader
 email: yuerou.tang@berkeley.edu
 website: https://yuerout.github.io/birds/
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Yuerou_Tang.jpg

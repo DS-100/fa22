@@ -1,6 +1,6 @@
 ---
 name: Zaid Maayah
-role: Other
+role: Reader
 email: zaidmaayah@berkeley.edu
 website: http://zaidmaayah.github.io/
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Zaid_Maayah.jpg

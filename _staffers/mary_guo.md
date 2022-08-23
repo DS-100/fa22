@@ -1,6 +1,6 @@
 ---
 name: Mary Guo
-role: Other
+role: Reader
 email: guozirui2010@berkeley.edu
 website: 
 photo: http://ds100.org/sp22/resources/assets/staff_pics/Mary_Guo.jpg

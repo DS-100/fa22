@@ -40,6 +40,8 @@ def assign_role(job):
         return "Teaching Assistant"
     elif "Tutor" in job:
         return "Tutor"
+    elif "Reader" in job:
+        return "Reader"
     elif "Instructor" in job:
         return "Instructor"
     else:

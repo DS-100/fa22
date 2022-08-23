@@ -1,6 +1,6 @@
 ---
 name: Wesley or Wes, whatever you prefer Little
-role: Other
+role: Reader
 email: weslittle@berkeley.edu
 website: https://www.linkedin.com/in/wesley-l-0a614b186/
 photo: http://ds100.org/sp22/resources/assets/staff_pics/
