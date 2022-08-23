@@ -1,0 +1,9 @@
+---
+name: Mary Guo
+role: Other
+email: guozirui2010@berkeley.edu
+website: 
+photo: http://ds100.org/sp22/resources/assets/staff_pics/Mary_Guo.jpg
+pronouns: she/her/hers
+---
+Hi everyone! I'm a senior major in data science and economics, minor in CS. I like swimming, cooking and traveling in my free time. I'm also a big foodie: )

@@ -17,7 +17,7 @@ scopes = [
 ]
 credentials = ServiceAccountCredentials.from_json_keyfile_name("sheets_parser.json", scopes) #access the json key you downloaded earlier
 file = gspread.authorize(credentials) # authenticate the JSON key with gspread
-sheet = file.open("DS100 Sp22 Staff Onboarding (Responses)")  #open sheet
+sheet = file.open("Data 100 Fa22 Staff Onboarding (Responses)")  #open sheet
 sheet = sheet.sheet1  #all desired info should be in the first sheet
 
 def attribute_parser(row):
@@ -55,11 +55,11 @@ def get_photo_location(photos, attributes):
 
 def main():
     photos = os.listdir('../resources/assets/staff_pics')
-    for i in range(2, 42): #modify the second number depending on the number of rows in the sheet.
+    for i in range(2, 36): #modify the second number depending on the number of rows in the sheet.
         row = sheet.row_values(i)
         attributes = attribute_parser(row)
         # print(attributes)
-        filename = attributes['sid'] + '.md'
+        filename = attributes['name'].lower().replace(' ', '_') + '.md'
         file = open(filename, 'w')
         if attributes['role'] == "Instructor":
             file.write('---\n'
