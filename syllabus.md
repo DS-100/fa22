@@ -96,9 +96,9 @@ Below is a high-level “typical week in the course” for Fall 2022.
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
 | | <span style="color:Blue">Discussion Section</span>| | | | 
-| | | | | <span style="color:Red">**Homework due/released**</span> | 
-| | | | | <span style="color:Red">**Lab due/released**</span>|
-| <span style="color:Red">**Quick check n-1 due**</span> | | |<span style="color:Red">**Quick check n released**</span>| | 
+| | | |<span style="color:Red">**Homework N-1 due**</span> | <span style="color:Red">Homework N released</span> | 
+| |<span style="color:Red">**Lab N-1 due**</span>| | | <span style="color:Red">Lab N released</span>|
+| <span style="color:Red">**Quick check N-1 due**</span> | | |<span style="color:Red">Quick check N released</span>| | 
 
 * **All deadlines are subject to change.**
 * Office Hours are scheduled on the [Calendar page](../calendar). 
