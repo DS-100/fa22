@@ -111,9 +111,9 @@ There are 2 live lectures per week. Lectures will be in Wheeler 150 and broadcas
 
 ### Discussion
 Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material. 
-- You need to be assigned to a discussion section. Sign-ups will be posted on Ed. 
+- You need to be assigned to a discussion section. Sign-ups will be posted on Ed.
 - Discussion attendance is mandatory for students enrolled in Data 100. Discussion attendance is not mandatory for students enrolled in Data 200.
-- Each discussion will be graded on a 0/1 basis. As of now, that one point will be based on attendance to only the section you signed up for at the beginning of the semester.
+- Each discussion will be graded on a 0/1 basis. As of now, that one point will be based on attendance to only the section you signed up for at the beginning of the semester. However, you can attend any discussion you want for the first 3 weeks as long as it does not exceed room capacity.
 
 ### Homework and Projects
 
