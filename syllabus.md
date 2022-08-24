@@ -9,14 +9,14 @@ course:
     edstem: https://edstem.org/us/courses/25695/
     faq: https://ds100.org/fa22faq
     bcourses: ""
-    head_ta: 
-    head_email: 
-    comms_ta: 
-    comms_email: 
+    head_ta_1: Kanu Grover 
+    head_1_email: grover.kanu@berkeley.edu
+    head_ta_2: Dominic Liu
+    head_2_email: hangxingliu@berkeley.edu
+    comms_ta: Samantha Hing
+    comms_email: snhing@berkeley.edu
     email: data100.instructors@berkeley.edu
 ---
-
-+ **The website is still under development. Everything is subject to change until this message is taken down.**
 
 # Syllabus
 {:.no_toc}
@@ -43,7 +43,7 @@ Combining data, computation, and inferential thinking, data science is redefinin
 <a name = 'prerequisites'></a>
 ### Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should fill out the [Enrollment exception form](https://data.berkeley.edu/academics/undergraduate-programs/courses/fall-2022-classes-enrollment-info) managed by CDSS to request an exception.
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in this class. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. You should fill out the [Enrollment Exception Form](https://data.berkeley.edu/academics/undergraduate-programs/courses/fall-2022-classes-enrollment-info) managed by CDSS to request an exception.
 
 - **Foundations of Data Science**: [Data 8](http://data8.org) covers much of the material in Data 100 but at an introductory level. Data8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
 - **Computing**: _The Structure and Interpretation of Computer Programs_ ([CS 61A](http://cs61a.org)) or _Computational Structures in Data Science_ ([CS 88](https://cs88-website.github.io)). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
@@ -96,11 +96,9 @@ Below is a high-level “typical week in the course” for Fall 2022.
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
 | | <span style="color:Blue">Discussion Section</span>| | | | 
-| | | | | <span style="color:Red">Homework N released</span> | 
-| | | | | <span style="color:Red">**Homework N-1 due**</span>|
-| | | | | <span style="color:Red">Lab N released</span> | 
-| | | | | <span style="color:Red">**lab N-1 due**</span>|
-| Quick check n-1 due | | |Quick check n released| | 
+| | | | | <span style="color:Red">**Homework due/released**</span> | 
+| | | | | <span style="color:Red">**Lab due/released**</span>|
+| <span style="color:Red">**Quick check n-1 due**</span> | | |<span style="color:Red">**Quick check n released**</span>| | 
 
 * **All deadlines are subject to change.**
 * Office Hours are scheduled on the [Calendar page](../calendar). 
@@ -109,16 +107,13 @@ Below is a high-level “typical week in the course” for Fall 2022.
 <br>
 
 ### Lecture
-There are 2 live lectures per week. Lectures will be in Wheeler 150. All lecture recordings will also be published within 24 hours of the live recording. 
+There are 2 live lectures per week. Lectures will be in Wheeler 150 and broadcasted live on Zoom. All lecture recordings will also be published within 24 hours of the live recording.
 
 ### Discussion
-Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
-
-- You must be assigned to a discussion section, even if you don't intend on regularly attending.
-To encourage attendance and participation in live discussion, discussion attendance contribute to 5% of your overall course grade. See Policies below for more details.
-- Discussion sign-ups will be released the first week of class through a Google Form. Attendance points will only be given for the section you are assigned to. If you are assigned to a discussion section that does not work for you, please request a switch using the form posted on Ed. You can switch sections before the 4nd section. From the 4nd week onwards, your section will be locked in for the rest of the summer.
-- In a typical week, we will release the discussion worksheet on Monday night and solutions the day after.
-
+Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material. 
+- You need to be assigned to a discussion section. Sign-ups will be posted on Ed.
+- Discussion attendance is mandatory for students enrolled in Data 100. Discussion attendance is not mandatory for students enrolled in Data 200.
+- Each discussion will be graded on a 0/1 basis. As of now, that one point will be based on attendance to only the section you signed up for at the beginning of the semester. However, you can attend any discussion you want for the first 3 weeks as long as it does not exceed room capacity.
 
 ### Homework and Projects
 
@@ -126,8 +121,6 @@ Homeworks are half-week-long assignments that are designed to help students deve
 
 Projects: Projects are week-long assignments that synthesize multiple topics.
 
-<!--- - In a typical week, one homework (or project) is released Monday through DataHub and is due the same Thursday at 11:59PM Pacific Time through Gradescope; the next homework is released Thursday and due the following Monday. One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks. See the [Policies](#policies) section for grading details.
-<!--- Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment. -->
 - Homeworks and projects have both visible and hidden autograder tests. The visible tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.
 - The primary form of support students will have for homeworks and projects are the **office hours** we’ll host, and **Ed**.
 - Homeworks and projects must be completed individually. See the [Collaboration Policy](#collaboration-policy-and-academic-dishonesty) for more details.
@@ -135,75 +128,66 @@ Projects: Projects are week-long assignments that synthesize multiple topics.
 ### Lab
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
-
-<!--- In a typical week, two labs are released on Sunday through DataHub and are due next Saturday at 11:59PM through Gradescope.-->
 - All lab autograder tests are visible.
-<!--- We recommend doing the first lab after Tuesday's lecture and the second lab after Thursday's lecture.-->
-- In lieu of official lab sections, we will be helping with lab in several ways:
-    - Lab Help Sections, which are office hours that prioritize lab debugging and questions. See the [Calendar](../calendar) and our [Office Hours](#office-hours) for more details.
-    - EdStem.
-- All labs are intended to take about an hour. You can therefore think of Lab Help Sections as lab sections, where attendance is not required nor expected to complete the lab. The best place to get individual help with lab is Lab Help Sections.
+- We will not be having Lab sections this semester. Rather, we'll provide extensive lab support on Ed.
+- All labs are intended to take about an hour. 
+- Lab walkthroughs will be released following the lab due date. These will primarily help to build our staff intuition for solving lab problems and how they can be applied to more difficult homework questions.
+
+### Quick Checks
+
+Quick checks are weekly short assignments to check that you are keeping up with lectures. They should take around 10 minutes to complete. They will be assigned on Gradescope and mainly consist of multiple choice questions. Your three lowest scores will be dropped.
 
 ### Office Hours and Communication
 
-The office hours and locations are listed on the [Calendar](../calendar); office hours will be held both virtually and in-person. Instructor office hours are also listed on the calendar.
+The office hours and locations (mainly in [Warren 101](https://dac.berkeley.edu/warren-hall-2195-hearst-ave)) are listed on the [Calendar](../calendar); office hours will mainly be held in-person, with some virtual options available. Instructor office hours are also listed on the calendar.
 
-In general, students can come to office hours for any questions on course assignments or material. Note that events labeled Lab Help Sections will prioritize lab debugging and questions, after which other questions can be addressed.
+In general, students can come to office hours for any questions on course assignments or material. We will also have Homework/Project parties Wednesday 5-8 PM, where you can come work with your peers and ask questions.
 
-Virtual OH can be accessed via [oh.ds100.org](https://oh.ds100.org/), where students add themselves to the “queue” and specify the assignment they need help on.
-<!-- where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff. -->
-<!-- - We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar). -->
+Office hour queues are managed through [oh.ds100.org](https://oh.ds100.org/), where students add themselves to the “queue” and specify the assignment they need help on.
 
-**EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ](page.course.faq) page first before emailing instructors. 
+**EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ]({{page.course.faq}}) page first before emailing instructors. 
 
 **Staff email**:
-You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the instructors will get back to you. Note that to ensure more timely responses, this address is monitored by the two instructors (Anirudhan and Dominic), as well as several lead GSIs, to ensure more timely responses. You can contact Anirudhan and Dominic directly for matters that require strict privacy and their direct attention.
+You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the TAs will get back to you. Note that to ensure more timely responses, this address is monitored by a team of two instructors (Fernando and Will), Head TA's (Kanu Grover and Dominic Liu), as well as several lead GSIs, to ensure more timely responses. 
 
-### Quick Checks
-TBD 
+For sensitive matters, you should directly contact the Head TA's [{{page.course.head_ta_1}}](mailto:{{page.course.head_1_email}}) and [{{page.course.head_ta_2}}](mailto:{{page.course.head_2_email}}). You should only contact Fernando and Will directly for matters that require strict privacy and their direct attention.
 
 
 ### Exams
 
 There will be two exams in this course:
-* Midterm on Oct 19 7-9pm.
-* Final on . Time TBD.
+* Midterm on **Wednesday, October 19** 7-9PM PT.
+* Final on **Tuesday, December 13** 3-6PM PT (exam group 7).
 
-- Alternate exam times will be offered for the midterm and final, and the form to request the alternate will be posted on Ed soon after the start of class. The alternate exams will likely be on the same day but different time. The primary purpose of the alternate exam is to accommodate students in different timezones, but students with documented conflicts and unique personal circumstances may also be approved to take the alternate exam.
+Alternate exam policies:
+- **Midterm**: To be announced
+- **Final**: The course only allows for time conflicts for specifc courses that have been pre-approved for conflicts, after planning with course instructors of those courses and the Division. If, at the time of the final, you are enrolled in a course approved for finals conflicts, you will be allowed to take an alternate exam that will be offered only once after the Data 100 final. Currently the ONLY course approved for final exam time conflicts is: CS 70.
 
 <!--
 Two time options will be offered to cover various timezones. No further alternates will be offered.
 -->
 
+### Graduate Final Project
+All students enrolled in the graduate version of the course (CS C200 or Stat C200C, i.e. Data 200) will be graded according to the Graduate grading scheme, which includes a graduate final project. More details to follow.
+
 
 
 ## Policies
 
- **Grading Scheme DATA 100**
+### Grading Scheme
 
-| Category | Weight | Details |
-| --- | --- | --- |
-| Homeworks | 25% |  |
-| Projects | 15% | |
-| Labs | 10% |  |
-| Discussion | 5% | Drop 3 lowest scores|
-| Quick Checks | 5% | Drop 3 lowest scores|
-| Midterm Exam | 15% | |
-| Final Exam | 25% | |
+| Category | Data 100 | Data 200 | Details |
+| --- | --- | --- | --- |
+| Homeworks | 25% | 25%| No drop|
+| Projects | 15% | 15%| No drop|
+| Labs | 10% |  - | No drop|
+| Discussion | 5% | - | Drop 3 lowest scores|
+| Quick Checks | 5% | 5% | Drop 3 lowest scores|
+| Midterm Exam | 15% | 15%| |
+| Final Exam | 25% | 25% | |
+|Graduate Final Project| - | 15% | |
 
-Your discussion score is the average of your scores for each individual discussion. Each discussion will be graded on a 0/1 basis. As of now, that one point will be determined based on attendance—if you attend a discussion section, you will receive the point for that discussion section. However, we reserve the right to increase the threshold to earn this point, for example, by requiring some form of participation. Note that cameras are encouraged, but are **NOT** required in discussion section.
-
- **Grading Scheme DATA 200**
-
- | Category | Weight | Details |
-| --- | --- | --- |
-| Homeworks | 25% |  |
-| Projects | 15% | |
-| Quick Checks | 5% | Drop 3 lowest scores|
-| Midterm Exam | 15% | |
-| Final Exam | 25% | |
-| Grad Project | 15% | |
-
+**Note**: Unlike previous semesters, we will not offer homework and lab drops, instead, we will offer 5 slip days that you can use across homeworks, labs, and projects. See the next section for more details.
 <br>
 
 
@@ -211,9 +195,9 @@ Your discussion score is the average of your scores for each individual discussi
 
 All assignments are due at 11:59 PM Pacific Time on the due date specified on the syllabus. 
 
-You have a **total** of **TBD** slip days that you can apply to your semester's assignments (homeworks, projects, labs, and Quick Checks). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over **TBD**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than TBD days**.
+You have a **total** of **5** slip days that you can apply to your semester's assignments (Homeworks, Projects, and Labs). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over **5**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
 
-**Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}})  to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+**Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA [{{page.course.comms_ta}}](mailto: {{page.course.comms_email}}) to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
 <!--
 {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}}) 
