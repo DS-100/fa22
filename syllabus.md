@@ -95,12 +95,12 @@ Below is a high-level “typical week in the course” for Fall 2022.
 | --- | --- | --- | --- | --- | --- |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours | 
 | | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
-| | | | | <span style="color:Blue">Discussion Section</span>| 
-| | | | <span style="color:Red">Homework N released</span> | | 
-| | | |<span style="color:Red">**Homework N-1 due**</span>| |
-| | | | <span style="color:Red">Lab N released</span> | | 
-| | | |<span style="color:Red">**lab N-1 due**</span>| |
-| Quick check due/released | | | | | 
+| | <span style="color:Blue">Discussion Section</span>| | | | 
+| | | | | <span style="color:Red">Homework N released</span> | 
+| | | | | <span style="color:Red">**Homework N-1 due**</span>|
+| | | | | <span style="color:Red">Lab N released</span> | 
+| | | | | <span style="color:Red">**lab N-1 due**</span>|
+| Quick check n-1 due | | |Quick check n released| | 
 
 * **All deadlines are subject to change.**
 * Office Hours are scheduled on the [Calendar page](../calendar). 
@@ -112,7 +112,12 @@ Below is a high-level “typical week in the course” for Fall 2022.
 There are 2 live lectures per week. Lectures will be in Wheeler 150. All lecture recordings will also be published within 24 hours of the live recording. 
 
 ### Discussion
-TBD
+Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material.
+
+- You must be assigned to a discussion section, even if you don't intend on regularly attending.
+To encourage attendance and participation in live discussion, discussion attendance contribute to 5% of your overall course grade. See Policies below for more details.
+- Discussion sign-ups will be released the first week of class through a Google Form. Attendance points will only be given for the section you are assigned to. If you are assigned to a discussion section that does not work for you, please request a switch using the form posted on Ed. You can switch sections before the 4nd section. From the 4nd week onwards, your section will be locked in for the rest of the summer.
+- In a typical week, we will release the discussion worksheet on Monday night and solutions the day after.
 
 
 ### Homework and Projects
