@@ -7,6 +7,7 @@ days:
     ? '**Lecture 6**{: .label .label-lecture } Regex'
     : '[Ch. 13](https://www.textbook.ds100.org/ch/13/text_intro.html)'
     ? '**Discussion 3**{: .label .label-disc } TBD' 
+    ? '**Lab 4**{: .label .label-lab } Transformation and KDEs'
     : ''
 - date: 2022-09-15
   events:
@@ -15,7 +16,6 @@ days:
     ? 'Textbook: [Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html)'
     ? 'Textbook: [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)'
     ? '**Quick Check 4**{: .label .label-survey } Quick Check 4'
-    ? '**Lab 4**{: .label .label-lab } Transformation and KDEs'
     ? '**Homework 4**{: .label .label-hw } Bike Sharing (EDA and Viz)'
     : ''
 ---
