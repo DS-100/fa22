@@ -9,8 +9,10 @@ course:
     edstem: https://edstem.org/us/courses/25695/
     faq: https://ds100.org/fa22faq
     bcourses: ""
-    head_ta: 
-    head_email: 
+    head_ta_1: Kanu Grover 
+    head_1_email: grover.kanu@berkeley.edu
+    head_ta_2: Dominic Liu
+    head_2_email: hangxingliu@berkeley.edu
     comms_ta: Samantha Hing
     comms_email: snhing@berkeley.edu
     email: data100.instructors@berkeley.edu
@@ -110,7 +112,7 @@ There are 2 live lectures per week. Lectures will be in Wheeler 150 and broadcas
 ### Discussion
 Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material. 
 - You need to be assigned to a discussion section. Sign-ups will be posted on Ed. 
-- Discussion attendance is mandatory for students enrolled in Data 100. 
+- Discussion attendance is mandatory for students enrolled in Data 100. Discussion attendance is not mandatory for students enrolled in Data 200.
 - Each discussion will be graded on a 0/1 basis. As of now, that one point will be determined based on attendance.
 
 ### Homework and Projects
@@ -127,10 +129,9 @@ Projects: Projects are week-long assignments that synthesize multiple topics.
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
 - All lab autograder tests are visible.
-- In lieu of official lab sections, we will be helping with lab in several ways:
-    - Lab Help Sessions, which are Tuesday office hours that prioritize lab debugging and questions. See the [Calendar](../calendar) and our [Office Hours](#office-hours) for more details.
-    - EdStem.
-- All labs are intended to take about an hour. You can therefore think of Lab Help Sessions as lab sections, where attendance is not required nor expected to complete the lab. The best place to get individual help with lab is Lab Help Sessions.
+- We will not be having Lab sections this semester. Rather, we'll provide extensive lab support on Ed.
+- All labs are intended to take about an hour. 
+- Lab walkthroughs will be released following the lab due date. These will primarily help to build our staff intuition for solving lab problems and how they can be applied to more difficult homework questions.
 
 ### Quick Checks
 
@@ -140,15 +141,16 @@ Quick checks are weekly short assignments to check that you are keeping up with 
 
 The office hours and locations (mainly in [Warren 101](https://dac.berkeley.edu/warren-hall-2195-hearst-ave)) are listed on the [Calendar](../calendar); office hours will mainly be held in-person, with some virtual options available. Instructor office hours are also listed on the calendar.
 
-In general, students can come to office hours for any questions on course assignments or material. Note that events labeled Lab Help Sessions will prioritize lab debugging and questions, after which other questions can be addressed. We will also have Homework/Project parties Wednesday 5-8 PM, where you can come work with your peers and ask questions.
+In general, students can come to office hours for any questions on course assignments or material. We will also have Homework/Project parties Wednesday 5-8 PM, where you can come work with your peers and ask questions.
 
 Office hour queues are managed through [oh.ds100.org](https://oh.ds100.org/), where students add themselves to the “queue” and specify the assignment they need help on.
 
 **EdStem**, or **Ed** for short, is our course forum this summer. The course is [here]({{page.course.edstem}}). Please check out EdStem or the [FAQ]({{page.course.faq}}) page first before emailing instructors. 
 
 **Staff email**:
-You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the TAs will get back to you. Note that to ensure more timely responses, this address is monitored by the two instructors (Fernando and Will), as well as several lead GSIs, to ensure more timely responses. You should only contact Fernando and Will directly for matters that require strict privacy and their direct attention.
+You can email [{{page.course.email}}](mailto:{{page.course.email}}) and one of the TAs will get back to you. Note that to ensure more timely responses, this address is monitored by a team of two instructors (Fernando and Will), Head TA's (Kanu Grover and Dominic Liu), as well as several lead GSIs, to ensure more timely responses. 
 
+For sensitive matters, you should directly contact the Head TA's [{{page.course.head_ta_1}}](mailto:{{page.course.head_1_email}}) and [{{page.course.head_ta_2}}](mailto:{{page.course.head_2_email}}). You should only contact Fernando and Will directly for matters that require strict privacy and their direct attention.
 
 
 ### Exams
@@ -165,34 +167,27 @@ Alternate exam policies:
 Two time options will be offered to cover various timezones. No further alternates will be offered.
 -->
 
+### Graduate Final Project
+All students enrolled in the graduate version of the course (CS C200 or Stat C200C, i.e. Data 200) will be graded according to the Graduate grading scheme, which includes a graduate final project. More details to follow.
+
 
 
 ## Policies
 
- **Grading Scheme for DATA 100**
+### Grading Scheme
 
-| Category | Weight | Details |
-| --- | --- | --- |
-| Homeworks | 25% |  |
-| Projects | 15% | |
-| Labs | 10% |  |
-| Discussion | 5% | Drop 3 lowest scores|
-| Quick Checks | 5% | Drop 3 lowest scores|
-| Midterm Exam | 15% | |
-| Final Exam | 25% | |
+| Category | Data 100 | Data 200 | Details |
+| --- | --- | --- | --- |
+| Homeworks | 25% | 25%| No drop|
+| Projects | 15% | 15%| No drop|
+| Labs | 10% |  - | No drop|
+| Discussion | 5% | - | Drop 3 lowest scores|
+| Quick Checks | 5% | 5% | Drop 3 lowest scores|
+| Midterm Exam | 15% | 15%| |
+| Final Exam | 25% | 25% | |
+|Graduate Final Project| - | 15% | |
 
-
- **Grading Scheme for DATA 200**
-
- | Category | Weight | Details |
-| --- | --- | --- |
-| Homeworks | 25% |  |
-| Projects | 15% | |
-| Quick Checks | 5% | Drop 3 lowest scores|
-| Midterm Exam | 15% | |
-| Final Exam | 25% | |
-| Graduate Project | 15% | |
-
+**Note**: Unlike previous semesters, we will not offer homework and lab drops, instead, we will offer 5 slip days that you can use across homeworks, labs, and projects. See the next section for more details.
 <br>
 
 
@@ -200,7 +195,7 @@ Two time options will be offered to cover various timezones. No further alternat
 
 All assignments are due at 11:59 PM Pacific Time on the due date specified on the syllabus. 
 
-You have a **total** of **5** slip days that you can apply to your semester's assignments (Homeworks, Projects, Labs, and Quick Checks). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over **5**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than  days**.
+You have a **total** of **5** slip days that you can apply to your semester's assignments (Homeworks, Projects, and Labs). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over **5**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
 
 **Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA {{page.course.comms_ta}} at [{{page.course.comms_email}}]({{page.course.comms_email}}) to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
