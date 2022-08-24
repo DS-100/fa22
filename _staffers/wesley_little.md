@@ -1,5 +1,5 @@
 ---
-name: Wesley or Wes, whatever you prefer Little
+name: Wesley Little
 role: Reader
 email: weslittle@berkeley.edu
 website: https://www.linkedin.com/in/wesley-l-0a614b186/
