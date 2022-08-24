@@ -12,6 +12,7 @@ days:
   events:
     ? '**Lecture 5**{: .label .label-lecture } Data Cleaning and EDA'
     : '[Ch. 8-9](https://www.textbook.ds100.org/ch/08/files_intro.html)'
+    ? '**Quick Check 3**{: .label .label-survey } Quick Check 3'
     ? '**Lab 3**{: .label .label-lab } Data Cleaning and EDA and Regex'
     ? '**Homework 3**{: .label .label-hw } Food Safety'
     : ''

@@ -5,6 +5,7 @@ days:
 - date: 2022-08-25
   events:
     ? '**Lecture 1**{: .label .label-lecture } Introduction'
+    ? '**Quick Check 1**{: .label .label-survey } Quick Check 1'
     ? '**Lab 1**{: .label .label-lab } Prerequisite Coding'
     ? '**Homework 1**{: .label .label-hw } Prerequisite Math'
     : ''
