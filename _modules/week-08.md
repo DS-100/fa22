@@ -9,9 +9,9 @@ days:
     : ''
 - date: 2022-10-13
   events:
-    ? '**Lecture 13**{: .label .label-lecture } Cross-validation + Regularization'
+    ? '**Lecture 15**{: .label .label-lecture } Cross-validation + Regularization'
     : '[Ch. A6](https://www.textbook.ds100.org/ch/a06/reg_intro.html), [A5.3](https://www.textbook.ds100.org/ch/a05/bias_cv.html)'
-    ? '**Quick Check 8**{: .label .label-survey } Quick Check 7'
+    ? '**Quick Check 8**{: .label .label-survey } Quick Check 8'
     ? '**Lab 8**{: .label .label-lab } Model Selection, Regularization, and Cross-Validation'
     ? '**Homework 7**{: .label .label-hw } Project 1B: Housing II'
     : ''
