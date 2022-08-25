@@ -5,6 +5,7 @@ days:
 - date: 2022-11-08
   events:
     ? '**Lecture 22**{: .label .label-lecture } SQL II and Cloud Data'
+    : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
     ? '**Discussion 11**{: .label .label-disc } TBD' 
     ? '**Lab 11**{: .label .label-lab } SQL'
     : ''
