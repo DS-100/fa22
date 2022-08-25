@@ -8,7 +8,7 @@ days:
     : '[Ch. 6.1](https://www.textbook.ds100.org/ch/06/pandas_subsetting.html), [6.5](https://www.textbook.ds100.org/ch/06/pandas_other_reps.html)'
     ? 'Textbook: [Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)'
     ? 'Reference: [Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)'
-    ? '**Discussion 1**{: .label .label-disc } TBD' 
+    ? '**Discussion 1**{: .label .label-disc } Prereq' 
     ? '**Lab 2**{: .label .label-lab } Pandas'
     : ''
 - date: 2022-09-01
