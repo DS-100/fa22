@@ -14,6 +14,6 @@ days:
     ? '**Lecture 13**{: .label .label-lecture } Feature engineering'
     : '[Ch. 15.5](https://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
     ? '**Quick Check 7**{: .label .label-survey } Quick Check 7'
-    ? '**Project 1A**{: .label .label-hw } Project 1A: Housing I'
+    ? '**Project 1A**{: .label .label-hw } Housing I'
     : ''
 ---

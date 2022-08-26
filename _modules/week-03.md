@@ -14,6 +14,6 @@ days:
     ? '**Lecture 5**{: .label .label-lecture } Regex'
     : '[Ch. 13](https://www.textbook.ds100.org/ch/13/text_intro.html)'
     ? '**Quick Check 3**{: .label .label-survey } Quick Check 3'
-    ? '**Homework 3**{: .label .label-hw } Tweets (EDA and Regex)'
+    ? '**Homework 3**{: .label .label-hw } Tweets'
     : ''
 ---

@@ -14,6 +14,6 @@ days:
     ? '**Lecture 25**{: .label .label-lecture } Logistic regression II'
     : '[Ch. 19.4-19.8](https://www.textbook.ds100.org/ch/19/classification_log_reg.html)'
     ? '**Quick Check 13**{: .label .label-survey } Quick Check 13'
-    ? '**Project 2A**{: .label .label-hw } Project 2A: Spam-ham I'
+    ? '**Project 2A**{: .label .label-hw } Spam & Ham I'
     : ''
 ---
