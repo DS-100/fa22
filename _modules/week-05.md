@@ -7,13 +7,15 @@ days:
     ? '**Lecture 8**{: .label .label-lecture } Sampling and probability'
     : '[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html), [2](https://www.textbook.ds100.org/ch/02/data_scope_intro.html), [3.1](https://www.textbook.ds100.org/ch/03/theory_urn.html)'
     ? '**Discussion 4**{: .label .label-disc } TBD' 
-    ? '**Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions'
     : ''
 - date: 2022-09-22
   events:
     ? '**Lecture 9**{: .label .label-lecture } Modeling, Regression'
     : '[Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
     ? '**Quick Check 5**{: .label .label-survey } Quick Check 5'
+- date: 2022-09-23
+  events:
+    ? '**Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions'
     ? '**Homework 5**{: .label .label-hw } TBD'
     : ''
 ---

@@ -6,7 +6,6 @@ days:
   events:
     ? '**Lecture 16**{: .label .label-lecture } Climate & Physical Data'
     ? '**Discussion 8**{: .label .label-disc } TBD' 
-    ? '**Lab 9**{: .label .label-lab } Climate Data'
     : ''
 - date: 2022-10-19
   events:
@@ -16,5 +15,10 @@ days:
   events:
     ? '**Lecture 17**{: .label .label-lecture } Causality'
     ? '**Quick Check 9**{: .label .label-survey } Quick Check 9'
+    :''
+- date: 2022-10-21
+  events:
+    ? '**Lab 9**{: .label .label-lab } Climate'
+    ? '**Project 1B**{: .label .label-hw } Housing II'
     : ''
 ---
