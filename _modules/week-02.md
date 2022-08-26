@@ -9,13 +9,15 @@ days:
     ? 'Textbook: [Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)'
     ? 'Reference: [Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)'
     ? '**Discussion 1**{: .label .label-disc } [Prereq](https://drive.google.com/file/d/1u_YaVzDIybgvLw02VDIKdwUwVm42xYhw/view?usp=sharing)' 
-    ? '**Lab 2**{: .label .label-lab } Pandas'
     : ''
 - date: 2022-09-01
   events:
     ? '**Lecture 3**{: .label .label-lecture } Pandas II'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
     ? '**Quick Check 2**{: .label .label-survey } Quick Check 2'
+- date: 2022-09-02
+  events:
+    ? '**Lab 2**{: .label .label-lab } Pandas'
     ? '**Homework 2**{: .label .label-hw } Food Safety (Pandas)'
     : ''
 ---
