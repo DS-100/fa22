@@ -15,7 +15,7 @@ days:
     ? '**Lecture 7**{: .label .label-lecture } Visualization II'
     : '[Ch. 11.4-11.6](https://www.textbook.ds100.org/ch/11/viz_plotly.html)'
     ? '**Quick Check 4**{: .label .label-survey } Quick Check 4'
-    :''
+    : ''
 - date: 2022-09-16
   events:
     ? '**Lab 4**{: .label .label-lab } Transformation and KDEs'

@@ -13,7 +13,7 @@ days:
     ? '**Lecture 13**{: .label .label-lecture } Feature engineering'
     : '[Ch. 15.5](https://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
     ? '**Quick Check 7**{: .label .label-survey } Quick Check 7'
-    :''
+    : ''
 - date: 2022-10-07
   events:
     ? '**Lab 7**{: .label .label-lab } Gradient descent / sklearn'
