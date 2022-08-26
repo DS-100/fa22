@@ -6,7 +6,7 @@ days:
   events:
     ? '**Lecture 16**{: .label .label-lecture } Climate & Physical Data'
     ? '**Discussion 8**{: .label .label-disc } TBD' 
-    ? '**No Lab**{: .label .label-lab } No Lab (tentative)'
+    ? '**Lab 9**{: .label .label-lab } Climate'
     : ''
 - date: 2022-10-19
   events:

@@ -7,7 +7,7 @@ days:
     ? '**Lecture 24**{: .label .label-lecture } Logistic regression I'
     : '[Ch. 19.1-19.3](https://www.textbook.ds100.org/ch/19/classification_intro.html)'
     ? '**Discussion 912**{: .label .label-disc } TBD' 
-    ? '**Lab 12**{: .label .label-lab } Logistic regression'
+    ? '**Lab 13**{: .label .label-lab } Logistic regression'
     : ''
 - date: 2022-11-17
   events:

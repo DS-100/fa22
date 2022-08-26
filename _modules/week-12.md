@@ -7,12 +7,12 @@ days:
     ? '**Lecture 22**{: .label .label-lecture } SQL II and Cloud Data'
     : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
     ? '**Discussion 11**{: .label .label-disc } TBD' 
-    ? '**Lab 11**{: .label .label-lab } SQL'
+    ? '**Lab 12**{: .label .label-lab } SQL'
     : ''
 - date: 2022-11-10
   events:
     ? '**Lecture 23**{: .label .label-lecture } Environmental DS'
     ? '**Quick Check 12**{: .label .label-survey } Quick Check 12'
-    ? '**No Homework**{: .label .label-hw } No homework (tentative)'
+    ? '**Homework 9**{: .label .label-hw } SQL'
     : ''
 ---
