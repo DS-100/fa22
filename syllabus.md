@@ -113,7 +113,7 @@ There are 2 live lectures per week. Lectures will be in Wheeler 150 and broadcas
 Live discussion sections are on Tuesdays, lasting for one hour. The goal of these sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding this material. 
 - You need to be assigned to a discussion section. Sign-ups will be posted on Ed.
 - Discussion attendance is mandatory for students enrolled in Data 100. Discussion attendance is not mandatory for students enrolled in Data 200.
-- Each discussion will be graded on a 0/1 basis. As of now, that one point will be based on attendance to only the section you signed up for at the beginning of the semester. However, you can attend any discussion you want for the first 3 weeks as long as it does not exceed room capacity.
+- Each discussion will be graded on a 0/1 basis. As of now, that one point will be based on attendance to only the section you signed up for at the beginning of the semester. Please attend the discussion section you signed up for on Sign Up Genius. If you are unable to attend your section or were unable to sign up for a section, feel free to attend one of the 4 online discussions ([#42](https://edstem.org/us/courses/25695/discussion/1702379)). For the first three weeks, you will be able to attend any online section and receive credit. We are working to allow for more section availability in the coming days.
 
 ### Homework and Projects
 
