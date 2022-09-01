@@ -14,13 +14,13 @@ days:
     : ''
 - date: 2022-09-01
   events:
-    ? '**Lecture 3**{: .label .label-lecture } Pandas II'
+    ? '**Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
-    ? '**Quick Check 2**{: .label .label-survey } Quick Check 2'
+    ? '**Quick Check 2**{: .label .label-survey } [Quick Check 2](https://www.gradescope.com/courses/422877/assignments/2217765) (due Sep 5) (release after lecture)'
     : ''
 - date: 2022-09-02
   events:
-    ? '**Lab 2**{: .label .label-lab } Pandas'
-    ? '**Homework 2**{: .label .label-hw } Food Safety'
+    ? '**Lab 2**{: .label .label-lab } Pandas (due Sep 6)'
+    ? '**Homework 2**{: .label .label-hw } Food Safety (due Sep 7)'
     : ''
 ---
