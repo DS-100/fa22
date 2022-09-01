@@ -14,7 +14,7 @@ days:
   events:
     ? '**Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)'
     : '[Ch. 6.2-6.4](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html)'
-    ? '**Quick Check 2**{: .label .label-survey } [Quick Check 2](https://www.gradescope.com/courses/422877/assignments/2217765) (due Sep 5) (opens after lecture)'
+    ? '**Quick Check 2**{: .label .label-survey } [Quick Check 2](https://www.gradescope.com/courses/422877/assignments/2217765) (due Sep 6)'
     : ''
 - date: 2022-09-02
   events:
