@@ -74,7 +74,7 @@ Click [here]({{ site.baseurl }}/setup) to read our guide on how to set up our de
 
 #### Probability Practice
 + We've compiled a few practice probability problems that we believe may help in understanding the ideas covered in the course. They can be found [here](assets/other/prob_practice.pdf), along with their [solutions](assets/other/prob_practice_solutions.pdf).
-+ We'd also like to point you to the [textbook for Stat 88](http://stat88.org/textbook/notebooks/intro), an introductory probability course geared towards data science students at Berkeley.
++ We'd also like to point you to the [textbook for Data C88S](http://stat88.org/textbook/content/intro.html), an introductory probability course geared towards data science students at Berkeley.
 
 #### Regex Practice
 + We've organized some regular expressions(regex) problems to help you get extra practice on regex in a notebook format. They can be found [here](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc05/extra/), along with their [solutions](assets/other/regex_practice_sol.pdf).
