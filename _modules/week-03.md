@@ -16,6 +16,7 @@ days:
     : ''
 - date: 2022-09-09
   events:
+    ? '**Exam prep 1**{: .label .label-vit } [Pandas and Linear Algebra](https://drive.google.com/file/d/1RKrvxaRyPkM4VC6hinFBHxQGQSOW-IiL/view?usp=sharing)'
     ? '**Lab 3**{: .label .label-lab } Data Cleaning and EDA and Regex'
     ? '**Homework 3**{: .label .label-hw } Tweets'
 ---
