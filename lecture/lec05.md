@@ -11,6 +11,8 @@ Presented by Fernando Perez
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 - [slides](https://docs.google.com/presentation/d/1MO_bFwXCCPIuAwU27RoqZZcy0SCWCJl-AzgU84Ja3I8/edit?usp=sharing){:target="_blank"}
+- code
+- recording
 
 
 <!--
