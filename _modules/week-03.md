@@ -17,6 +17,6 @@ days:
 - date: 2022-09-09
   events:
     ? '**Exam prep 1**{: .label .label-vit } [Pandas and Linear Algebra](https://drive.google.com/file/d/1RKrvxaRyPkM4VC6hinFBHxQGQSOW-IiL/view?usp=sharing)'
-    ? '**Lab 3**{: .label .label-lab } Data Cleaning and EDA and Regex'
-    ? '**Homework 3**{: .label .label-hw } Tweets'
+    ? '**Lab 3**{: .label .label-lab } [Data Cleaning and EDA and Regex](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab03%2Flab03.ipynb) (due Sep 13)'
+    ? '**Homework 3**{: .label .label-hw } [Tweets](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw03%2Fhw03.ipynb) (due Sep 15)'
 ---
