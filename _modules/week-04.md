@@ -8,7 +8,7 @@ days:
     : '[Ch. 11.1-11.3](https://www.textbook.ds100.org/ch/11/viz_scale.html)'
     ? 'Textbook: [Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html)'
     ? 'Textbook: [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)'
-    ? '**Discussion 3**{: .label .label-disc } TBD' 
+    ? '**Discussion 3**{: .label .label-disc } EDA and Regex [written question](https://drive.google.com/file/d/1kb72xBhI5UZzoGFSvOg1X4qFkThYtaUk/view?usp=sharing), [coding question](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fdisc%2Fdisc03%2Fdisc03_coding_excercises.ipynb)' 
     : ''
 - date: 2022-09-15
   events:
