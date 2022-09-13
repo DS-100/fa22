@@ -4,7 +4,7 @@ weekNumber: 4
 days:
 - date: 2022-09-13
   events:
-    ? '**Lecture 6**{: .label .label-lecture } Visualization I'
+    ? '**Lecture 6**{: .label .label-lecture } [Visualization I](lecture/lec06)'
     : '[Ch. 11.1-11.3](https://www.textbook.ds100.org/ch/11/viz_scale.html)'
     ? 'Textbook: [Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html)'
     ? 'Textbook: [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)'
