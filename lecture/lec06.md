@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 6 - Visualization I
 
-Presented by Fernando Pérez
+Presented by Andrew Bray
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
