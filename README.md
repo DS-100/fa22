@@ -49,7 +49,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 This website is written using Jekyll Bootstrap with some modifications to
 improve support for github pages.
 
-Install `rvm`: https://rvm.io/
+Install `rvm`: https://rvm.io/ or `rbenv`: https://github.com/rbenv/rbenv. `rbenv` might work better.
 
 Install Ruby 2.2.0:
 
