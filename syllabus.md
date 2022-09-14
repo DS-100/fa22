@@ -160,7 +160,7 @@ There will be two exams in this course:
 * Final on **Tuesday, December 13** 3-6PM PT (exam group 7).
 
 Alternate exam policies:
-- **Midterm**: To be announced
+- **Midterm**: We will not offer alternate exams except for students with DSP, student atheletes.
 - **Final**: The course only allows for time conflicts for specifc courses that have been pre-approved for conflicts, after planning with course instructors of those courses and the Division. If, at the time of the final, you are enrolled in a course approved for finals conflicts, you will be allowed to take an alternate exam that will be offered only once after the Data 100 final. Currently the ONLY course approved for final exam time conflicts is: CS 70.
 
 <!--
@@ -180,14 +180,14 @@ All students enrolled in the graduate version of the course (CS C200 or Stat C20
 | --- | --- | --- | --- |
 | Homeworks | 25% | 25%| No drop|
 | Projects | 15% | 15%| No drop|
-| Labs | 10% |  - | No drop|
+| Labs | 10% |  - | Drop 2 lowest scores|
 | Discussion | 5% | - | Drop 3 lowest scores|
 | Quick Checks | 5% | 5% | Drop 3 lowest scores|
 | Midterm Exam | 15% | 15%| |
 | Final Exam | 25% | 25% | |
 |Graduate Final Project| - | 15% | |
 
-**Note**: Unlike previous semesters, we will not offer homework and lab drops, instead, we will offer 5 slip days that you can use across homeworks, labs, and projects. See the next section for more details.
+**Note**: Unlike previous semesters, we will not offer homework drops, instead, we will offer 5 slip days that you can use across homeworks, labs, and projects. See the next section for more details.
 <br>
 
 
@@ -195,7 +195,14 @@ All students enrolled in the graduate version of the course (CS C200 or Stat C20
 
 All assignments are due at 11:59 PM Pacific Time on the due date specified on the syllabus. 
 
-You have a **total** of **5** slip days that you can apply to your semester's assignments (Homeworks, Projects, and Labs). To use your slip days on an assignment, you need to fill out a Google Form that will be released on Ed and here. We will not award points for any late assignment you submit that would bring your total slip days over **5**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
+#### Slip Days
+
+You have a **total** of **5** slip days that you can apply to your semester's assignments (Homeworks, Projects, and Labs). To use your slip days on an assignment, you need to fill out the Slip Day Request Google Form released on Ed and [here](https://tinyurl.com/data100slipdayfa22). We will not award points for any late assignment you submit that would bring your total slip days over **5**. If you are in the Disabled Students' Program and you are offered an extension, even with your extension plus slip days combined, **no single assignment can be extended more than 5 days**.
+
+- **Do not plan to use your slip days**: we’re providing them for unforeseen circumstances. They are a budget for you to handle, on your own, issues that arise and make you late with an assignment. They are not a "rainy day fund" to stash away for when you're pressed for time, requesting extensions elsewhere.
+- **Slip days are full days, not hours**. If you are 1 hour late, you need to use 1 slip day. (Why? We’d rather you get some sleep and make an attempt to finish the assignment the next day instead of staying up to micromanage hours.)
+- **Extension beyond slip days**: You must use your slip days first before you can request any extension. Only once you have zero slip days left can you request an extension. At that point, we will require supporting documentation and extensions will only be granted for exceptional situations (doctor-documented illness, major family emergency, etc.)
+
 
 **Extensions** are provided to students with DSP accommodations, or in the case of exceptional circumstances. If you have DSP accommodations, you should expect to receive an email from us. Otherwise, email our Communications TA [{{page.course.comms_ta}}](mailto: {{page.course.comms_email}}) to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
