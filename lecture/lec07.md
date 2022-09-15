@@ -6,63 +6,13 @@ nav_exclude: true
 
 # Lecture 7 - Visualization II
 
-Presented by Anirudhan Badrinath and Dominic Liu
+Presented by Fernando Pérez
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
-- [slides](https://docs.google.com/presentation/d/1Rbv_CI0g6uf-L6icnMDKJ4NceDbQpCtSUokgPTt5Jwc/edit?usp=sharing){:target="_blank"}
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu22&branch=main&urlpath=tree%2Fsu22%2Flec%2Flec07%2Flec7.ipynb){:target="_blank"}
-- [recording](https://bcourses.berkeley.edu/courses/1515881/external_tools/78985){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1ZT0m-lBpZLaLXTx0ZrYxtj8OUmV_kS22n_Kqm3UW-10/edit?usp=sharing){:target="_blank"}
+- code github
+- code launch
+- code html
+- recording
 
-<!-- A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Video</th>
-<th>Quick Check</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>7.1</strong> <br /> Motivation and canonicalizing strings.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/_KeJFK92pTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/cYUxsGNYDHHJdwi47" target="\_blank">7.1</a></td>
-</tr>
-<tr>
-<td><strong>7.2</strong> <br /> Using the split method to extract from textual data.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/R9YlR7-zIQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/SHrrL9gE4pyBLY798" target="\_blank">7.2</a></td>
-</tr>
-<tr>
-<td><strong>7.3</strong> <br /> Basic regular expression syntax (i.e. closures). Order of operations in regular expressions.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/YFvQZDAebks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/bGsMzD5HanedW98T6" target="\_blank">7.3</a></td>
-</tr>
-<tr>
-<td><strong>7.4</strong> <br /> Expanded regular expression syntax (i.e. character classes). A couple of regular expression exercises.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/dzeHq2UjXzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/SWYzUAK89Ray7A4z5" target="\_blank">7.4</a></td>
-</tr>
-<tr>
-<td><strong>7.5</strong> <br /> Limitations of regular expressions. Other regular expression syntax (i.e. lazy closures).</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/nB4Uryx8iTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/cwQK1PbexbRknzXe8" target="\_blank">7.5</a></td>
-</tr>
-<tr>
-<td><strong>7.6</strong> <br /> Using regular expressions in Python. Regular expression groups.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/GIGw6FvxL90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/4iFUdaLETU4rCnSPA" target="\_blank">7.6</a></td>
-</tr>
-<tr>
-<td><strong>7.7</strong> <br /> Regular expression case studies on police data and restaurant data.</td>
-<td><iframe width="300" height="" src="https://youtube.com/embed/_pka1Yu8h2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-<td><a href="https://forms.gle/eZ29VEahKBh8frJ47" target="\_blank">7.7</a></td>
-</tr>
--->
