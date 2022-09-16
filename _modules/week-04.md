@@ -18,6 +18,8 @@ days:
     : ''
 - date: 2022-09-16
   events:
+    ? '**Exam prep 2**{: .label .label-vit } [EDA and Regex](https://drive.google.com/file/d/1v8UXxYjFhiP6iF6Ho56tnzWkI_Xf7DAG/view?usp=sharing)'
+    : 'Solution'
     ? '**Lab 4**{: .label .label-lab } Transformation and KDEs'
     ? '**Homework 4**{: .label .label-hw } Bike Sharing'
     : ''
