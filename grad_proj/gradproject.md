@@ -28,14 +28,15 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Date (by EOD at 11:59pm Pacific) 	| Event / Deliverable           | Link           |
 |--------------------------	|---------------------------------------------	|---------------------------------------------	|
-| 4/8                       | Research proposal and project groups due    	| [Preliminary Form](https://docs.google.com/forms/d/e/1FAIpQLScmKUKxmCo670rOW5jDuC53xs0kzthDDh-amxKMcZLOtjpScg/viewform?usp=sf_link) |
-| 4/22                      | Project checkpoint                          	| |
-| 4/29                    	| First draft of final report due             	| |
-| 4/30                   	  | Peer review open                            	| |
-| 5/4                       | Peer review due                             	| |
-| 5/11                       | Revised final report due                    	| |
-| 5/11                      | Presentation video due                      	| |
-| 5/13                      | Presentation video released (at discretion) 	| |
+| 9/30                       | Research proposal and project groups due    	| [Preliminary Form](https://docs.google.com/forms/d/e/1FAIpQLSc3uhrp0pj0iw9Iaw4gGrok9LeZXe1alVXJcfzfqbr0-ZiokA/viewform?usp=sf_link) |
+| 10/14                      | Project checkpoint 1 Due                      | |
+| 11/18                      | Project checkpoint 2 Due                      | |
+| 12/2                    	| First draft of final report due             	| |
+| 12/3                   	  | Peer review open                            	| |
+| 12/7                       | Peer review due                             	| |
+| 12/14                       | Revised final report due                    	| |
+| 12/14                      | Presentation video due                      	| |
+| 12/16                      | Presentation video released (at discretion) 	| |
 
 **Late Policy:** You may submit the **final report** and the **presentation video** late with a 10% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
 
@@ -44,7 +45,7 @@ The purpose of the project is to give students experience in both open-ended dat
 | Deliverable                          	| Weight 	|
 |--------------------------------------	|--------	|
 | Research proposal and project groups 	| 10%    	|
-| Checkpoint                            |  0%     |
+| Checkpoints                           |  0%     |
 | Submission of first draft            	| 10%    	|
 | Peer review                         	| 15%    	|
 | Final report: Analysis notebook      	| 20%    	|
