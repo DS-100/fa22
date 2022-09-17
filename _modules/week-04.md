@@ -19,8 +19,8 @@ days:
 - date: 2022-09-16
   events:
     ? '**Exam prep 2**{: .label .label-vit } [EDA and Regex](https://drive.google.com/file/d/1v8UXxYjFhiP6iF6Ho56tnzWkI_Xf7DAG/view?usp=sharing)'
-    : 'Solution'
-    ? '**Lab 4**{: .label .label-lab } Transformation and KDEs'
-    ? '**Homework 4**{: .label .label-hw } Bike Sharing'
+    : '[Solution](https://drive.google.com/file/d/1HNSKfqUuGx2dY65QB_46KQweQU1vlYDh/view?usp=sharing)'
+    ? '**Lab 4**{: .label .label-lab } [Transformation and KDEs](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab04%2Flab04.ipynb)'
+    ? '**Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw04%2Fhw04.ipynb)'
     : ''
 ---
