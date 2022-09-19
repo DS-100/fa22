@@ -22,7 +22,7 @@ The purpose of the project is to give students experience in both open-ended dat
 
 **Grading**: You will receive peer review feedback before the final deadline, and you are expected to incorporate the peer feedback into the final report and presentation. You will be graded on both the final report and presentation, as well as [deliverables](#deliverables) before the submission of the final reports, including your peer reviews.
 
-**Teamwork**: You can work alone or in a group with **at most two other students**. If you are interested in working with others, we have an [Ed post](https://edstem.org/us/courses/15436/discussion/1058477) for teammate search. Everyone in the same group will receive the same grade. The group size will be taken into consideration when grading.
+**Teamwork**: You can work alone or in a group with **at most two other students**. If you are interested in working with others, we have an [Ed post](https://edstem.org/us/courses/25695/discussion/1789891) for teammate search. Everyone in the same group will receive the same grade. The group size will be taken into consideration when grading.
 
 ## Timeline
 
