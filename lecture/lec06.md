@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Andrew Bray
 
-Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+Content by Fernando Pérez, Will Fithian, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 - [slides](https://docs.google.com/presentation/d/1hLph7ev_xGAplOtXJsSvfOTiT5mI5WlLM391MaAZb0Y/edit?usp=sharing){:target="_blank"}
 - [code github](https://github.com/DS-100/fa22/tree/main/lec/lec06)

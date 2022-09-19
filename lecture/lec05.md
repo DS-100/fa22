@@ -6,9 +6,9 @@ nav_exclude: true
 
 # Lecture 5 - Regex
 
-Presented by Fernando Perez
+Presented by Fernando Pérez
 
-Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
+Content by Fernando Pérez, Will Fithian, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
 - [slides](https://docs.google.com/presentation/d/1MO_bFwXCCPIuAwU27RoqZZcy0SCWCJl-AzgU84Ja3I8/edit?usp=sharing){:target="_blank"}
 - [code github](https://github.com/DS-100/fa22/blob/main/lec/lec05/lec05.ipynb)
