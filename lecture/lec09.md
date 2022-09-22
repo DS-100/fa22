@@ -11,7 +11,4 @@ Presented by Will Fithian
 
 Content by Fernando Pérez, Will Fithian, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 - [slides](https://docs.google.com/presentation/d/1FZJhOS8S1lCqZCRxbyys9rCZT0QxdY4hcmvZDskEHFI/edit?usp=sharing){:target="_blank"}
-- code github
-- code launch
-- code html
 - recording
