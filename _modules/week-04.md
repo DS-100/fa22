@@ -14,7 +14,7 @@ days:
   events:
     ? '**Lecture 7**{: .label .label-lecture } [Visualization II](lecture/lec07)'
     : '[Ch. 11.4-11.6](https://www.textbook.ds100.org/ch/11/viz_plotly.html)'
-    ? '**Quick Check 4**{: .label .label-survey } [Quick Check 4](https://www.gradescope.com/courses/422877/assignments/2241956) (due Sep 19; release at 11am)'
+    ? '**Quick Check 4**{: .label .label-survey } [Quick Check 4](https://www.gradescope.com/courses/422877/assignments/2241956)'
     : ''
 - date: 2022-09-16
   events:

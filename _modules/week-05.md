@@ -10,9 +10,9 @@ days:
     : '[written sol pdf](https://drive.google.com/file/d/1gpvjH5XjKiQ8GhK7ZzFlvfhd2Ade-9Yk/view?usp=sharing), [coding sol pdf](https://drive.google.com/file/d/1Yh8FF1E6hv1sxtbmr1YMkeuBUpUC51hS/view?usp=sharing), [coding sol notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fdisc%2Fdisc04_sol%2Fdisc04_coding_exercises_sol.ipynb), [recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-09-22
   events:
-    ? '**Lecture 9**{: .label .label-lecture } Modeling, Regression'
+    ? '**Lecture 9**{: .label .label-lecture } [Modeling, SLR](lecture/lec09)'
     : '[Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
-    ? '**Quick Check 5**{: .label .label-survey } Quick Check 5'
+    ? '**Quick Check 5**{: .label .label-survey } [Quick Check 5](https://www.gradescope.com/courses/422877/assignments/2279583) (due Sep 26; release at 11am)'
 - date: 2022-09-23
   events:
     ? '**Exam prep 3**{: .label .label-vit } TBD'
