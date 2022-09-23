@@ -15,7 +15,7 @@ days:
     ? '**Quick Check 5**{: .label .label-survey } [Quick Check 5](https://www.gradescope.com/courses/422877/assignments/2279583) (due Sep 26; release at 11am)'
 - date: 2022-09-23
   events:
-    ? '**Exam prep 3**{: .label .label-vit } TBD'
+    ? '**Exam prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1j-zwoQxJT4cFPAglMGqwVo7Hx-lKlIVZ/view?usp=sharing)'
     ? '**Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions'
     ? '**Homework 5**{: .label .label-hw } TBD'
     : ''
