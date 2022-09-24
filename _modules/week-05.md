@@ -16,7 +16,7 @@ days:
 - date: 2022-09-23
   events:
     ? '**Exam prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1j-zwoQxJT4cFPAglMGqwVo7Hx-lKlIVZ/view?usp=sharing)'
-    ? '**Lab 5**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab05%2Flab05.ipynb)'
-    ? '**Homework 5**{: .label .label-hw } [Modeling](https://drive.google.com/file/d/15DbOKR9bB2BJRnHxOF1gcVadgFYDu2Xl/view?usp=sharing)'
+    ? '**Lab 5**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab05%2Flab05.ipynb)(due Sep 27)'
+    ? '**Homework 5**{: .label .label-hw } [Modeling](https://drive.google.com/file/d/15DbOKR9bB2BJRnHxOF1gcVadgFYDu2Xl/view?usp=sharing) (due Sep 29)'
     : ''
 ---
