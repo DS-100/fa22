@@ -5,7 +5,6 @@ nav_exclude: true
 ---
 
 # Lecture 9 – Modeling, Simple Linear Regression
-# Lecture 8 -  Data Sampling and Probability
 
 Presented by Will Fithian
 
