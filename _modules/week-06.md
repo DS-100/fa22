@@ -4,9 +4,9 @@ weekNumber: 6
 days:
 - date: 2022-09-27
   events:
-    ? '**Lecture 10**{: .label .label-lecture } Constant model, loss, and transformations'
+    ? '**Lecture 10**{: .label .label-lecture } [Constant model, loss, and transformations](lecture/lec10)'
     : '[Ch. 4](https://www.textbook.ds100.org/ch/04/modeling_intro.html)'
-    ? '**Discussion 5**{: .label .label-disc } TBD' 
+    ? '**Discussion 5**{: .label .label-disc } [Probability, Sampling, and SLR](https://drive.google.com/file/d/1uOy6mMopWwre5KM6jDJitTVBqT316KBj/view?usp=sharing)' 
     : ''
 - date: 2022-09-29
   events:
