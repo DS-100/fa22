@@ -10,9 +10,9 @@ days:
     : '[Solution](https://drive.google.com/file/d/1_2bmnA-v__wWQ_oeLHiuL9uZfFaFi7V6/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-09-29
   events:
-    ? '**Lecture 11**{: .label .label-lecture } OLS (multiple regression)'
+    ? '**Lecture 11**{: .label .label-lecture } [OLS (multiple regression)](lecture/lec11)'
     : '[Ch. 15.3-15.4](https://www.textbook.ds100.org/ch/15/linear_multi.html)'
-    ? '**Quick Check 6**{: .label .label-survey } Quick Check 6'
+    ? '**Quick Check 6**{: .label .label-survey } [Quick Check 6](https://www.gradescope.com/courses/422877/assignments/2300738){:target="_blank"} (due Oct 3; release at 11am)'
 - date: 2022-09-30
   events:
     ? '**Lab 6**{: .label .label-lab } OLS'

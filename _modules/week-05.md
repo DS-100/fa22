@@ -12,7 +12,7 @@ days:
   events:
     ? '**Lecture 9**{: .label .label-lecture } [Modeling, SLR](lecture/lec09)'
     : '[Ch. 15.1-15.2](https://www.textbook.ds100.org/ch/15/linear_intro.html)'
-    ? '**Quick Check 5**{: .label .label-survey } [Quick Check 5](https://www.gradescope.com/courses/422877/assignments/2279583) (due Sep 26; release at 11am)'
+    ? '**Quick Check 5**{: .label .label-survey } [Quick Check 5](https://www.gradescope.com/courses/422877/assignments/2279583) (due Sep 26)'
 - date: 2022-09-23
   events:
     ? '**Exam prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1j-zwoQxJT4cFPAglMGqwVo7Hx-lKlIVZ/view?usp=sharing)'
