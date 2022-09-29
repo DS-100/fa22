@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 11 – Gradient Descent, sklearn
 
-Presented by Anirudhan Badrinath and Dominic Liu
+Presented by Will Fithian
 
 Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzalez, Andrew Bray, Josh Hug, Lisa Yan, Ani Adhikari, and Sam Lau
 
