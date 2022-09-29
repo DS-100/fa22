@@ -19,6 +19,5 @@ days:
 - date: 2022-10-21
   events:
     ? '**Lab 9**{: .label .label-lab } Climate'
-    ? '**Project 1B**{: .label .label-hw } Housing II'
     : ''
 ---

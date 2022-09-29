@@ -17,6 +17,6 @@ days:
 - date: 2022-11-04
   events:
     ? '**Lab 11**{: .label .label-lab } PCA'
-    ? '**Homework 9**{: .label .label-hw } PCA'
+    ? '**Homework 8**{: .label .label-hw } PCA'
     : ''
 ---
