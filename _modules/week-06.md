@@ -15,6 +15,7 @@ days:
     ? '**Quick Check 6**{: .label .label-survey } [Quick Check 6](https://www.gradescope.com/courses/422877/assignments/2300738){:target="_blank"} (due Oct 3; release at 11am)'
 - date: 2022-09-30
   events:
+    ? '**Exam prep 4**{: .label .label-vit } [Probability & SLR](https://drive.google.com/file/d/15qSZprfJpMirEFczGctm57VHuQv2KvV_/view?usp=sharing) '
     ? '**Lab 6**{: .label .label-lab } OLS'
     ? '**Homework 6**{: .label .label-hw } Regression (on paper)'
     : ''
