@@ -16,6 +16,7 @@ days:
 - date: 2022-09-30
   events:
     ? '**Exam prep 4**{: .label .label-vit } [Probability & SLR](https://drive.google.com/file/d/15qSZprfJpMirEFczGctm57VHuQv2KvV_/view?usp=sharing) '
+    : '[Solution](https://drive.google.com/file/d/17cfWEQhgb1kuqB9HhYy1SCsaK6TiHdjE/view?usp=sharing)'
     ? '**Lab 6**{: .label .label-lab } [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab06%2Flab06.ipynb) (due Oct 4)'
     ? '**Homework 6**{: .label .label-hw } [Regression](https://drive.google.com/file/d/1yJx0nDHLM7S6NB0-O0dpwmvnfhzFE3uT/view?usp=sharing) (due Oct 6)'
     : ''
