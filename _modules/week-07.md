@@ -4,9 +4,9 @@ weekNumber: 7
 days:
 - date: 2022-10-04
   events:
-    ? '**Lecture 12**{: .label .label-lecture } Gradient descent / sklearn'
+    ? '**Lecture 12**{: .label .label-lecture } [Gradient descent / sklearn](lecture/lec12)'
     : '[Ch. 20](https://www.textbook.ds100.org/ch/20/gradient_descent.html)'
-    ? '**Discussion 6**{: .label .label-disc } TBD' 
+    ? '**Discussion 6**{: .label .label-disc } [Models and OLS](https://drive.google.com/file/d/1p8w4ohY24t_7ajq2F8uWseMdFKzk601s/view?usp=sharing)' 
     : ''
 - date: 2022-10-06
   events:
