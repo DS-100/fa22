@@ -7,7 +7,7 @@ days:
     ? '**Lecture 12**{: .label .label-lecture } [Gradient descent / sklearn](lecture/lec12)'
     : '[Ch. 20](https://www.textbook.ds100.org/ch/20/gradient_descent.html)'
     ? '**Discussion 6**{: .label .label-disc } [Models and OLS](https://drive.google.com/file/d/1p8w4ohY24t_7ajq2F8uWseMdFKzk601s/view?usp=sharing)' 
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1ik5rjfDpCsb6KzM2X_dh2flxiPZH7Vmd/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-10-06
   events:
     ? '**Lecture 13**{: .label .label-lecture } Feature engineering'
