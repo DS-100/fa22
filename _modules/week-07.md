@@ -10,9 +10,9 @@ days:
     : '[Solution](https://drive.google.com/file/d/1ik5rjfDpCsb6KzM2X_dh2flxiPZH7Vmd/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-10-06
   events:
-    ? '**Lecture 13**{: .label .label-lecture } Feature engineering'
+    ? '**Lecture 13**{: .label .label-lecture } [Feature engineering](lecture/lec13)'
     : '[Ch. 15.5](https://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
-    ? '**Quick Check 7**{: .label .label-survey } Quick Check 7'
+    ? '**Quick Check 7**{: .label .label-survey } [Quick Check 7](https://www.gradescope.com/courses/422877/assignments/2321933) (due Oct 10; release at 11am)'
     : ''
 - date: 2022-10-07
   events:

@@ -12,7 +12,7 @@ days:
   events:
     ? '**Lecture 11**{: .label .label-lecture } [OLS (multiple regression)](lecture/lec11)'
     : '[Ch. 15.3-15.4](https://www.textbook.ds100.org/ch/15/linear_multi.html)'
-    ? '**Quick Check 6**{: .label .label-survey } [Quick Check 6](https://www.gradescope.com/courses/422877/assignments/2300738){:target="_blank"} (due Oct 3; release at 11am)'
+    ? '**Quick Check 6**{: .label .label-survey } [Quick Check 6](https://www.gradescope.com/courses/422877/assignments/2300738){:target="_blank"} (due Oct 3)'
 - date: 2022-09-30
   events:
     ? '**Exam prep 4**{: .label .label-vit } [Probability & SLR](https://drive.google.com/file/d/15qSZprfJpMirEFczGctm57VHuQv2KvV_/view?usp=sharing) '
