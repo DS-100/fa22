@@ -17,7 +17,7 @@ days:
 - date: 2022-10-07
   events:
     ? '**Exam prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/13zmdcTi-YU_DJRuSmi8VIrKwKX8JBsgy/view?usp=sharing) '
-    ? '**Lab 7**{: .label .label-lab } Gradient descent / sklearn'
-    ? '**Project 1A**{: .label .label-hw } Housing I'
+    ? '**Lab 7**{: .label .label-lab } [Gradient descent / sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab07%2Flab07.ipynb)'
+    ? '**Project 1A**{: .label .label-hw } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fproj%2Fproj1a%2Fproj1a.ipynb)'
     : ''
 ---
