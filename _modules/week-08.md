@@ -5,7 +5,7 @@ days:
 - date: 2022-10-11
   events:
     ? '**Lecture 14**{: .label .label-lecture } Case Study (HCE): Fairness in Housing Appraisal'
-    ? '**Discussion 7**{: .label .label-disc } TBD' 
+    ? '**Discussion 7**{: .label .label-disc } [Gradient Descent & Feature Engineering](https://drive.google.com/file/d/1yexAf5dfH5l6CV4ynsoYDuaImxFfY5jh/view?usp=sharing)' 
     : ''
 - date: 2022-10-13
   events:
