@@ -16,6 +16,7 @@ days:
     : ''
 - date: 2022-10-07
   events:
+    ? '**Exam prep 5**{: .label .label-vit } [OLS](https://drive.google.com/file/d/13zmdcTi-YU_DJRuSmi8VIrKwKX8JBsgy/view?usp=sharing) '
     ? '**Lab 7**{: .label .label-lab } Gradient descent / sklearn'
     ? '**Project 1A**{: .label .label-hw } Housing I'
     : ''
