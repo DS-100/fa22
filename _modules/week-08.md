@@ -4,8 +4,8 @@ weekNumber: 8
 days:
 - date: 2022-10-11
   events:
-    ? '**Lecture 14**{: .label .label-lecture } Case Study (HCE): Fairness in Housing Appraisal'
-    ? '**Discussion 7**{: .label .label-disc } [Gradient Descent & Feature Engineering](https://drive.google.com/file/d/1yexAf5dfH5l6CV4ynsoYDuaImxFfY5jh/view?usp=sharing)' 
+    ? '**Lecture 14**{: .label .label-lecture } [Case Study (HCE): Fairness in Housing Appraisal](lecture/lec14)'
+    ? '**Discussion 7**{: .label .label-disc } [Gradient Descent & Feature Engineering](https://drive.google.com/file/d/1yexAf5dfH5l6CV4ynsoYDuaImxFfY5jh/view?usp=sharing), [Housing I](https://drive.google.com/file/d/1Je-UhThryavR6JYve6g681fF2RRjclW0/view?usp=sharing)' 
     : ''
 - date: 2022-10-13
   events:
