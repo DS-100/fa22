@@ -6,7 +6,7 @@ days:
   events:
     ? '**Lecture 14**{: .label .label-lecture } [Case Study (HCE): Fairness in Housing Appraisal](lecture/lec14)'
     ? '**Discussion 7**{: .label .label-disc } [Gradient Descent & Feature Engineering](https://drive.google.com/file/d/1yexAf5dfH5l6CV4ynsoYDuaImxFfY5jh/view?usp=sharing), [Housing I](https://drive.google.com/file/d/1Je-UhThryavR6JYve6g681fF2RRjclW0/view?usp=sharing)' 
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1mdKPBSE2m_EBv3DEIvRNaNN4ZHubCY7B/view?usp=sharing), [Housing I Solution](https://drive.google.com/file/d/1n1ZCba1u3AWzC-uSwtAN8iBWZUZ4imx3/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-10-13
   events:
     ? '**Lecture 15**{: .label .label-lecture } Cross-validation + Regularization'
