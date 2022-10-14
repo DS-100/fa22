@@ -11,11 +11,11 @@ days:
   events:
     ? '**Lecture 15**{: .label .label-lecture } [Cross-validation + Regularization](lecture/lec15)'
     : '[Ch. A6](https://www.textbook.ds100.org/ch/a06/reg_intro.html), [A5.3](https://www.textbook.ds100.org/ch/a05/bias_cv.html)'
-    ? '**Quick Check 8**{: .label .label-survey } [Quick Check 8](https://www.gradescope.com/courses/422877/assignments/2345436) (due Oct 17; release at 11am)'
+    ? '**Quick Check 8**{: .label .label-survey } [Quick Check 8](https://www.gradescope.com/courses/422877/assignments/2345436) (due Oct 17)'
     : ''
 - date: 2022-10-14
   events:
-    ? '**Lab 8**{: .label .label-lab } Model Selection, Regularization, and Cross-Validation'
+    ? '**Lab 8**{: .label .label-lab } [Model Selection, Regularization, and Cross-Validation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab08%2Flab08.ipynb) (due Oct 18)'
     ? '**Project 1B**{: .label .label-hw } Housing II'
     : ''
 ---
