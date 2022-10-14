@@ -12,7 +12,7 @@ days:
   events:
     ? '**Lecture 13**{: .label .label-lecture } [Feature engineering](lecture/lec13)'
     : '[Ch. 15.5](https://www.textbook.ds100.org/ch/15/linear_feature_eng.html)'
-    ? '**Quick Check 7**{: .label .label-survey } [Quick Check 7](https://www.gradescope.com/courses/422877/assignments/2321933) (due Oct 10; release at 11am)'
+    ? '**Quick Check 7**{: .label .label-survey } [Quick Check 7](https://www.gradescope.com/courses/422877/assignments/2321933) (due Oct 10)'
     : ''
 - date: 2022-10-07
   events:

@@ -9,9 +9,9 @@ days:
     : '[Solution](https://drive.google.com/file/d/1mdKPBSE2m_EBv3DEIvRNaNN4ZHubCY7B/view?usp=sharing), [Housing I Solution](https://drive.google.com/file/d/1n1ZCba1u3AWzC-uSwtAN8iBWZUZ4imx3/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-10-13
   events:
-    ? '**Lecture 15**{: .label .label-lecture } Cross-validation + Regularization'
+    ? '**Lecture 15**{: .label .label-lecture } [Cross-validation + Regularization](lecture/lec15)'
     : '[Ch. A6](https://www.textbook.ds100.org/ch/a06/reg_intro.html), [A5.3](https://www.textbook.ds100.org/ch/a05/bias_cv.html)'
-    ? '**Quick Check 8**{: .label .label-survey } Quick Check 8'
+    ? '**Quick Check 8**{: .label .label-survey } [Quick Check 8](https://www.gradescope.com/courses/422877/assignments/2345436) (due Oct 17; release at 11am)'
     : ''
 - date: 2022-10-14
   events:
