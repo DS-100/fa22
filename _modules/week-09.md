@@ -4,7 +4,7 @@ weekNumber: 9
 days:
 - date: 2022-10-18
   events:
-    ? '**Lecture 16**{: .label .label-lecture } Climate & Physical Data'
+    ? '**Lecture 16**{: .label .label-lecture } [Climate & Physical Data](lecture/lec16)'
     ? '**Discussion 8**{: .label .label-disc } [CV and Regularization](https://drive.google.com/file/d/12-Dq7NTdXA5wKf3HmzmX-RfRAluwmsM4/view?usp=sharing)' 
     : ''
 - date: 2022-10-19
