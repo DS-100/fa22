@@ -16,6 +16,6 @@ days:
 - date: 2022-10-14
   events:
     ? '**Lab 8**{: .label .label-lab } [Model Selection, Regularization, and Cross-Validation](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab08%2Flab08.ipynb) (due Oct 18)'
-    ? '**Project 1B**{: .label .label-hw } Housing II'
+    ? '**Project 1B**{: .label .label-hw } [Housing II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fproj%2Fproj1b%2Fproj1b.ipynb) (due Oct 27)'
     : ''
 ---
