@@ -13,8 +13,8 @@ days:
     : ''
 - date: 2022-10-20
   events:
-    ? '**Lecture 17**{: .label .label-lecture } Causality'
-    ? '**Quick Check 9**{: .label .label-survey } Quick Check 9'
+    ? '**Lecture 17**{: .label .label-lecture } Probability I'
+    ? '**Quick Check 9**{: .label .label-survey } [Quick Check 9](https://www.gradescope.com/courses/422877/assignments/2364500) (due Oct 24; release at 11)'
     : ''
 - date: 2022-10-21
   events:
