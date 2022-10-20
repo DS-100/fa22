@@ -175,6 +175,121 @@ You can access all the data within the `Topic 3/Dataset B` directory on Google D
 - `fitness_recommendation.txt` contains a link to access the fitness data from sequential sensors for various workouts. ([documentation](https://sites.google.com/eng.ucsd.edu/fitrec-project/home))
 - `amazon_reviews.txt` contains a link to access the data on a subset of Amazon product reviews. The report includes metadata such as ratings and text on the reviews and general information about the product. ([documentation](https://nijianmo.github.io/amazon/index.html))
 
+## Report Format and Submission
+The project submission should include the following two components.
+
+### [Component 1] Analysis Notebooks
+
+The Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in the narrative PDF. Make sure that all references to datasets are done as `data/[path to data files]`. You can copy the datasets from Google Drive into `data/` at the top-level directory for your project on DataHub to do this.
+
+Your analysis notebook(s) should address all of the following components in the data science lifecycle. Please note that a thorough explanation of your thought process and approach is **as important as** your work. We have provided a few preliminary questions/tips you can think about for each part:
+- **Data Sampling and Collection**
+  - How were the data collected?
+  - Was there any potential bias introduced in the sampling process?
+- **Data Cleaning**
+  - What type of data are you currently exploring?
+  - What is the granularity of the data?
+  - What does the distribution of the data look like? Are there any outliers? Are there any missing or invalid entries?
+- **Exploratory Data Analysis**
+  - Is there any correlation between the variables you are interested in exploring?
+  - How would you cleanly and accurately visualize the relationship among variables?
+- **Data Modeling and Inferences**
+  - Please note that the following datasets have a data modeling requirement, i.e. you need to utilize at least 1 machine learning model we teach in this class in your project: Topic 1 - Dataset A, Topic 1 - Dataset C, Topic 2 - Dataset A, Topic 3 - Dataset A, Topic 3 - Dataset B. For datasets not mentioned above, you are welcome to continue building machine learning model(s). Otherwise, we will be placing more
+  emphasis on the inference part instead.
+  - Here are a few components your notebook must address if your focus is on modeling:
+    - What type of machine learning problem are you investigating?
+    - What model do you plan on using and why?
+    - Does your model require hyperparameter tuning? If so, how do you approach it?
+    - How do you engineer the features for your model? What are the rationales behind selecting these features?
+    - How do you perform cross validation on your model?
+    - What loss metrics are you using to evaluate your model?
+    - From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
+    - How would you improve your model based on the outcome?
+  - If you are choosing to pursue your research question from an inference angle
+    - Your notebook must demonstrate sufficient analysis and visualization to support your conclusion. 
+    - You must have a clearly constructed hypothesis test (including a clearly defined test statistic, significance level, and justification of chosen procedure)
+    - We will not restrict you to the type of statistical test you conduct as there are many different statistical techniques that may apply to your case. However, we also ask that you provide detailed justification for the techniques you choose and how it allows you make those inferences.
+
+### [Component 2] Project Writeup
+
+This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions.
+
+If you wish, you can render the PDF using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks.
+
+Specifically, you should address the following in the narrative:
+
+* Clearly stated research questions and why they are interesting and important. You must include **at least one research question involving at least one or more datasets from one of the topics we provided**, but you may include additional research questions about each individual dataset. At least one of your research questions has to include a modeling component, e.g., can we build a model using climate data to predict growth in COVID-19 cases accurately?
+* A brief survey of related work on the topic(s) of your analysis and how your project differs from or complements existing research.
+* If applicable, descriptions of additional datasets that you gathered to support your analysis.
+* Methodology: carefully describe the methods you use and why they are appropriate for answering your search questions. It must include
+    * a brief overview of causal inference, which should be written in a way such that another student in Data 100 who has never been exposed to the concept can carry out the analyses involving the datasets in your project.
+    * a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
+* _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
+* _Interesting findings_* involving your datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
+* Analysis of your findings to answer your research question(s). Include visualizations and specific results. If your research questions contain a modeling component, you must compare the results using different inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
+* An evaluation of your approach and discuss any limitations of the methods you used.
+* Describe any surprising discoveries that you made and future work.
+
+\* Examples of **interesting findings**: interesting data distributions and trends, correlations between different features, the relationship between the data distribution for the general population and specific datasets (e.g., the gender distribution in the census dataset vs. in the mental health dataset), specific features that are notably effective/ineffective for prediction.
+
+The narrative PDF should include figures sparingly to support specific claims. It can include runnable components, but it should not have large amounts of code. The length of the report should be 8 ± 2 pages when it is printed as a PDF, excluding figures and code.
+
+Tip: if you need to write a large amount of $\LaTeX$, you may want to use the `%%latex` cell magic.
+
+Please submit everything as a zip file to the final report submission portal on Gradescope. Please make sure the folder in the zip file has the following structure:
+
+```
+studentIDs/
+    data/[all datasets used]
+    analysis/[analysis notebooks]
+    narrative/[narrative PDF]
+    figures/[figures included in the narrative PDF]
+```
+
+For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
+
+## Rubrics
+### Peer Review
+
+Each group will peer review the projects from another group. The review will be graded by staff out of a total of 15 points. Each review should include the following components:
+
+1. (5 points) A summary of the report. The summary should address at least the following:
+  - What research question does the group propose? Why is it important?
+  - How does the dataset relate to the research question?
+  - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
+  - What are the next steps a researcher can take if they want to investigate the question further based off the work in the project?
+
+2. (10 points, 2 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
+  - Data collection and sampling
+  - Data cleaning
+  - Exploratory data analysis (data wrangling, visualization, etc.)
+  - Data modeling (feature engineering, selection of the model, and evaluation of the model's performance, etc.)
+  - Inference (do the results from the model sufficiently support the conclusion within the report?)
+
+### Final Report: Analysis Notebook
+
+| Criterion                                             | Points|
+|-------------------------------------------------------|-------|
+| Code readability and documentation                    | 5     |
+| Proper and sufficient utilization of Python libraries | 5     |
+| Overall code quality                                  | 3     |
+| Replicability of the results                          | 7     |
+| **Total**                                             | **20**|
+
+### Final Report: Project Writeup
+
+| Criterion                                                              | Points|
+|------------------------------------------------------------------------|-------|
+| Introduction, motivation, and presentation of the research question(s) | 3     |
+| Exploratory data analysis                                              | 5     |
+| Modeling and inference techniques                                      | 7     |
+| Analysis of results                                                    | 7     |
+| Implementation of peer review feedback                                 | 3     |
+| Discussion of potential societal impacts and/or ethical concerns       | 2     |
+| Overall clarity and structure of the report                            | 3     |
+| **Total**                                                              | **30**|
+
+
 ## Extra Resources: Causal Inference
 
 When studying the relationship between datasets, you might want to consult the following references on causality vs. correlation. Oftentimes, it is tempting to make claims about causal relationships when there is not enough evidence from the data to support such claims. Please review the following references, or other reputable references that you find on the topic to familiarize yourself with relevant concepts and methods.
