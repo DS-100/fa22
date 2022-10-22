@@ -18,6 +18,6 @@ days:
     : ''
 - date: 2022-10-21
   events:
-    ? '**Lab 9**{: .label .label-lab } Climate'
+    ? '**Lab 9**{: .label .label-lab } [Climate](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab09%2Flab09.ipynb) (due Oct 25)'
     : ''
 ---
