@@ -11,12 +11,12 @@ days:
     : ''
 - date: 2022-11-03
   events:
-    ? '**Lecture 21**{: .label .label-lecture } PCA'
-    : '[Ch. 22](https://www.textbook.ds100.org/ch/22/pca_intro.html)'
+    ? '**Lecture 21**{: .label .label-lecture } SQL II and Cloud Data'
+    : '[Ch. 7.3-7.4](https://www.textbook.ds100.org/ch/07/sql_joining.html)'
     ? '**Quick Check 11**{: .label .label-survey } Quick Check 11'
 - date: 2022-11-04
   events:
-    ? '**Lab 11**{: .label .label-lab } PCA'
-    ? '**Homework 8**{: .label .label-hw } PCA'
+    ? '**Lab 11**{: .label .label-lab } SQL'
+    ? '**Homework 8**{: .label .label-hw } SQL'
     : ''
 ---
