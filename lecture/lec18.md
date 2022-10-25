@@ -12,4 +12,4 @@ Content by Fernando Pérez, Alvin Wan, Suraj Rampure, Allen Shen, Joseph Gonzale
 
 - [slides](https://docs.google.com/presentation/d/1DrBevgrfAV54W4NPuxQPTNuLB1GNnPk7Q-iLbV_c78Y/edit?usp=sharing){:target="_blank"}
 - no code
-- recording
+- [recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985){:target="_blank"}
