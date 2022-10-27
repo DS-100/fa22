@@ -11,7 +11,7 @@ days:
 - date: 2022-10-27
   events:
     ? '**Lecture 19**{: .label .label-lecture } [Causal Inference and Confounding](lecture/lec19)'
-    ? '**Quick Check 10**{: .label .label-survey } Quick Check 10'
+    ? '**Quick Check 10**{: .label .label-survey } [Quick Check 10](https://www.gradescope.com/courses/422877/assignments/2386762) (due Oct 31)'
 - date: 2022-10-28
   events:
     ? '**Lab 10**{: .label .label-lab } Probability & Modeling'

@@ -15,7 +15,7 @@ days:
   events:
     ? '**Lecture 17**{: .label .label-lecture } [Probability I](lecture/lec17)'
     : '[Ch. 3.2-3.5](https://www.textbook.ds100.org/ch/03/theory_election.html), [16.3](https://www.textbook.ds100.org/ch/16/prob_random_vars.html)'
-    ? '**Quick Check 9**{: .label .label-survey } [Quick Check 9](https://www.gradescope.com/courses/422877/assignments/2364500) (due Oct 24; release at 11)'
+    ? '**Quick Check 9**{: .label .label-survey } [Quick Check 9](https://www.gradescope.com/courses/422877/assignments/2364500) (due Oct 24)'
     : ''
 - date: 2022-10-21
   events:
