@@ -10,7 +10,7 @@ days:
     : '[Solution](https://drive.google.com/file/d/1aYlRja7weznHBY1MQDNkl-jUtSEKJ7hq/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-10-27
   events:
-    ? '**Lecture 19**{: .label .label-lecture } Causality'
+    ? '**Lecture 19**{: .label .label-lecture } [Causal Inference and Confounding](lecture/lec19)'
     ? '**Quick Check 10**{: .label .label-survey } Quick Check 10'
 - date: 2022-10-28
   events:
