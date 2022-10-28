@@ -23,7 +23,7 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 
 | Semester | Midterm (1) | Midterm 2  | Final | Reference Sheet |
 | -- | -- | -- | -- | -- |
-|Fall 2022||||[Midterm](assets/exams/fa22/fa22_mt_reference_sheet.pdf)|
+|Fall 2022| [Exam](assets/exams/fa22/fa22_mt.pdf)[(Solutions)]((assets/exams/fa22/fa22_mt_sol.pdf))|||[Midterm](assets/exams/fa22/fa22_mt_reference_sheet.pdf)|
 | Summer 2022 | [Exam](assets/exams/su22/su22_mt.pdf) [(Solutions)](assets/exams/su22/su22_mt_sol.pdf)| | [Exam](assets/exams/su22/su22_final.pdf) [(Solutions)](assets/exams/su22/su22_final_sol.pdf) | [Midterm](assets/exams/su22/su22_mt_reference_sheet.pdf), [Final](assets/exams/su22/su22_final_reference_sheet.pdf)
 | Spring 2022 | [Exam](assets/exams/sp22/sp22_mt1.pdf) [(Solutions)](assets/exams/sp22/sp22_mt1_sol.pdf) |  [Exam](assets/exams/sp22/sp22_mt2.pdf) [(Solutions)](assets/exams/sp22/sp22_mt2_sol.pdf) | [Exam](assets/exams/sp22/sp22_final.pdf) [(Solutions)](assets/exams/sp22/sp22_final_sol.pdf)  | [Midterm 1](assets/exams/sp22/mt1_reference_sheet.pdf), [Midterm 2](assets/exams/sp22/mt2_reference_sheet.pdf), [Final](assets/exams/sp22/Final_reference_sheet.pdf)
 | Fall 2021 | [Exam](assets/exams/fa21/fa21mt.pdf) [(Solutions)](assets/exams/fa21/fa21mtsol.pdf) |  |  |
