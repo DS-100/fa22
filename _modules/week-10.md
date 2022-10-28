@@ -16,5 +16,6 @@ days:
   events:
     ? '**Lab 10**{: .label .label-lab } Probability & Modeling'
     ? '**Homework 7**{: .label .label-hw } Probability'
+    ? '**Exam prep 6**{: .label .label-vit } [Probability](https://drive.google.com/file/d/1JXNZ-8QpQc9FW27Buv-HJTLtOYL2kyLB/view?usp=sharing)'
     : ''
 ---
