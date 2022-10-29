@@ -14,8 +14,8 @@ days:
     ? '**Quick Check 10**{: .label .label-survey } [Quick Check 10](https://www.gradescope.com/courses/422877/assignments/2386762) (due Oct 31)'
 - date: 2022-10-28
   events:
-    ? '**Lab 10**{: .label .label-lab } Probability & Modeling'
-    ? '**Homework 7**{: .label .label-hw } Probability'
+    ? '**Lab 10**{: .label .label-lab } [Probability & Modeling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab10%2Flab10.ipynb)'
+    ? '**Homework 7**{: .label .label-hw } [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw07%2Fhw07.ipynb)'
     ? '**Exam prep 6**{: .label .label-vit } [Probability](https://drive.google.com/file/d/1JXNZ-8QpQc9FW27Buv-HJTLtOYL2kyLB/view?usp=sharing)'
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1X3XCrCtvrcHrv7MoCtIcI4jc8d71NsYK/view?usp=sharing)'
 ---
