@@ -6,7 +6,7 @@ days:
   events:
     ? '**Lecture 20**{: .label .label-lecture } SQL I'
     : '[Ch. 7.1-7.2](https://www.textbook.ds100.org/ch/07/sql_subsetting.html), [7.5](https://www.textbook.ds100.org/ch/07/sql_other_reps.html)'
-    ? '**Discussion 10**{: .label .label-disc } TBD' 
+    ? '**Discussion 10**{: .label .label-disc } [Bias and Variance](https://drive.google.com/file/d/1Eo0XNeBcPFK6ejlZGh7PMQrw83rGLXM0/view?usp=sharing)' 
     
     : ''
 - date: 2022-11-03
