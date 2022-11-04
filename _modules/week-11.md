@@ -17,5 +17,6 @@ days:
   events:
     ? '**Lab 11**{: .label .label-lab } SQL'
     ? '**Homework 8**{: .label .label-hw } SQL'
+    ? '**Exam prep 7**{: .label .label-vit } Bias and Variance'
     : ''
 ---
