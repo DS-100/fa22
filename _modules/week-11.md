@@ -18,5 +18,5 @@ days:
     ? '**Lab 11**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab11%2Flab11.ipynb)'
     ? '**Homework 8**{: .label .label-hw } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw08%2Fhw08.ipynb)'
     ? '**Exam prep 7**{: .label .label-vit } [Bias and Variance](https://drive.google.com/file/d/1_-AD-RcODlVAht9GGwsTyi_02fuulWP-/view?usp=sharing)'
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1wNBv3bxk8FqiNXW1Zr5VP1KjwFloATgR/view?usp=sharing)'
 ---
