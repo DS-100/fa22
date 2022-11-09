@@ -7,7 +7,7 @@ days:
     ? '**Lecture 22**{: .label .label-lecture } [PCA](lecture/lec22)'
     : '[Ch. 22](https://www.textbook.ds100.org/ch/22/pca_intro.html)'
     ? '**Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1uuw7DOnSeM84v3yR5Ey9zWPvqq86GV6K/view?usp=sharing)' 
-    : ''
+    : '[Solution](https://drive.google.com/file/d/1IGkkl3QJzZiXHWEyENWCmZyHNDr0DUwU/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-11-10
   events:
     ? '**Lecture 23**{: .label .label-lecture } Environmental DS'
