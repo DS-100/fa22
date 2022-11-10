@@ -10,8 +10,8 @@ days:
     : '[Solution](https://drive.google.com/file/d/1IGkkl3QJzZiXHWEyENWCmZyHNDr0DUwU/view?usp=sharing), [Recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985)'
 - date: 2022-11-10
   events:
-    ? '**Lecture 23**{: .label .label-lecture } Environmental DS'
-    ? '**Quick Check 12**{: .label .label-survey } Quick Check 12'
+    ? '**Lecture 23**{: .label .label-lecture } [Environmental DS](lecture/lec23)'
+    ? '**Quick Check 12**{: .label .label-survey } [Quick Check 12](https://www.gradescope.com/courses/422877/assignments/2425375)'
 - date: 2022-11-11
   events:
     ? '**Lab 12**{: .label .label-lab } PCA'
