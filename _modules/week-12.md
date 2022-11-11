@@ -15,7 +15,7 @@ days:
 - date: 2022-11-11
   events:
     ? '**Lab 12**{: .label .label-lab } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Flab%2Flab12%2Flab12.ipynb) (due Nov 15)'
-    ? '**Homework 9**{: .label .label-hw } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw09%2Fhw09.ipynb) (due Nov 19)'
+    ? '**Homework 9**{: .label .label-hw } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa22&branch=main&urlpath=lab%2Ftree%2Ffa22%2Fhw%2Fhw09%2Fhw09.ipynb) (due Nov 17)'
     ? '**Exam prep 8**{: .label .label-vit } [Pandas2SQL](https://drive.google.com/file/d/1VIYKJUMdJ53iOEzzQN1G_Sh0PPNgQq8E/view?usp=sharing)'
     : '[Solution](https://drive.google.com/file/d/1vXkvuR4I6U9kmC5gxCc5eG3151o-xgaN/view?usp=sharing)'
 ---
