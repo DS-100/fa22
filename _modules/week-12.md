@@ -16,5 +16,6 @@ days:
   events:
     ? '**Lab 12**{: .label .label-lab } PCA'
     ? '**Homework 9**{: .label .label-hw } PCA'
-    : ''
+    ? '**Exam prep 8**{: .label .label-vit } [Pandas2SQL](https://drive.google.com/file/d/1VIYKJUMdJ53iOEzzQN1G_Sh0PPNgQq8E/view?usp=sharing)'
+    : '[Solution](https://drive.google.com/file/d/1vXkvuR4I6U9kmC5gxCc5eG3151o-xgaN/view?usp=sharing)'
 ---
