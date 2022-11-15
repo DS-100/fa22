@@ -9,7 +9,7 @@ nav_exclude: true
 Presented by Fernando Pérez
 
 - [slides](https://docs.google.com/presentation/d/1NAA6UtRWEc0gol_EvAH1Rp8BdhBRJe6L20I1wwOiCJU){:target="_blank"}
-- [code](https://github.com/DS-100/fa22/blob/main/lec/lec24/lec24.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&subPath=lec/lec24/){:target="_blank"})
+- [code](https://github.com/DS-100/fa22/blob/main/lec/lec24/lec24.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&urlpath=lab/tree/fa22/lec/lec24/){:target="_blank"})
 - [code HTML](../../resources/assets/lectures/lec24/lec24.html){:target="_blank"}
 <!--
 - [recording](https://youtu.be/RLQ2Qzx9f1Q){:target="_blank"}
