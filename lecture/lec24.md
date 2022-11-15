@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Lecture 24 – Clustering
+title: Lecture 24 – Logistic Regression I
 nav_exclude: true
 ---
 
-# Lecture 24 – Clustering
+# Lecture 24 – Logistic Regression I
 
-Presented by Josh Hug
+Presented by Fernando Pérez
 
-Content by Josh Hug
-
-- [slides](https://docs.google.com/presentation/d/1qYThwhMXKjCH390AQ29Ob27bUDjV5DWBTmGEzby-Bto/edit?usp=sharing){:target="_blank"}
-- [code](https://github.com/DS-100/sp22/blob/main/lec/lec24/lec24.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp22&subPath=lec/lec24/){:target="_blank"})
+- [slides](https://docs.google.com/presentation/d/1NAA6UtRWEc0gol_EvAH1Rp8BdhBRJe6L20I1wwOiCJU){:target="_blank"}
+- [code](https://github.com/DS-100/fa22/blob/main/lec/lec24/lec24.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&subPath=lec/lec24/){:target="_blank"})
 - [code HTML](../../resources/assets/lectures/lec24/lec24.html){:target="_blank"}
+<!--
 - [recording](https://youtu.be/RLQ2Qzx9f1Q){:target="_blank"}
+--> 
 
 <!--
 A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.

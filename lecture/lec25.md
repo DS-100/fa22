@@ -1,15 +1,19 @@
 ---
 layout: page
-title: Lecture 25 – Guest Speaker Amol Deshpande - Data Regulations
+title: Lecture 25 – Logistic Regression II
 nav_exclude: true
 ---
 
-# Lecture 25 - Data Regulations
+# Lecture 25 – Logistic Regression II
 
-Presented by Amol Deshpande
+Presented by Fernando Pérez
 
-- [slides](https://drive.google.com/file/d/1-N3YdXwyjJxalioJPVSz5qVuyigqzAJo/view?usp=sharing){:target="_blank"}
-- [recording](https://youtu.be/zdeD-lCpmE8){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/15S0oBS_HA_okqR2DX2PWElghdPEFB3L39umw1xLvIKU){:target="_blank"}
+- [code](https://github.com/DS-100/fa22/blob/main/lec/lec25/lec25.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&subPath=lec/lec25/){:target="_blank"})
+- [code HTML](../../resources/assets/lectures/lec25/lec25.html){:target="_blank"}
+<!--
+- [recording](https://youtu.be/RLQ2Qzx9f1Q){:target="_blank"}
+--> 
 
 <!-- A reminder – the right column of the table below contains _Quick Checks_. These are **not** required but suggested to help you check your understanding.
 
