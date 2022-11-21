@@ -7,7 +7,7 @@ days:
     ? '**Lecture 26**{: .label .label-lecture } Decision Trees'
     : '[Ch. 23](https://www.textbook.ds100.org/ch/23/dtrees_intro.html)'
     ? '**Discussion 13**{: .label .label-disc } TBD' 
-    ? '**Lab 13**{: .label .label-lab } Decision Trees & Random Forests'
+    ? '**Lab 14**{: .label .label-lab } Decision Trees & Random Forests'
     ? '**Project 2B**{: .label .label-hw } Spam & Ham II'
     : ''
 - date: 2022-11-24
