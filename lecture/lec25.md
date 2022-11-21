@@ -11,7 +11,7 @@ Presented by Fernando Pérez
 - [slides](https://docs.google.com/presentation/d/15S0oBS_HA_okqR2DX2PWElghdPEFB3L39umw1xLvIKU){:target="_blank"}
 - [code](https://github.com/DS-100/fa22/blob/main/lec/lec25/lec25.ipynb) ([launch](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&urlpath=lab/tree/fa22/lec/lec25/lec25.ipynb){:target="_blank"})
 - [code HTML](../../resources/assets/lectures/lec25/lec25.html){:target="_blank"}
-
+- [recording](https://bcourses.berkeley.edu/courses/1518286/external_tools/78985){:target="_blank"}
 <!--
 - [recording](https://youtu.be/RLQ2Qzx9f1Q){:target="_blank"}
 --> 
