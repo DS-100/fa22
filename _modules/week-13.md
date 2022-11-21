@@ -15,7 +15,7 @@ days:
     ? '**Quick Check 13**{: .label .label-survey } Quick Check 13'
 - date: 2022-11-18
   events:
-    ? '**Lab 13**{: .label .label-lab } Logistic regression'
-    ? '**Project 2A**{: .label .label-hw } Spam & Ham I'
+    ? '**Lab 13**{: .label .label-lab } [Logistic regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&urlpath=lab/tree/fa22/lab/lab13/lab13.ipynb)'
+    ? '**Project 2A**{: .label .label-hw } [Spam & Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&urlpath=lab/tree/fa22/proj/proj2a/proj2a.ipynb)'
     : ''
 ---
