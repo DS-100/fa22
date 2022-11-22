@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Lecture 26 – SQL II
+title: Lecture 26 – Decision Trees
 nav_exclude: true
 ---
 
-# Lecture 26 - SQL II
+# Lecture 26 - Decision Trees
 
-- [recording](https://youtu.be/iW5_xyRmEdg){:target="_blank"}
-- Parallel Data Analytics, by Matei Zaharia [slides](../../resources/assets/lectures/lec26/data100-spark.pdf){:target="_blank"}
-- Conclusion, by Lisa Yan and Josh Hug [slides](https://docs.google.com/presentation/d/1ScuD4Cdf75sbScMMZphLdknja7ugzSW6e-7hQhv8K04/edit?usp=sharing){:target="_blank"}
+To be presented by Will Fithian (postponed due to illness)
+
+- [slides](https://docs.google.com/presentation/d/15S0oBS_HA_okqR2DX2PWElghdPEFB3L39umw1xLvIKU){:target="_blank"}
 
 
 <!--
