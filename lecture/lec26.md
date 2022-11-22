@@ -8,7 +8,7 @@ nav_exclude: true
 
 To be presented by Will Fithian (postponed due to illness)
 
-- [slides](https://docs.google.com/presentation/d/15S0oBS_HA_okqR2DX2PWElghdPEFB3L39umw1xLvIKU){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/11bDiNuEQxlGfkaxZH-BxIwF55WKJ6ogGugXUOIEqKR8){:target="_blank"}
 
 
 <!--
