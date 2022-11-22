@@ -4,7 +4,7 @@ weekNumber: 14
 days:
 - date: 2022-11-22
   events:
-    ? '**Lecture 26**{: .label .label-lecture } Decision Trees(lecture/lec26)'
+    ? '**Lecture 26**{: .label .label-lecture } [Decision Trees](lecture/lec26)'
     : '[Ch. 23](https://www.textbook.ds100.org/ch/23/dtrees_intro.html)'
     ? '**Discussion 13**{: .label .label-disc } TBD' 
     ? '**Lab 14**{: .label .label-lab } [Decision Trees & Random Forests](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa22&urlpath=lab/tree/fa22/lab/lab14/lab14.ipynb)'
