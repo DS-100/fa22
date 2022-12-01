@@ -9,7 +9,8 @@ nav_exclude: true
 To be presented by Will Fithian (postponed due to illness)
 
 - [slides](https://docs.google.com/presentation/d/11bDiNuEQxlGfkaxZH-BxIwF55WKJ6ogGugXUOIEqKR8){:target="_blank"}
-
+-
+[Last year's Decision Trees lecture by Josh Hug including video, slides and code](https://ds100.org/sp22/lecture/lec23/){:target="_blank"}
 
 <!--
 - [slides](https://docs.google.com/presentation/d/1WvZQxcuKNkyJDlG-eLWneZ2Pzxxg8A7x1CVSTF6ekjE/edit?usp=sharing)
