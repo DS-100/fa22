@@ -11,5 +11,5 @@ days:
     : ''
 - date: 2022-12-01
   events:
-    ? '**Lecture 28**{: .label .label-lecture } Closing Lecture'
+    ? '**Lecture 28**{: .label .label-lecture } [Closing Lecture: end of course logistics](lecture/lec28)'
 ---
