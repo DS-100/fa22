@@ -7,7 +7,7 @@ description: >-
 markdown: kramdown
 course:
     edstem: https://edstem.org/us/courses/25695/
-    faq: https://ds100.org/fa22faq
+    faq: https://ds100.org/faqs/fa22
     bcourses: ""
     head_ta_1: Kanu Grover 
     head_1_email: grover.kanu@berkeley.edu
