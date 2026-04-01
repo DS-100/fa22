@@ -18,6 +18,9 @@ course:
     email: data100.instructors@berkeley.edu
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Syllabus
 {:.no_toc}
 

@@ -6,6 +6,10 @@ nav_exclude: false
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 ---
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Graduate Project
 {:.no_toc}
 
